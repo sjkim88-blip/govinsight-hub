@@ -1,0 +1,1948 @@
+[
+  {
+    "id": "nrf_021616_1",
+    "axis": "지원사업",
+    "name": "2026년 한국 이공계 여성대학원생 미국 연수프로그램",
+    "sub": "(인력교류) 미국_여성대학원생",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-30",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021616",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S002942",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S001799",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_020939_1",
+    "axis": "지원사업",
+    "name": "2026-2027년도 양자연구교류지원사업(베트남, 벨기에, 브라질, 체코, 태국, 튀르키예, 프랑스) 신규과제 공모",
+    "sub": "(국제) 양자연구교류지원사업",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-07-01",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "020939",
+      "bsnsYy": "2027",
+      "sorgnBsnsCd": "S002857",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S002836",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "tipa_021935_1",
+    "axis": "지원사업",
+    "name": "2026년도 디지털기반 중소사업장 산재예방 기술개발 지원사업 시행계획 공고",
+    "sub": "디지털기반중소제조산재예방기술개발(R&D)",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "중소기업기술정보진흥원",
+    "deadline": "2026-07-02",
+    "src": "TIPA",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021935",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S050483",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S050482",
+      "sorgnId": "10003"
+    },
+    "tags": [
+      {
+        "text": "#TIPA",
+        "type": "ministry"
+      },
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "kistep_017852_1",
+    "axis": "지원사업",
+    "name": "IRIS-기관 시스템 협약변경 연계 TEST",
+    "sub": "중소벤처24 연계 테스트 및 연구장비 사업(TEST)",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국과학기술기획평가원",
+    "deadline": "2027-12-31",
+    "src": "KISTEP",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "017852",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S051449",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S050499",
+      "sorgnId": "10000"
+    },
+    "tags": [
+      {
+        "text": "#KISTEP",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_021854_1",
+    "axis": "지원사업",
+    "name": "2026년도 연구안보역량강화",
+    "sub": "(협력활동) 연구안보역량강화",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-24",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021854",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S051384",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S001799",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_021876_1",
+    "axis": "지원사업",
+    "name": "2026년도 양자컴퓨팅기반양자이득도전연구사업 신규과제 공모",
+    "sub": "양자컴퓨팅기반양자이득도전연구",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-22",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021876",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S002476",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S002471",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "kiat_021877_5",
+    "axis": "지원사업",
+    "name": "2026년도 3차 산업혁신기반구축사업 시행계획 공고",
+    "sub": "산업혁신기반구축",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상부",
+    "agency": "한국산업기술진흥원",
+    "deadline": "2026-06-22",
+    "src": "KIAT",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021877",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S048665",
+      "bsnsAncmSn": "5",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S048616",
+      "sorgnId": "10006"
+    },
+    "tags": [
+      {
+        "text": "#KIAT",
+        "type": "ministry"
+      },
+      {
+        "text": "#산업부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "tipa_021659_19",
+    "axis": "지원사업",
+    "name": "2026년도 중소기업기술혁신개발사업 중소기업유망기술개발(소부장) 하반기(2차) 시행계획 공고",
+    "sub": "★중소기업기술혁신개발사업(중소기업유망기술개발)",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "중소기업기술정보진흥원",
+    "deadline": "2026-06-15",
+    "src": "TIPA",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021659",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S050967",
+      "bsnsAncmSn": "19",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S003453",
+      "sorgnId": "10003"
+    },
+    "tags": [
+      {
+        "text": "#TIPA",
+        "type": "ministry"
+      },
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "tipa_021657_4",
+    "axis": "지원사업",
+    "name": "2026년도 중소기업기술혁신개발사업 글로벌선도기술개발(수출지향형) 하반기(2차) 시행계획 공고",
+    "sub": "★중소기업기술혁신개발사업(글로벌선도기술개발)",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "중소기업기술정보진흥원",
+    "deadline": "2026-06-15",
+    "src": "TIPA",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021657",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S050966",
+      "bsnsAncmSn": "4",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S003453",
+      "sorgnId": "10003"
+    },
+    "tags": [
+      {
+        "text": "#TIPA",
+        "type": "ministry"
+      },
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_021115_1",
+    "axis": "지원사업",
+    "name": "2026년도 한-중 공동연구 신규과제 공모",
+    "sub": "(공동연구) 중국",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-19",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021115",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S001818",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S001799",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_021114_1",
+    "axis": "지원사업",
+    "name": "2026년도 한-중 산학연 대형 공동연구 신규과제 공모",
+    "sub": "(공동연구) 중국 산학연",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-19",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021114",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S050222",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S001799",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_021775_2",
+    "axis": "지원사업",
+    "name": "2026년도 미래국방혁신기술개발사업 신규과제 공모",
+    "sub": "미래국방혁신기술개발사업",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-19",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021775",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "NR01044",
+      "bsnsAncmSn": "2",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "NR00401",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_020677_1",
+    "axis": "지원사업",
+    "name": "한-독 파트너십프로그램(GEnKO)",
+    "sub": "(국제) 한-독 파트너십 프로그램(GEnKO)",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-10",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "020677",
+      "bsnsYy": "2027",
+      "sorgnBsnsCd": "S049108",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S002836",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "iris_021594_1",
+    "axis": "지원사업",
+    "name": "2026년 공공혁신수요기반 혁신제품 기술개발 사업 시범구매연계형 신규지원 대상과제 공고",
+    "sub": "시범구매연계형",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "조달청",
+    "agency": "한국조달연구원",
+    "deadline": "2026-06-10",
+    "src": "IRIS",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021594",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S002861",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S002860",
+      "sorgnId": "10050"
+    },
+    "tags": [
+      {
+        "text": "#IRIS",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_021376_1",
+    "axis": "지원사업",
+    "name": "2026년도 극한부품 시험입증지원사업 신규과제 공모 ",
+    "sub": "극한부품시험입증지원사업(R&D)",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-10",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021376",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S050239",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S050238",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_021915_1",
+    "axis": "지원사업",
+    "name": "2026년도 EIC개발협력연구사업？신규과제 접수(정책지정)",
+    "sub": "EIC개발협력연구",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-10",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021915",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S050857",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S050845",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_021595_1",
+    "axis": "지원사업",
+    "name": "2026년도 차세대 AI+S&T 기반기술 개발(R&D)사업 신규과제 공고",
+    "sub": "차세대 AI+S&T 기반기술 개발(R&D)",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-12",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021595",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S051588",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S051587",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#제조AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "tipa_021658_3",
+    "axis": "지원사업",
+    "name": "2026년도 중소기업기술혁신개발사업 글로벌선도기술개발(점프업) 하반기(2차) 시행계획 공고",
+    "sub": "★중소기업기술혁신개발사업(글로벌선도기술개발)",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "중소기업기술정보진흥원",
+    "deadline": "2026-06-15",
+    "src": "TIPA",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021658",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S050966",
+      "bsnsAncmSn": "3",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S003453",
+      "sorgnId": "10003"
+    },
+    "tags": [
+      {
+        "text": "#TIPA",
+        "type": "ministry"
+      },
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_020393_1",
+    "axis": "지원사업",
+    "name": "대학기초연구소지원사업(G-LAMP) 신규 공모",
+    "sub": " 대학기초연구소지원사업(G-LAMP) ",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-02",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "020393",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S002912",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S000983",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_020392_1",
+    "axis": "지원사업",
+    "name": "2026년도 한-프랑스(ANR) 공동연구사업",
+    "sub": "(공동연구) 프랑스",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-04",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "020392",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S050169",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S001799",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_021954_2",
+    "axis": "지원사업",
+    "name": "2026년도 선진원자로 연구조합 중심 차세대원자력 혁신생태계 기반 조성 연구",
+    "sub": "차세대원자로연구조합지원",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-05",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021954",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S049754",
+      "bsnsAncmSn": "2",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S049753",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_021375_1",
+    "axis": "지원사업",
+    "name": "2026년도 미래국방가교기술개발사업 신규과제 공모",
+    "sub": "미래국방가교기술개발(R&D)",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-08",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021375",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S049206",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S049205",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "tipa_021776_7",
+    "axis": "지원사업",
+    "name": "2026년도 중소기업기술혁신개발사업 글로벌협력형R&D(예비연구형) 제1차 시행계획 공고",
+    "sub": "★중소기업기술혁신개발사업(글로벌선도기술개발_글로벌협력형)",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "중소기업기술정보진흥원",
+    "deadline": "2026-06-09",
+    "src": "TIPA",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021776",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S051468",
+      "bsnsAncmSn": "7",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S003453",
+      "sorgnId": "10003"
+    },
+    "tags": [
+      {
+        "text": "#TIPA",
+        "type": "ministry"
+      },
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_021794_7",
+    "axis": "지원사업",
+    "name": "글로벌공급망첨단소재기술개발-나노커넥트 공고",
+    "sub": "글로벌공급망첨단소재기술개발",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-01",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021794",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S002464",
+      "bsnsAncmSn": "7",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S049579",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_021794_8",
+    "axis": "지원사업",
+    "name": "국가전략기술미래소재기술개발(미래소재) 공고",
+    "sub": "국가전략기술미래소재기술개발",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-01",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021794",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S049064",
+      "bsnsAncmSn": "8",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S049579",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "tipa_021336_5",
+    "axis": "지원사업",
+    "name": "2026년도 중소기업기술혁신개발사업 글로벌협력형R&D(에코브릿지_수요품목) 제2차 시행계획 공고",
+    "sub": "★중소기업기술혁신개발사업(글로벌선도기술개발_글로벌협력형)",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "중소기업기술정보진흥원",
+    "deadline": "2026-06-01",
+    "src": "TIPA",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021336",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S051468",
+      "bsnsAncmSn": "5",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S003453",
+      "sorgnId": "10003"
+    },
+    "tags": [
+      {
+        "text": "#TIPA",
+        "type": "ministry"
+      },
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_021354_2",
+    "axis": "지원사업",
+    "name": "2026년 2차 국민생활안전 긴급대응연구",
+    "sub": "국민생활안전긴급대응연구사업(2단계)(R&D)_기술개발 및 실증",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-01",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021354",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S050241",
+      "bsnsAncmSn": "2",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S051210",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "tipa_021334_4",
+    "axis": "지원사업",
+    "name": "2026년도 중소기업기술혁신개발사업 글로벌협력형R&D(자유공모형_일반) 제2차 시행계획 공고",
+    "sub": "★중소기업기술혁신개발사업(글로벌선도기술개발_글로벌협력형)",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "중소기업기술정보진흥원",
+    "deadline": "2026-06-01",
+    "src": "TIPA",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021334",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S051468",
+      "bsnsAncmSn": "4",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S003453",
+      "sorgnId": "10003"
+    },
+    "tags": [
+      {
+        "text": "#TIPA",
+        "type": "ministry"
+      },
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "tipa_021337_6",
+    "axis": "지원사업",
+    "name": "2026년도 중소기업기술혁신개발사업 글로벌협력형R&D(에코브릿지_자유품목) 제2차 시행계획 공고",
+    "sub": "★중소기업기술혁신개발사업(글로벌선도기술개발_글로벌협력형)",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "중소기업기술정보진흥원",
+    "deadline": "2026-06-01",
+    "src": "TIPA",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021337",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S051468",
+      "bsnsAncmSn": "6",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S003453",
+      "sorgnId": "10003"
+    },
+    "tags": [
+      {
+        "text": "#TIPA",
+        "type": "ministry"
+      },
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "keit_021894_2",
+    "axis": "지원사업",
+    "name": "2026년도 제2차 제품안전관리기술개발및실증사업 신규지원 대상과제 공고",
+    "sub": "제품안전관리체계기술개발",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-06-29",
+    "src": "KEIT",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021894",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S051420",
+      "bsnsAncmSn": "2",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S051088",
+      "sorgnId": "10005"
+    },
+    "tags": [
+      {
+        "text": "#KEIT",
+        "type": "ministry"
+      },
+      {
+        "text": "#산업부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      },
+      {
+        "text": "#실증",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "keit_021939_2",
+    "axis": "지원사업",
+    "name": "2026년도 K-로봇피지컬AI생태계조성사업 신규지원 대상과제 공고",
+    "sub": "로봇산업핵심기술개발",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-06-25",
+    "src": "KEIT",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021939",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S049007",
+      "bsnsAncmSn": "2",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S049006",
+      "sorgnId": "10005"
+    },
+    "tags": [
+      {
+        "text": "#KEIT",
+        "type": "ministry"
+      },
+      {
+        "text": "#산업부",
+        "type": "ministry"
+      },
+      {
+        "text": "#제조AI",
+        "type": "domain"
+      },
+      {
+        "text": "#피지컬AI",
+        "type": "domain"
+      },
+      {
+        "text": "#로봇",
+        "type": "domain"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "keit_021938_1",
+    "axis": "지원사업",
+    "name": "2026년도 로봇산업기술개발사업 신규지원 대상과제 공고",
+    "sub": "로봇산업핵심기술개발",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-06-25",
+    "src": "KEIT",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021938",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S049007",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S049006",
+      "sorgnId": "10005"
+    },
+    "tags": [
+      {
+        "text": "#KEIT",
+        "type": "ministry"
+      },
+      {
+        "text": "#산업부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      },
+      {
+        "text": "#로봇",
+        "type": "domain"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "keit_021895_1",
+    "axis": "지원사업",
+    "name": "2026년 재난안전중점기술로드맵연계형기술개발사업 신규과제 공모",
+    "sub": "재난안전중점기술로드맵연계형기술개발",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-06-26",
+    "src": "KEIT",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021895",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S051594",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S051063",
+      "sorgnId": "10005"
+    },
+    "tags": [
+      {
+        "text": "#KEIT",
+        "type": "ministry"
+      },
+      {
+        "text": "#산업부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "keit_021796_1",
+    "axis": "지원사업",
+    "name": "2026년도 민군융합핵심소재자립화기술개발사업 신규지원 대상과제 공고",
+    "sub": "민군융합핵심소재자립화기술개발",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-06-26",
+    "src": "KEIT",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021796",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S051592",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S051072",
+      "sorgnId": "10005"
+    },
+    "tags": [
+      {
+        "text": "#KEIT",
+        "type": "ministry"
+      },
+      {
+        "text": "#산업부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "keit_022056_1",
+    "axis": "지원사업",
+    "name": "2026년도 지식서비스산업기술개발사업(서비스핵심기술개발) 신규지원 대상과제 공고",
+    "sub": "서비스핵심기술개발",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-06-29",
+    "src": "KEIT",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "022056",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "KT00076",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "KT10804",
+      "sorgnId": "10005"
+    },
+    "tags": [
+      {
+        "text": "#KEIT",
+        "type": "ministry"
+      },
+      {
+        "text": "#산업부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "keit_022076_1",
+    "axis": "지원사업",
+    "name": "2026년도 지식서비스산업기술개발사업(서비스산업융합고도화) 신규지원 대상과제 공고",
+    "sub": "서비스산업융합고도화",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-06-29",
+    "src": "KEIT",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "022076",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "KT00354",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "KT10804",
+      "sorgnId": "10005"
+    },
+    "tags": [
+      {
+        "text": "#KEIT",
+        "type": "ministry"
+      },
+      {
+        "text": "#산업부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "keit_022075_1",
+    "axis": "지원사업",
+    "name": "2026년도 첨단산업용시스템엔지니어링설계모델링기술개발사업 신규지원 대상과제 공고",
+    "sub": "첨단산업용시스템엔지니어링설계모델링기술개발",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-06-29",
+    "src": "KEIT",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "022075",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S050070",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S050069",
+      "sorgnId": "10005"
+    },
+    "tags": [
+      {
+        "text": "#KEIT",
+        "type": "ministry"
+      },
+      {
+        "text": "#산업부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "keit_021878_1",
+    "axis": "지원사업",
+    "name": "2026년도 첨단소재공정고도화 및 기술역량확보기술개발사업 신규지원 대상과제 공고",
+    "sub": "첨단소재공정고도화 및 기술역량확보기술개발",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-06-22",
+    "src": "KEIT",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021878",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S051593",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S051068",
+      "sorgnId": "10005"
+    },
+    "tags": [
+      {
+        "text": "#KEIT",
+        "type": "ministry"
+      },
+      {
+        "text": "#산업부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "keit_021655_2",
+    "axis": "지원사업",
+    "name": "2026년도 제2차 산업기술R&D연구기획사업 신규지원 대상과제 공고",
+    "sub": "산업기술분야",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-06-22",
+    "src": "KEIT",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021655",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S049014",
+      "bsnsAncmSn": "2",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S049013",
+      "sorgnId": "10005"
+    },
+    "tags": [
+      {
+        "text": "#KEIT",
+        "type": "ministry"
+      },
+      {
+        "text": "#산업부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "keit_020594_1",
+    "axis": "지원사업",
+    "name": "2026년도 글로벌기업산업기술연계R&D 사업 신규지원 대상과제 공고",
+    "sub": "글로벌기업산업기술연계R&D",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-06-12",
+    "src": "KEIT",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "020594",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S050190",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S050189",
+      "sorgnId": "10005"
+    },
+    "tags": [
+      {
+        "text": "#KEIT",
+        "type": "ministry"
+      },
+      {
+        "text": "#산업부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "keit_021054_2",
+    "axis": "지원사업",
+    "name": "2026년도  신산업 대응 차세대 공통핵심뿌리기술개발사업 신규지원 대상과제 공고",
+    "sub": "신산업대응차세대공통·핵심뿌리기술개발",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-06-02",
+    "src": "KEIT",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021054",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S050054",
+      "bsnsAncmSn": "2",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S050053",
+      "sorgnId": "10005"
+    },
+    "tags": [
+      {
+        "text": "#KEIT",
+        "type": "ministry"
+      },
+      {
+        "text": "#산업부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "iitp_021943_1",
+    "axis": "지원사업",
+    "name": "2026년도 AI최고급신진연구자지원 사업 공고  ",
+    "sub": "AI최고급신진연구자지원",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "정보통신기획평가원",
+    "deadline": "2026-06-29",
+    "src": "IITP",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021943",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S049908",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S049907",
+      "sorgnId": "10004"
+    },
+    "tags": [
+      {
+        "text": "#IITP",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#제조AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "iitp_021874_4",
+    "axis": "지원사업",
+    "name": "2026년도 2차 디지털혁신기술국제공동연구사업 신규지원 대상과제 공고",
+    "sub": "디지털핵심기술국제공동연구",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "정보통신기획평가원",
+    "deadline": "2026-06-22",
+    "src": "IITP",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021874",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S048740",
+      "bsnsAncmSn": "4",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S003427",
+      "sorgnId": "10004"
+    },
+    "tags": [
+      {
+        "text": "#IITP",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "iitp_021357_4",
+    "axis": "지원사업",
+    "name": "2026년도 양자 ICT R&D 신규지원 대상과제 공고",
+    "sub": "퀀텀ICT엔지니어링기술개발",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "정보통신기획평가원",
+    "deadline": "2026-06-08",
+    "src": "IITP",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021357",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S049953",
+      "bsnsAncmSn": "4",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S050645",
+      "sorgnId": "10004"
+    },
+    "tags": [
+      {
+        "text": "#IITP",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "kiat_021877_6",
+    "axis": "지원사업",
+    "name": "2026년도 3차 산업혁신기반구축사업 시행계획 공고",
+    "sub": "산업혁신기반구축",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상부",
+    "agency": "한국산업기술진흥원",
+    "deadline": "2026-06-22",
+    "src": "KIAT",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "021877",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S048665",
+      "bsnsAncmSn": "6",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S048616",
+      "sorgnId": "10006"
+    },
+    "tags": [
+      {
+        "text": "#KIAT",
+        "type": "ministry"
+      },
+      {
+        "text": "#산업부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "nrf_022094_6",
+    "axis": "지원사업",
+    "name": "2026년도 바이오·의료기술개발 사업 제4차 신규과제 재공모",
+    "sub": "바이오혁신기반조성",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-06-10",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "022094",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S048924",
+      "bsnsAncmSn": "6",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S000946",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "ministry"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122676",
+    "axis": "지원사업",
+    "name": "[부산] 정보보호기업 성장지원 추가 모집 공고",
+    "sub": "부산광역시",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "부산정보산업진흥원",
+    "deadline": "2026-06-17",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122676",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122675",
+    "axis": "지원사업",
+    "name": "[경기] 부천시 2026년 6월 유해물질 시험분석 수수료 지원 사업 공고",
+    "sub": "경기도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "부천산업진흥원",
+    "deadline": "2026-06-30",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122675",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122674",
+    "axis": "지원사업",
+    "name": "[경북] 울진군 2026년 2차 블루(blue)푸드 산업 활성화 지원사업 기업지원 프로그램 참여기업 모집 연장 공고(시군구연고산업육성 협업프로젝트)",
+    "sub": "중소벤처기업부",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "환동해산업연구원",
+    "deadline": "2026-06-05",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122674",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#참여기관",
+        "type": "role"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122672",
+    "axis": "지원사업",
+    "name": "[경기] 부천시 2026년 6월 중소기업 지식재산 지원 사업 공고",
+    "sub": "경기도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "부천산업진흥원",
+    "deadline": "2026-06-30",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122672",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122671",
+    "axis": "지원사업",
+    "name": "2026년 첨단산업용시스템엔지니어링설계모델링기술개발사업 신규지원 대상과제 공고",
+    "sub": "산업통상부",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-06-29",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122671",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122670",
+    "axis": "지원사업",
+    "name": "2026년 산업통상부-공공기관 기술나눔 공고",
+    "sub": "산업통상부",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "한국산업기술진흥원",
+    "deadline": "2026-07-03",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122670",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122669",
+    "axis": "지원사업",
+    "name": "[경기] 2026년 지역 기후테크 크라우드펀딩 지원사업 참여기업 모집 공고",
+    "sub": "경기도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "지방중소벤처기업청",
+    "deadline": "2026-06-07",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122669",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#참여기관",
+        "type": "role"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122668",
+    "axis": "지원사업",
+    "name": "[경남] 창원시ㆍ김해시ㆍ거제시 2026년 8차 청년여성 일경험 지원사업 참여기업 모집 공고",
+    "sub": "경상남도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "경남여성새로일하기센터",
+    "deadline": "2026-06-12",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122668",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#참여기관",
+        "type": "role"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122667",
+    "axis": "지원사업",
+    "name": "[경북] 2026년 푸드테크 연구지원센터(세포배양식품) 사업화지원 소비자 인식 지원기업 모집 공고",
+    "sub": "경상북도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "경북테크노파크",
+    "deadline": "2026-06-12",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122667",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122665",
+    "axis": "지원사업",
+    "name": "2026년 지식서비스산업기술개발사업(서비스핵심기술개발) 신규지원 대상과제 공고",
+    "sub": "산업통상부",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-06-29",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122665",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122664",
+    "axis": "지원사업",
+    "name": "[경남] 진주시 2026년 해외지사화 지원사업 추가모집 공고",
+    "sub": "경상남도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "KOTRA경남지원본부",
+    "deadline": "2026-06-01",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122664",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122663",
+    "axis": "지원사업",
+    "name": "2026년 2차 고흥드론센터 입주기업 역량강화 지원사업 모집 공고",
+    "sub": "전라남도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "전남테크노파크",
+    "deadline": "2026-06-11",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122663",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122662",
+    "axis": "지원사업",
+    "name": "2026년 지식서비스산업기술개발사업(서비스산업융합고도화) 신규지원 대상과제 공고",
+    "sub": "산업통상부",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-06-29",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122662",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122661",
+    "axis": "지원사업",
+    "name": "[전남] 장성군 2026년 산업ㆍ농공단지 활성화 지원사업 수혜기업 모집 공고",
+    "sub": "전라남도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "전남테크노파크",
+    "deadline": "2026-06-26",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122661",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "news_mss_020393de64",
+    "axis": "지원사업",
+    "name": "제조‧유통 분야 중심으로 상생결제 확산 추진",
+    "sub": "",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "MSS",
+    "deadline": "",
+    "src": "뉴스",
+    "url": "https://www.mss.go.kr/site/smba/ex#view",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#보급확산",
+        "type": "biztype"
+      }
+    ],
+    "sz": "small"
+  }
+]

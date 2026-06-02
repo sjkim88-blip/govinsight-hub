@@ -1,0 +1,4 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+truststore>=0.9.1   # 사내 MITM 프록시(Zscaler 등) SSL 인증서 - Windows 전용 선택사항
+lxml>=5.0.0         # BS4 HTML 파서 성능 개선 (선택사항)
