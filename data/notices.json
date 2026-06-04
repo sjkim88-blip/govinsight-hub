@@ -1618,57 +1618,17 @@
     "sz": "small"
   },
   {
-    "id": "bizinfo_pbln_000000000122676",
+    "id": "bizinfo_pbln_000000000122786",
     "axis": "지원사업",
-    "name": "[부산] 정보보호기업 성장지원 추가 모집 공고",
-    "sub": "부산광역시",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중기부",
-    "agency": "부산정보산업진흥원",
-    "deadline": "2026-06-17",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122676",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      }
-    ],
-    "sz": "small"
-  },
-  {
-    "id": "bizinfo_pbln_000000000122675",
-    "axis": "지원사업",
-    "name": "[경기] 부천시 2026년 6월 유해물질 시험분석 수수료 지원 사업 공고",
-    "sub": "경기도",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중기부",
-    "agency": "부천산업진흥원",
-    "deadline": "2026-06-30",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122675",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      }
-    ],
-    "sz": "small"
-  },
-  {
-    "id": "bizinfo_pbln_000000000122674",
-    "axis": "지원사업",
-    "name": "[경북] 울진군 2026년 2차 블루(blue)푸드 산업 활성화 지원사업 기업지원 프로그램 참여기업 모집 연장 공고(시군구연고산업육성 협업프로젝트)",
+    "name": "[강원] 양구군ㆍ인제군 2026년 2차 초접경지역 경제활력 향상 및 생활인구 확대를 위한 로컬푸드 산업 육성사업 참여기업 모집공고 (시군구 연고산업육성 협업프로젝트)",
     "sub": "중소벤처기업부",
     "perProject": "확인 필요",
     "totalBudget": "-",
     "ministry": "중기부",
-    "agency": "환동해산업연구원",
-    "deadline": "2026-06-05",
+    "agency": "강원테크노파크",
+    "deadline": "2026-06-19",
     "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122674",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122786",
     "tags": [
       {
         "text": "#중기부",
@@ -1682,105 +1642,105 @@
     "sz": "small"
   },
   {
-    "id": "bizinfo_pbln_000000000122672",
+    "id": "bizinfo_pbln_000000000122785",
     "axis": "지원사업",
-    "name": "[경기] 부천시 2026년 6월 중소기업 지식재산 지원 사업 공고",
-    "sub": "경기도",
+    "name": "[강원] 동해시 2026년 3차 수소 전주기 분야 R&D과제 지원사업 기업지원 재공고",
+    "sub": "강원특별자치도",
     "perProject": "확인 필요",
     "totalBudget": "-",
     "ministry": "중기부",
-    "agency": "부천산업진흥원",
-    "deadline": "2026-06-30",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122672",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      }
-    ],
-    "sz": "small"
-  },
-  {
-    "id": "bizinfo_pbln_000000000122671",
-    "axis": "지원사업",
-    "name": "2026년 첨단산업용시스템엔지니어링설계모델링기술개발사업 신규지원 대상과제 공고",
-    "sub": "산업통상부",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중기부",
-    "agency": "한국산업기술기획평가원",
-    "deadline": "2026-06-29",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122671",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      },
-      {
-        "text": "#기술개발",
-        "type": "biztype"
-      }
-    ],
-    "sz": "small"
-  },
-  {
-    "id": "bizinfo_pbln_000000000122670",
-    "axis": "지원사업",
-    "name": "2026년 산업통상부-공공기관 기술나눔 공고",
-    "sub": "산업통상부",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중기부",
-    "agency": "한국산업기술진흥원",
-    "deadline": "2026-07-03",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122670",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      }
-    ],
-    "sz": "small"
-  },
-  {
-    "id": "bizinfo_pbln_000000000122669",
-    "axis": "지원사업",
-    "name": "[경기] 2026년 지역 기후테크 크라우드펀딩 지원사업 참여기업 모집 공고",
-    "sub": "경기도",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중기부",
-    "agency": "지방중소벤처기업청",
-    "deadline": "2026-06-07",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122669",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      },
-      {
-        "text": "#참여기관",
-        "type": "role"
-      }
-    ],
-    "sz": "small"
-  },
-  {
-    "id": "bizinfo_pbln_000000000122668",
-    "axis": "지원사업",
-    "name": "[경남] 창원시ㆍ김해시ㆍ거제시 2026년 8차 청년여성 일경험 지원사업 참여기업 모집 공고",
-    "sub": "경상남도",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중기부",
-    "agency": "경남여성새로일하기센터",
+    "agency": "강원테크노파크",
     "deadline": "2026-06-12",
     "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122668",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122785",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#수소",
+        "type": "domain"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122784",
+    "axis": "지원사업",
+    "name": "[충남] 2026년 수소오픈랩 장비활용 기반 R&D 기업지원사업 추가모집 공고(지역혁신클러스터육성(R&D))",
+    "sub": "충청남도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "충남테크노파크",
+    "deadline": "2026-06-12",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122784",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#수소",
+        "type": "domain"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122783",
+    "axis": "지원사업",
+    "name": "[제주] 2026년 지역 대표 K-브랜드 100 지원 사업 지원 대상 모집 공고",
+    "sub": "제주특별자치도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "제주상공회의소",
+    "deadline": "2026-06-10",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122783",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122782",
+    "axis": "지원사업",
+    "name": "[강원] 2026년 강원 바이오엑스포ㆍ지역 창업 페스티벌 해외바이어 초청 수출상담회 및 취창업박람회 참가기업 모집 공고",
+    "sub": "강원특별자치도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "춘천바이오산업진흥원",
+    "deadline": "2026-06-30",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122782",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122781",
+    "axis": "지원사업",
+    "name": "[경기] 2026년 혁신기업 판로지원사업 혁신기업 맞춤형 지원 참여기업 추가 모집 공고",
+    "sub": "경기도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "경기테크노파크",
+    "deadline": "2026-06-22",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122781",
     "tags": [
       {
         "text": "#중기부",
@@ -1794,17 +1754,97 @@
     "sz": "small"
   },
   {
-    "id": "bizinfo_pbln_000000000122667",
+    "id": "bizinfo_pbln_000000000122780",
     "axis": "지원사업",
-    "name": "[경북] 2026년 푸드테크 연구지원센터(세포배양식품) 사업화지원 소비자 인식 지원기업 모집 공고",
+    "name": "[충남] 2026년 정보보호 우수사례 지원사업 수혜기업 모집 공고",
+    "sub": "과학기술정보통신부",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "충남테크노파크",
+    "deadline": "2026-06-12",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122780",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122779",
+    "axis": "지원사업",
+    "name": "[경기] 2026년 1차 경기 콘텐츠코리아 랩 콘텐츠 전시 마케팅 지원 크라우드 펀딩 연계형 전시 참가자 모집 공고",
+    "sub": "경기도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "경기콘텐츠진흥원",
+    "deadline": "2026-06-19",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122779",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122778",
+    "axis": "지원사업",
+    "name": "[강원] 춘천시 2026년 강원푸드박람회 및 K-월드푸드 엑스포 공동관 참가기업 모집 공고",
+    "sub": "강원특별자치도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "춘천바이오산업진흥원",
+    "deadline": "2026-06-30",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122778",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122777",
+    "axis": "지원사업",
+    "name": "2026년 4차 특허분쟁 대응전략 지원사업 공고",
+    "sub": "지식재산처",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "한국지식재산보호원",
+    "deadline": "2026-06-04",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122777",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122776",
+    "axis": "지원사업",
+    "name": "[경북] 2026년 지역SW서비스사업화 지원사업 신규과제 재공고(지역디지털기초체력지원사업)",
     "sub": "경상북도",
     "perProject": "확인 필요",
     "totalBudget": "-",
     "ministry": "중기부",
-    "agency": "경북테크노파크",
-    "deadline": "2026-06-12",
+    "agency": "포항테크노파크",
+    "deadline": "2026-06-19",
     "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122667",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122776",
     "tags": [
       {
         "text": "#중기부",
@@ -1814,105 +1854,65 @@
     "sz": "small"
   },
   {
-    "id": "bizinfo_pbln_000000000122665",
+    "id": "bizinfo_pbln_000000000122774",
     "axis": "지원사업",
-    "name": "2026년 지식서비스산업기술개발사업(서비스핵심기술개발) 신규지원 대상과제 공고",
+    "name": "2026년 SBOM 생성 지원을 위한 대상 기업 추가 모집 공고",
     "sub": "산업통상부",
     "perProject": "확인 필요",
     "totalBudget": "-",
     "ministry": "중기부",
-    "agency": "한국산업기술기획평가원",
-    "deadline": "2026-06-29",
+    "agency": "한국산업기술시험원",
+    "deadline": "2026-06-19",
     "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122665",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122774",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small"
+  },
+  {
+    "id": "bizinfo_pbln_000000000122773",
+    "axis": "지원사업",
+    "name": "2026년 스타트업 혁신제품 선(先)보급 지원사업 참여 스타트업 모집 공고(제품상용화 지원사업)",
+    "sub": "세종특별자치시",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중기부",
+    "agency": "세종창조경제혁신센터",
+    "deadline": "2026-07-05",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122773",
     "tags": [
       {
         "text": "#중기부",
         "type": "ministry"
       },
       {
-        "text": "#기술개발",
+        "text": "#보급확산",
         "type": "biztype"
-      }
-    ],
-    "sz": "small"
-  },
-  {
-    "id": "bizinfo_pbln_000000000122664",
-    "axis": "지원사업",
-    "name": "[경남] 진주시 2026년 해외지사화 지원사업 추가모집 공고",
-    "sub": "경상남도",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중기부",
-    "agency": "KOTRA경남지원본부",
-    "deadline": "2026-06-01",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122664",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      }
-    ],
-    "sz": "small"
-  },
-  {
-    "id": "bizinfo_pbln_000000000122663",
-    "axis": "지원사업",
-    "name": "2026년 2차 고흥드론센터 입주기업 역량강화 지원사업 모집 공고",
-    "sub": "전라남도",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중기부",
-    "agency": "전남테크노파크",
-    "deadline": "2026-06-11",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122663",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      }
-    ],
-    "sz": "small"
-  },
-  {
-    "id": "bizinfo_pbln_000000000122662",
-    "axis": "지원사업",
-    "name": "2026년 지식서비스산업기술개발사업(서비스산업융합고도화) 신규지원 대상과제 공고",
-    "sub": "산업통상부",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중기부",
-    "agency": "한국산업기술기획평가원",
-    "deadline": "2026-06-29",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122662",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
       },
       {
-        "text": "#기술개발",
-        "type": "biztype"
+        "text": "#참여기관",
+        "type": "role"
       }
     ],
     "sz": "small"
   },
   {
-    "id": "bizinfo_pbln_000000000122661",
+    "id": "bizinfo_pbln_000000000122772",
     "axis": "지원사업",
-    "name": "[전남] 장성군 2026년 산업ㆍ농공단지 활성화 지원사업 수혜기업 모집 공고",
-    "sub": "전라남도",
+    "name": "2026년 2차 시리즈 온 보드 참가기업 모집 공고",
+    "sub": "문화체육관광부",
     "perProject": "확인 필요",
     "totalBudget": "-",
     "ministry": "중기부",
-    "agency": "전남테크노파크",
-    "deadline": "2026-06-26",
+    "agency": "한국콘텐츠진흥원",
+    "deadline": "2026-06-30",
     "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122661",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122772",
     "tags": [
       {
         "text": "#중기부",
@@ -1924,9 +1924,9 @@
   {
     "id": "news_mss_020393de64",
     "axis": "지원사업",
-    "name": "제조‧유통 분야 중심으로 상생결제 확산 추진",
+    "name": "4월 동행축제, 5,441억원 매출 성과 달성 - 지역과 함께 만든 소비 활력 -",
     "sub": "",
-    "perProject": "확인 필요",
+    "perProject": "5441억",
     "totalBudget": "-",
     "ministry": "중소벤처기업부",
     "agency": "MSS",
@@ -1937,12 +1937,8 @@
       {
         "text": "#중기부",
         "type": "ministry"
-      },
-      {
-        "text": "#보급확산",
-        "type": "biztype"
       }
     ],
-    "sz": "small"
+    "sz": "large"
   }
 ]
