@@ -25,6 +25,9 @@ import g2b_crawler
 import news_crawler
 import iris_pre_crawler
 import ntis_crawler
+import demand_crawler
+import newsletter_crawler
+import motir_crawler
 from common import is_allowed_ministry, is_company_fit, classify_size
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -43,10 +46,13 @@ CRAWLERS = [
     ("NEWS",       news_crawler),
     ("IRIS사전공고", iris_pre_crawler),
     ("NTIS",       ntis_crawler),
+    ("수요조사",    demand_crawler),
+    ("뉴스레터",    newsletter_crawler),
+    ("산자부",      motir_crawler),
 ]
 
 # 전체교체형: 새 데이터가 수집되면 기존 같은 소스 항목을 모두 교체
-REPLACE_SRCS = {"BIZINFO", "G2B", "뉴스", "IRIS사전공고", "NTIS"}
+REPLACE_SRCS = {"BIZINFO", "G2B", "뉴스", "IRIS사전공고", "NTIS", "수요조사", "뉴스레터", "산자부"}
 
 
 def _dedup_tags(item):
@@ -73,8 +79,8 @@ def load_existing():
 
 def _ministry_ok(item):
     """소관부처·출처 화이트리스트 통과 여부."""
-    # 뉴스·NTIS·사전공고 src 는 ministry 대신 src 로 허용
-    if item.get("src") in ("뉴스", "NTIS", "IRIS사전공고"):
+    # 뉴스·NTIS·사전공고·수요조사·뉴스레터 src 는 ministry 대신 src 로 허용
+    if item.get("src") in ("뉴스", "NTIS", "IRIS사전공고", "수요조사", "뉴스레터"):
         return True
     return is_allowed_ministry(item.get("ministry"))
 
@@ -117,6 +123,28 @@ def main():
         it for it in merged.values()
         if _ministry_ok(it) and is_company_fit(it.get("name"), it.get("sub"))
     ]
+
+    # 태그명 마이그레이션: #산업부 → #산자부
+    for it in result:
+        for t in (it.get("tags") or []):
+            if t.get("text") == "#산업부":
+                t["text"] = "#산자부"
+
+    # 전문기관·출처 태그 타입 마이그레이션: "ministry" → "agency"
+    _AGENCY_TEXTS = {
+        "#KEIT", "#IITP", "#NRF", "#TIPA", "#KISTEP", "#KIAT", "#NIPA", "#KETEP",
+        "#IRIS", "#BIZINFO", "#NTIS", "#IRIS사전공고", "#전자신문", "#디지털타임스", "#KEIT이슈픽",
+    }
+    for it in result:
+        for t in (it.get("tags") or []):
+            if t.get("text") in _AGENCY_TEXTS and t.get("type") == "ministry":
+                t["type"] = "agency"
+
+    # 도메인 태그 재생성: KEYWORD_RULES 변경 시 기존 캐시 항목도 자동 갱신
+    from common import auto_tags as _retag
+    for it in result:
+        non_domain = [t for t in (it.get("tags") or []) if t.get("type") != "domain"]
+        it["tags"] = _retag(it.get("name", ""), non_domain)
 
     # 모든 공고에 sz(규모) 자동 분류
     for it in result:

@@ -45,12 +45,12 @@ def src_profile(agency):
     agency = agency or ""
     for key, code in SRC_BY_AGENCY:
         if key in agency:
-            return code, [{"text": f"#{code}", "type": "ministry"}]
-    return "IRIS", [{"text": "#IRIS", "type": "ministry"}]
+            return code, [{"text": f"#{code}", "type": "agency"}]
+    return "IRIS", [{"text": "#IRIS", "type": "agency"}]
 
 # 부처명 → 부처 태그 매핑
 MINISTRY_TAG = [
-    ("산업통상", "#산업부"), ("산업부", "#산업부"),
+    ("산업통상", "#산자부"), ("산업부", "#산자부"),
     ("과학기술", "#과기부"), ("과기", "#과기부"),
     ("중소벤처", "#중기부"), ("중기", "#중기부"),
 ]

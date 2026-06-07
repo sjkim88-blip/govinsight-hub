@@ -12,7 +12,7 @@ except ImportError:
     from crawler import iris_crawler as iris
 
 BASE_TAGS = [
-    {"text": "#IITP", "type": "ministry"},
+    {"text": "#IITP", "type": "agency"},
     {"text": "#과기부", "type": "ministry"},
 ]
 

@@ -20,7 +20,7 @@ PRE_LIST_API = BASE + "/contents/retrieveAnnouncementList.do"
 # IRIS 사전공고 상태값 후보 (실제 코드는 시스템마다 다를 수 있음)
 PRE_STATUSES = {"사전공고", "계획공고", "계획", "준비", "공고예정"}
 
-BASE_TAGS = [{"text": "#IRIS사전공고", "type": "ministry"}]
+BASE_TAGS = [{"text": "#IRIS사전공고", "type": "agency"}]
 MAX_ITEMS = 60
 MAX_SCAN = 30
 

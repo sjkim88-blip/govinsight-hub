@@ -14,7 +14,7 @@ except ImportError:
 from bs4 import BeautifulSoup
 
 LIST_URL = "https://www.ntis.go.kr/outcomes/popup/srchTotlPrjt.do"
-BASE_TAGS = [{"text": "#NTIS", "type": "ministry"}]
+BASE_TAGS = [{"text": "#NTIS", "type": "agency"}]
 MAX_ITEMS = 40
 
 # 화이트리스트 부처·기관 키워드 (NTIS 부처명 정규화)

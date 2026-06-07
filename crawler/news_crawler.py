@@ -31,7 +31,7 @@ PRESS_SOURCES = [
             "https://www.motie.go.kr/motie/ne/presse/press2/bbs/bbsList.do?bbs_cd_n=81",
         ],
         "ministry": "산업통상자원부",
-        "m_tag": {"text": "#산업부", "type": "ministry"},
+        "m_tag": {"text": "#산자부", "type": "ministry"},
     },
     {
         "key": "msit",
@@ -61,7 +61,7 @@ RSS_SOURCES = [
             "http://www.etnews.com/rss/rss.xml",
         ],
         "ministry": "뉴스",
-        "m_tag": {"text": "#전자신문", "type": "ministry"},
+        "m_tag": {"text": "#전자신문", "type": "agency"},
     },
     {
         "key": "dt",
@@ -71,7 +71,7 @@ RSS_SOURCES = [
             "https://www.dt.co.kr/rss/it.xml",
         ],
         "ministry": "뉴스",
-        "m_tag": {"text": "#디지털타임스", "type": "ministry"},
+        "m_tag": {"text": "#디지털타임스", "type": "agency"},
     },
 ]
 

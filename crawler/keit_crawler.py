@@ -13,8 +13,8 @@ except ImportError:
     from crawler import iris_crawler as iris
 
 BASE_TAGS = [
-    {"text": "#KEIT", "type": "ministry"},
-    {"text": "#산업부", "type": "ministry"},
+    {"text": "#KEIT", "type": "agency"},
+    {"text": "#산자부", "type": "ministry"},
 ]
 
 
