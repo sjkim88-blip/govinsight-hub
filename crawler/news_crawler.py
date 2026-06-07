@@ -73,6 +73,14 @@ RSS_SOURCES = [
         "ministry": "뉴스",
         "m_tag": {"text": "#디지털타임스", "type": "agency"},
     },
+    {
+        "key": "aitimes",
+        "urls": [
+            "https://www.aitimes.com/rss/allArticle.xml",
+        ],
+        "ministry": "뉴스",
+        "m_tag": {"text": "#AI타임스", "type": "agency"},
+    },
 ]
 
 # 보도자료 관련 공고 키워드 — 이 단어가 없으면 제외 (노이즈 감소)
@@ -81,6 +89,8 @@ RELEVANCE_KEYWORDS = (
     "사업", "과제", "투자", "예산", "억", "조", "펀드",
     "AI", "인공지능", "스마트", "디지털", "제조", "산업",
     "컨소시엄", "협력", "실증", "보급",
+    "에듀테크", "EdTech", "이러닝", "교육기술", "교육플랫폼",
+    "디지털교육", "스마트교육", "교육부", "교육콘텐츠",
 )
 
 DATE_RE = re.compile(r'\d{4}[-./]\d{1,2}[-./]\d{1,2}')
