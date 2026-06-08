@@ -27,6 +27,13 @@ jobs:
       - name: 공고 크롤링
         run: python crawler/update.py
 
+      - name: 신규 공고 이메일 알림
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          NOTIFY_TO: ${{ secrets.NOTIFY_TO }}
+        run: python crawler/notify.py
+
       - name: 변경사항 커밋 & 푸시
         run: |
           git config user.name  "github-actions[bot]"
