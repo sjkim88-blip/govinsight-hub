@@ -8,6 +8,7 @@
 import os
 import sys
 import json
+import datetime
 
 try:
     sys.stdout.reconfigure(encoding="utf-8")
@@ -28,7 +29,9 @@ import ntis_crawler
 import demand_crawler
 import newsletter_crawler
 import motir_crawler
-from common import is_allowed_ministry, is_company_fit, classify_size
+import smartfactory_crawler
+import keit_srome_crawler
+from common import is_allowed_ministry, is_company_fit, classify_size, classify_domain
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_PATH = os.path.join(ROOT, "data", "notices.json")
@@ -49,10 +52,12 @@ CRAWLERS = [
     ("수요조사",    demand_crawler),
     ("뉴스레터",    newsletter_crawler),
     ("산자부",      motir_crawler),
+    ("스마트공장닷컴", smartfactory_crawler),
+    ("KEIT통합", keit_srome_crawler),
 ]
 
 # 전체교체형: 새 데이터가 수집되면 기존 같은 소스 항목을 모두 교체
-REPLACE_SRCS = {"BIZINFO", "G2B", "뉴스", "IRIS사전공고", "NTIS", "수요조사", "뉴스레터", "산자부"}
+REPLACE_SRCS = {"BIZINFO", "G2B", "뉴스", "IRIS사전공고", "NTIS", "수요조사", "뉴스레터", "산자부", "스마트공장닷컴", "KEIT통합"}
 
 
 def _dedup_tags(item):
@@ -79,8 +84,8 @@ def load_existing():
 
 def _ministry_ok(item):
     """소관부처·출처 화이트리스트 통과 여부."""
-    # 뉴스·NTIS·사전공고·수요조사·뉴스레터 src 는 ministry 대신 src 로 허용
-    if item.get("src") in ("뉴스", "NTIS", "IRIS사전공고", "수요조사", "뉴스레터"):
+    # 뉴스·NTIS·사전공고·수요조사·뉴스레터·스마트공장닷컴 src 는 ministry 대신 src 로 허용
+    if item.get("src") in ("뉴스", "NTIS", "IRIS사전공고", "수요조사", "뉴스레터", "스마트공장닷컴", "KEIT통합"):
         return True
     return is_allowed_ministry(item.get("ministry"))
 
@@ -124,6 +129,28 @@ def main():
         if _ministry_ok(it) and is_company_fit(it.get("name"), it.get("sub"))
     ]
 
+    # 마감(deadline 경과) 공고 제거: IRIS 등 병합형 소스는 재수집 시 사라진 마감
+    # 공고를 자동으로 걸러내지 못하므로, 여기서 deadline 기준으로 직접 제거한다.
+    # deadline 이 없는 항목(뉴스·뉴스레터 등 상시성 콘텐츠)은 유지한다.
+    today = datetime.date.today().isoformat()
+    before_cnt = len(result)
+    result = [it for it in result if not it.get("deadline") or it["deadline"] >= today]
+    expired_cnt = before_cnt - len(result)
+    if expired_cnt:
+        print(f"  · 마감된 공고 {expired_cnt}건 제외")
+
+    # ministry 필드 정규화: 표기 변형 통일
+    _MINISTRY_MAP = {
+        "산업통상부": "산업통상자원부",
+        "산업부": "산업통상자원부",
+        "중기부": "중소벤처기업부",
+        "과기부": "과학기술정보통신부",
+    }
+    for it in result:
+        m = it.get("ministry", "")
+        if m in _MINISTRY_MAP:
+            it["ministry"] = _MINISTRY_MAP[m]
+
     # 태그명 마이그레이션: #산업부 → #산자부
     for it in result:
         for t in (it.get("tags") or []):
@@ -146,9 +173,10 @@ def main():
         non_domain = [t for t in (it.get("tags") or []) if t.get("type") != "domain"]
         it["tags"] = _retag(it.get("name", ""), non_domain)
 
-    # 모든 공고에 sz(규모) 자동 분류
+    # 모든 공고에 sz(규모) 및 domain(분야) 자동 분류
     for it in result:
         it["sz"] = classify_size(it.get("perProject"), it.get("totalBudget"))
+        it["domain"] = classify_domain(it.get("name"), it.get("sub"))
 
     cnt = {"large": 0, "mid": 0, "small": 0}
     for it in result:

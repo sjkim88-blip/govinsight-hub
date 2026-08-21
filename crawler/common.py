@@ -42,6 +42,10 @@ KEYWORD_RULES = [
     (["실증"], "#실증", "biztype"),
     (["보급", "확산"], "#보급확산", "biztype"),
     (["컨소시엄"], "#컨소시엄", "biztype"),
+    (["AX", "AI전환", "선도모델"], "#AX전환", "biztype"),
+    (["상생형", "상생협력", "대중소상생"], "#상생협력", "biztype"),
+    (["주관기관모집", "주관기관 모집"], "#주관기관모집", "role"),
+    (["TIPA", "기술정보진흥원"], "#TIPA", "agency"),
     (["주관"], "#주관기관", "role"),
     (["참여"], "#참여기관", "role"),
     (["수요기업"], "#수요기업", "role"),
@@ -86,6 +90,8 @@ _ALLOW_KEYWORDS = (
     "중소벤처", "중기",            # 중소벤처기업부 / 중기부
     "조달",                        # 조달청
     "KEIT", "IITP", "KIAT", "NIPA", "KETEP", "KOTECH", "NTIS",  # 전문기관 직접 표기
+    "TIPA", "기술정보진흥원",       # 중소기업기술정보진흥원
+    "스마트공장",                   # 스마트공장 사업
     "교육부", "교육혁신",           # 에듀테크 관련 교육부
     "뉴스",                        # 뉴스/보도자료 항목
     "수요조사",                     # 수요조사 공고
@@ -172,6 +178,24 @@ def post(url, **kwargs):
         warnings.filterwarnings("ignore", message="Unverified HTTPS request")
         kwargs["verify"] = False
         return SESSION.post(url, **kwargs)
+
+
+DOMAIN_RULES = [
+    (["AX", "DX", "디지털전환", "AI전환", "보급확산", "선도모델",
+      "상생형", "상생협력"], "AX/DX 솔루션 공급"),
+    (["스마트공장", "스마트팩토리", "공장고도화", "현장자동화",
+      "제조혁신", "설비", "로봇도입"], "스마트공장·제조현장 구축"),
+    (["AI", "인공지능", "피지컬AI", "비전검사", "머신비전",
+      "예지보전", "자율제조", "자율화", "디지털트윈"], "AI·피지컬AI R&D"),
+    (["ERP", "그룹웨어", "RPA", "업무자동화", "기간계",
+      "전자결재", "협업툴"], "기간계·업무시스템 전환"),
+]
+
+
+def classify_domain(name, sub=""):
+    """사업명·세부사업명 기반 분야 분류. 중복 매칭 허용, 매칭 없으면 빈 리스트."""
+    text = (name or "") + " " + (sub or "")
+    return [domain for keywords, domain in DOMAIN_RULES if any(kw in text for kw in keywords)]
 
 
 def auto_tags(name, base_tags=None):
