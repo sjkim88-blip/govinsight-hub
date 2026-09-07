@@ -258,7 +258,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -300,7 +300,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -340,7 +340,7 @@
         "type": "ministry"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -388,7 +388,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -550,7 +550,7 @@
         "type": "biztype"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
@@ -718,7 +718,7 @@
         "type": "biztype"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
@@ -937,7 +937,7 @@
         "type": "domain"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
@@ -972,7 +972,7 @@
         "type": "domain"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
@@ -991,7 +991,7 @@
     "deadline": "",
     "pubDate": "",
     "src": "뉴스레터",
-    "category": "AI·로봇",
+    "category": "AI",
     "url": "https://srome.keit.re.kr/srome/biz/info/keitPub/retrieveKeitIssuInfoView.do?blltSeq=165160",
     "tags": [
       {
@@ -1003,7 +1003,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -1024,7 +1024,7 @@
     "deadline": "",
     "pubDate": "",
     "src": "뉴스레터",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "url": "https://srome.keit.re.kr/srome/biz/info/keitPub/retrieveKeitIssuInfoView.do?blltSeq=164853",
     "tags": [
       {
@@ -1032,7 +1032,11 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#석유화학",
+        "type": "domain"
+      },
+      {
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
@@ -1078,7 +1082,7 @@
     "deadline": "",
     "pubDate": "",
     "src": "뉴스레터",
-    "category": "AI·로봇",
+    "category": "AI",
     "url": "https://srome.keit.re.kr/srome/biz/info/keitPub/retrieveKeitIssuInfoView.do?blltSeq=162667",
     "tags": [
       {
@@ -1086,7 +1090,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -1098,7 +1102,11 @@
         "type": "domain"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#석유화학",
+        "type": "domain"
+      },
+      {
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
@@ -1131,7 +1139,7 @@
         "type": "domain"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
@@ -1150,7 +1158,7 @@
     "deadline": "",
     "pubDate": "",
     "src": "뉴스레터",
-    "category": "AI·로봇",
+    "category": "AI",
     "url": "https://srome.keit.re.kr/srome/biz/info/keitPub/retrieveKeitIssuInfoView.do?blltSeq=159653",
     "tags": [
       {
@@ -1158,11 +1166,11 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
@@ -1183,7 +1191,7 @@
     "deadline": "",
     "pubDate": "",
     "src": "뉴스레터",
-    "category": "AI·로봇",
+    "category": "AI",
     "url": "https://srome.keit.re.kr/srome/biz/info/keitPub/retrieveKeitIssuInfoView.do?blltSeq=156752",
     "tags": [
       {
@@ -1191,7 +1199,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -1299,7 +1307,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -1332,7 +1340,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -1368,7 +1376,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -1410,7 +1418,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -1448,7 +1456,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -1484,7 +1492,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -1521,7 +1529,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -1558,7 +1566,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -1595,7 +1603,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -1632,7 +1640,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -1669,7 +1677,7 @@
         "type": "role"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -1705,7 +1713,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -1743,7 +1751,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -1777,7 +1785,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -1809,7 +1817,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -1841,7 +1849,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -1877,7 +1885,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -1914,7 +1922,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -1955,7 +1963,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -1996,7 +2004,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -2037,7 +2045,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -2078,7 +2086,7 @@
         "type": "biztype"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -2115,7 +2123,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -2185,7 +2193,7 @@
         "type": "biztype"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#석유화학",
         "type": "domain"
       }
     ],
@@ -2219,7 +2227,7 @@
         "type": "biztype"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
@@ -2301,7 +2309,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -2339,6 +2347,80 @@
     "domain": []
   },
   {
+    "id": "hk_202609078695",
+    "name": "대만 정부, TSMC 등 반도체 기업 30개사 '실리콘 포토닉스 연맹' 추진",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-09-07",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202609078695i",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      },
+      {
+        "text": "#반도체·전자",
+        "type": "domain"
+      }
+    ],
+    "axis": "IT회사 동향",
+    "region": "global",
+    "company": "TSMC",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_202609077894",
+    "name": "낸드 맹추격 나선 中 YMTC…삼전닉스 점유율은 하락",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-09-07",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202609077894i",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "반도체·전자",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_202609078528",
+    "name": "\"일자리 창출\" 약속 지킨 이재용…삼성 '간판기업' 공채 돌입",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-09-07",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202609078528g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "반도체·전자",
+    "sz": "small",
+    "domain": []
+  },
+  {
     "id": "hk_2026090668691",
     "name": "LG전자 \"로봇 관절 액추에이터, 빅테크 공급 추진중\"",
     "sub": "",
@@ -2356,7 +2438,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -2365,7 +2447,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": []
   },
@@ -2387,7 +2469,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -2396,7 +2478,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -2420,7 +2502,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -2429,7 +2511,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AX/DX 솔루션 공급"
@@ -2453,12 +2535,12 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": []
   },
@@ -2604,12 +2686,12 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -2752,12 +2834,12 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -2831,7 +2913,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -2884,12 +2966,12 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -2940,12 +3022,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -3091,7 +3173,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -3100,7 +3182,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -3124,7 +3206,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -3133,7 +3215,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -3180,12 +3262,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -3207,12 +3289,12 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -3314,90 +3396,6 @@
     "category": "반도체·전자",
     "sz": "small",
     "domain": []
-  },
-  {
-    "id": "hk_2026090173991",
-    "name": "삼성전자 \"메모리 혁신 통해 HBM5 성능 2배로 높일 것\"",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-09-01",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026090173991",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      },
-      {
-        "text": "#반도체·전자",
-        "type": "domain"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "반도체·전자",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_202609017062",
-    "name": "삼성·SK하이닉스, 2분기 eSSD 시장 1·2위…마이크론 매출 126% 폭증",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-09-01",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/202609017062i",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "IT회사 동향",
-    "region": "global",
-    "company": "마이크론",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_202609016945",
-    "name": "삼성전자, 메모리 한계 넘는 'CUBE' 전략 공개…AI 시대 주도권 굳힌다",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-09-01",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/202609016945i",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      },
-      {
-        "text": "#AI·로봇",
-        "type": "domain"
-      },
-      {
-        "text": "#반도체·전자",
-        "type": "domain"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "AI·로봇",
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
   },
   {
     "id": "hk_202609078567",
@@ -3756,12 +3754,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": [
       "스마트공장·제조현장 구축"
@@ -3858,12 +3856,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -3885,12 +3883,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4196,12 +4194,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4389,7 +4387,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4412,7 +4410,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4434,16 +4432,16 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#철강",
         "type": "domain"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#AI",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "철강",
     "sz": "small",
     "domain": []
   },
@@ -4465,12 +4463,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#철강",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "철강",
     "sz": "small",
     "domain": []
   },
@@ -4493,7 +4491,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4515,7 +4513,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -4523,12 +4521,12 @@
         "type": "domain"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": []
   },
@@ -4551,7 +4549,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4573,12 +4571,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#철강",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "철강",
     "sz": "small",
     "domain": []
   },
@@ -4600,12 +4598,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#철강",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "철강",
     "sz": "small",
     "domain": []
   },
@@ -4654,12 +4652,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#석유화학",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -4709,7 +4707,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4732,7 +4730,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4754,12 +4752,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4781,12 +4779,12 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -4811,7 +4809,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4833,12 +4831,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4860,12 +4858,20 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#철강",
+        "type": "domain"
+      },
+      {
+        "text": "#석유화학",
+        "type": "domain"
+      },
+      {
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "철강",
     "sz": "small",
     "domain": []
   },
@@ -4887,12 +4893,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4915,7 +4921,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4964,12 +4970,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4992,7 +4998,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5012,10 +5018,14 @@
       {
         "text": "#한경",
         "type": "agency"
+      },
+      {
+        "text": "#철강",
+        "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "철강",
     "sz": "small",
     "domain": []
   },
@@ -5038,7 +5048,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5058,10 +5068,14 @@
       {
         "text": "#한경",
         "type": "agency"
+      },
+      {
+        "text": "#철강",
+        "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "철강",
     "sz": "small",
     "domain": []
   },
@@ -5083,16 +5097,16 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -5116,12 +5130,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5147,7 +5161,7 @@
         "type": "domain"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
@@ -5175,7 +5189,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5197,12 +5211,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5225,7 +5239,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5248,7 +5262,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5298,7 +5312,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5320,16 +5334,16 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -5353,12 +5367,12 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "스마트공장·제조현장 구축",
@@ -5383,7 +5397,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -5391,12 +5405,12 @@
         "type": "domain"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -5420,12 +5434,16 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#철강",
+        "type": "domain"
+      },
+      {
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "철강",
     "sz": "small",
     "domain": []
   },
@@ -5447,16 +5465,16 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -5481,7 +5499,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -5503,12 +5521,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5531,7 +5549,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -5557,7 +5575,7 @@
         "type": "domain"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
@@ -5612,7 +5630,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -5635,7 +5653,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -5658,7 +5676,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -5680,12 +5698,12 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -5710,7 +5728,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -5733,7 +5751,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -5756,7 +5774,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -5779,7 +5797,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -5828,12 +5846,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5855,12 +5873,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5882,12 +5900,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#석유화학",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -5910,7 +5928,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -5932,16 +5950,16 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -5966,7 +5984,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -5988,12 +6006,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -6016,7 +6034,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -6039,7 +6057,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -6061,12 +6079,12 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -6090,12 +6108,12 @@
         "type": "agency"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#석유화학",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -6121,7 +6139,7 @@
         "type": "domain"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
@@ -6149,7 +6167,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -6172,7 +6190,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -6222,7 +6240,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -6244,12 +6262,12 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -6274,7 +6292,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -6297,7 +6315,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -6320,7 +6338,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -6342,16 +6360,16 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -6376,7 +6394,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "철강·소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -6425,11 +6443,11 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
-        "text": "#철강·소재·에너지",
+        "text": "#소재·에너지",
         "type": "domain"
       }
     ],
@@ -6459,7 +6477,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       },
       {
@@ -6468,7 +6486,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI·로봇",
+    "category": "AI",
     "sz": "small",
     "domain": [
       "AI·피지컬AI R&D"
@@ -6519,7 +6537,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -6549,7 +6567,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -6603,7 +6621,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -6633,7 +6651,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -6663,7 +6681,7 @@
         "type": "agency"
       },
       {
-        "text": "#AI·로봇",
+        "text": "#AI",
         "type": "domain"
       }
     ],
