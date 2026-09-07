@@ -550,7 +550,7 @@
         "type": "biztype"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -718,7 +718,7 @@
         "type": "biztype"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -937,7 +937,7 @@
         "type": "domain"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -972,7 +972,7 @@
         "type": "domain"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -1024,7 +1024,7 @@
     "deadline": "",
     "pubDate": "",
     "src": "뉴스레터",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "url": "https://srome.keit.re.kr/srome/biz/info/keitPub/retrieveKeitIssuInfoView.do?blltSeq=164853",
     "tags": [
       {
@@ -1032,7 +1032,7 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -1098,7 +1098,7 @@
         "type": "domain"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -1131,7 +1131,7 @@
         "type": "domain"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -1162,7 +1162,7 @@
         "type": "domain"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -2125,6 +2125,220 @@
     ]
   },
   {
+    "id": "keitsrome_dmnd_6775d6b6",
+    "axis": "지원사업",
+    "name": "디스플레이첨단산업기술개발(가칭) 기술수요조사(연장)",
+    "sub": "",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상자원부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-09-07",
+    "period": "2026-08-31 ~ 2026-09-07",
+    "src": "수요조사",
+    "url": "https://srome.keit.re.kr/srome/biz/perform/opnnPrpsl/retrieveRndPlnnDtlView.do?sbjtPlnnAncmId=001006",
+    "tags": [
+      {
+        "text": "#산자부",
+        "type": "ministry"
+      },
+      {
+        "text": "#KEIT",
+        "type": "agency"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      },
+      {
+        "text": "#반도체·전자",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "keitsrome_dmnd_4d8adbed",
+    "axis": "지원사업",
+    "name": "2027년도 화학공정 분야  「K-화학산업 대전환 혁신 기술개발사업」 신규 과제 기획을 위한 기술수요조사 공고",
+    "sub": "",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상자원부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-09-10",
+    "period": "2026-09-01 ~ 2026-09-10",
+    "src": "수요조사",
+    "url": "https://srome.keit.re.kr/srome/biz/perform/opnnPrpsl/retrieveRndPlnnDtlView.do?sbjtPlnnAncmId=000995",
+    "tags": [
+      {
+        "text": "#산자부",
+        "type": "ministry"
+      },
+      {
+        "text": "#KEIT",
+        "type": "agency"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      },
+      {
+        "text": "#철강·소재·에너지",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "keitsrome_dmnd_2a72a24c",
+    "axis": "지원사업",
+    "name": "2027년 소재부품기술개발사업 기술 수요조사",
+    "sub": "",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상자원부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-09-11",
+    "period": "2026-08-20 ~ 2026-09-11",
+    "src": "수요조사",
+    "url": "https://srome.keit.re.kr/srome/biz/perform/opnnPrpsl/retrieveRndPlnnDtlView.do?sbjtPlnnAncmId=001003",
+    "tags": [
+      {
+        "text": "#산자부",
+        "type": "ministry"
+      },
+      {
+        "text": "#KEIT",
+        "type": "agency"
+      },
+      {
+        "text": "#기술개발",
+        "type": "biztype"
+      },
+      {
+        "text": "#철강·소재·에너지",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "keitsrome_dmnd_0ce623b2",
+    "axis": "지원사업",
+    "name": "2027년도 자원분야 R&D사업 통합기술수요조사 공고",
+    "sub": "",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상자원부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-09-14",
+    "period": "2026-09-04 ~ 2026-09-14",
+    "src": "수요조사",
+    "url": "https://srome.keit.re.kr/srome/biz/perform/opnnPrpsl/retrieveRndPlnnDtlView.do?sbjtPlnnAncmId=001007",
+    "tags": [
+      {
+        "text": "#산자부",
+        "type": "ministry"
+      },
+      {
+        "text": "#KEIT",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "keitsrome_dmnd_1fccb567",
+    "axis": "지원사업",
+    "name": "2027년 소방안전R&D 통합 기술수요조사",
+    "sub": "",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상자원부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-09-18",
+    "period": "2026-08-21 ~ 2026-09-18",
+    "src": "수요조사",
+    "url": "https://srome.keit.re.kr/srome/biz/perform/opnnPrpsl/retrieveRndPlnnDtlView.do?sbjtPlnnAncmId=001001",
+    "tags": [
+      {
+        "text": "#산자부",
+        "type": "ministry"
+      },
+      {
+        "text": "#KEIT",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "keitsrome_dmnd_c0a4f7b7",
+    "axis": "지원사업",
+    "name": "국가 제조데이터 라이브러리 구축운영 사업 기획을 위한 수요조사",
+    "sub": "",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상자원부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-09-18",
+    "period": "2026-09-07 ~ 2026-09-18",
+    "src": "수요조사",
+    "url": "https://srome.keit.re.kr/srome/biz/perform/opnnPrpsl/retrieveRndPlnnDtlView.do?sbjtPlnnAncmId=001004",
+    "tags": [
+      {
+        "text": "#산자부",
+        "type": "ministry"
+      },
+      {
+        "text": "#KEIT",
+        "type": "agency"
+      },
+      {
+        "text": "#AI·로봇",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "keitsrome_dmnd_029fe396",
+    "axis": "지원사업",
+    "name": "2028년도 산업기술 R&D사업(스마트전자 분야-중전기기) 기술수요조사 공고",
+    "sub": "",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "산업통상자원부",
+    "agency": "한국산업기술기획평가원",
+    "deadline": "2026-09-30",
+    "period": "2026-09-03 ~ 2026-09-30",
+    "src": "수요조사",
+    "url": "https://srome.keit.re.kr/srome/biz/perform/opnnPrpsl/retrieveRndPlnnDtlView.do?sbjtPlnnAncmId=001008",
+    "tags": [
+      {
+        "text": "#산자부",
+        "type": "ministry"
+      },
+      {
+        "text": "#KEIT",
+        "type": "agency"
+      },
+      {
+        "text": "#반도체·전자",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
     "id": "hk_2026090668691",
     "name": "LG전자 \"로봇 관절 액추에이터, 빅테크 공급 추진중\"",
     "sub": "",
@@ -2726,12 +2940,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -2966,12 +3180,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -3184,6 +3398,33 @@
     "domain": [
       "AI·피지컬AI R&D"
     ]
+  },
+  {
+    "id": "hk_202609078567",
+    "name": "도요타코리아, 고객 참여형 프로그램 'TGR 랠리 플레이' 성료",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-09-07",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202609078567g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      },
+      {
+        "text": "#참여기관",
+        "type": "role"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "모빌리티·자동차",
+    "sz": "small",
+    "domain": []
   },
   {
     "id": "hk_202609078135",
@@ -3515,12 +3756,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": [
       "스마트공장·제조현장 구축"
@@ -3617,12 +3858,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -3644,12 +3885,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -3955,12 +4196,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4130,33 +4371,6 @@
     "domain": []
   },
   {
-    "id": "hk_202608313746",
-    "name": "제주항공, 중국 노선 탑승객 500만명 돌파…\"LCC 중국 수요 3분의 1\"",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-08-31",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/202608313746g",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      },
-      {
-        "text": "#소재·에너지",
-        "type": "domain"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "소재·에너지",
-    "sz": "small",
-    "domain": []
-  },
-  {
     "id": "hk_2026090668811",
     "name": "\"전력기기 호황 10년은 더 간다…구조적 성장 국면 진입\"",
     "sub": "",
@@ -4175,7 +4389,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4198,7 +4412,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4224,7 +4438,7 @@
         "type": "domain"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -4251,12 +4465,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4279,7 +4493,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4309,7 +4523,7 @@
         "type": "domain"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -4337,7 +4551,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4359,12 +4573,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4386,12 +4600,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4440,12 +4654,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4495,7 +4709,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4518,7 +4732,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4540,12 +4754,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4597,7 +4811,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4619,12 +4833,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4646,12 +4860,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4673,12 +4887,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4701,7 +4915,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4750,12 +4964,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4778,7 +4992,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4801,7 +5015,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4824,7 +5038,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4847,7 +5061,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4873,7 +5087,7 @@
         "type": "domain"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -4902,12 +5116,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4933,7 +5147,7 @@
         "type": "domain"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -4961,7 +5175,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4983,12 +5197,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5011,7 +5225,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5034,7 +5248,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5084,7 +5298,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5110,7 +5324,7 @@
         "type": "domain"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -5177,7 +5391,7 @@
         "type": "domain"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -5206,12 +5420,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5237,7 +5451,7 @@
         "type": "domain"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -5267,7 +5481,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5289,12 +5503,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5317,7 +5531,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5343,7 +5557,7 @@
         "type": "domain"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -5398,7 +5612,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5421,7 +5635,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5444,7 +5658,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5496,7 +5710,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5519,7 +5733,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5542,7 +5756,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5565,7 +5779,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5614,12 +5828,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5641,12 +5855,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5668,12 +5882,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5696,7 +5910,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5722,7 +5936,7 @@
         "type": "domain"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -5752,7 +5966,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5774,12 +5988,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5802,7 +6016,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5825,7 +6039,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5876,12 +6090,12 @@
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5907,7 +6121,7 @@
         "type": "domain"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -5935,7 +6149,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -5958,7 +6172,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -6008,7 +6222,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -6060,7 +6274,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -6083,7 +6297,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -6106,7 +6320,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -6132,7 +6346,7 @@
         "type": "domain"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],
@@ -6162,7 +6376,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "철강·소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -6215,7 +6429,7 @@
         "type": "domain"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#철강·소재·에너지",
         "type": "domain"
       }
     ],

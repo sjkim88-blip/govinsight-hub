@@ -25,11 +25,10 @@ LIST_CANDIDATES = [
     BASE + "/srome/pub/retrieveNoticeListView.do",
 ]
 
-# 수요조사 목록 API 후보
-DMND_CANDIDATES = [
-    BASE + "/srome/pub/dmnd/retrieveDmndListView.do",
-    BASE + "/srome/biz/dmnd/retrieveDmndListView.do",
-]
+# 수요조사(R&D기획참여) 목록 — 실제 확인된 URL(기본 필터: 접수중).
+DMND_LIST_URL = BASE + "/srome/biz/perform/opnnPrpsl/retrieveDmndSrvyLstView.do"
+DMND_LIST_PARAMS = {"prgmId": "XPG201010000"}
+DMND_DETAIL_URL = BASE + "/srome/biz/perform/opnnPrpsl/retrieveRndPlnnDtlView.do"
 
 BASE_TAGS = [
     {"text": "#산자부", "type": "ministry"},
@@ -134,6 +133,62 @@ def _parse_table(soup, is_demand=False):
     return items
 
 
+def _fetch_demand_survey():
+    """수요조사(R&D기획참여) 목록 — retrieveDmndSrvyLstView.do 전용 파서.
+
+    페이지 기본 필터가 '접수중'이라 진행중인 건만 내려온다(별도 페이징 불필요,
+    실측 결과 1페이지).마크업: div.table_box 반복, 링크는
+    <a href="javascript:f_detail('001006');"><span class="title">…</span></a>,
+    접수기간은 div.info 안 '접수기간' 라벨의 형제 span.value.
+    """
+    r = get(DMND_LIST_URL, params=DMND_LIST_PARAMS, timeout=20)
+    r.raise_for_status()
+    soup = BeautifulSoup(r.text, "html.parser")
+
+    items = []
+    for box in soup.select("div.table_box"):
+        a = box.select_one("p.subject a[href]")
+        if not a:
+            continue
+        m = re.search(r"f_detail\('(\d+)'\)", a.get("href") or "")
+        if not m:
+            continue
+        sbjt_id = m.group(1)
+
+        title_el = a.select_one("span.title")
+        title = (title_el.get_text(strip=True) if title_el else a.get_text(strip=True))
+        if not title:
+            continue
+
+        period_text = ""
+        for p in box.select("div.info p"):
+            label = p.select_one("span.label")
+            if label and "접수기간" in label.get_text():
+                value = p.select_one("span.value")
+                period_text = value.get_text(strip=True) if value else ""
+                break
+
+        items.append({
+            "id": _stable_id("dmnd", sbjt_id),
+            "axis": "지원사업",
+            "name": title,
+            "sub": "",
+            "perProject": "확인 필요",
+            "totalBudget": "-",
+            "ministry": "산업통상자원부",
+            "agency": "한국산업기술기획평가원",
+            "deadline": _deadline_from_period(period_text),
+            "period": _period_str(period_text),
+            "src": "수요조사",
+            "url": f"{DMND_DETAIL_URL}?sbjtPlnnAncmId={sbjt_id}",
+            "tags": auto_tags(title, list(BASE_TAGS)),
+        })
+        if len(items) >= MAX_ITEMS:
+            break
+
+    return items
+
+
 def _try_fetch(url, params=None):
     """GET 시도 후 HTML soup 반환. 실패 시 None."""
     try:
@@ -190,17 +245,14 @@ def run():
             if results:
                 break
 
-    # 수요조사 시도
-    for url in DMND_CANDIDATES:
-        soup = _try_fetch(url, params={"pageIndex": "1", "pageUnit": "20"})
-        if not soup:
-            soup = _try_post(url)
-        if soup:
-            for item in _parse_table(soup, is_demand=True):
-                if item["id"] not in seen_ids:
-                    seen_ids.add(item["id"])
-                    results.append(item)
-            break
+    # 수요조사(R&D기획참여) — 확인된 전용 URL
+    try:
+        for item in _fetch_demand_survey():
+            if item["id"] not in seen_ids:
+                seen_ids.add(item["id"])
+                results.append(item)
+    except Exception as e:
+        print(f"  ⚠ KEIT SROME 수요조사 실패: {e}")
 
     # 모든 후보 실패 시 인덱스 페이지 폴백
     if not results:
