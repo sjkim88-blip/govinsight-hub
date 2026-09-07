@@ -1,9 +1,9 @@
 @echo off
 chcp 65001 >nul
-title Gov. Insight 공고 갱신
+title Opportunity Hub 공고 갱신
 cd /d "%~dp0"
 echo ========================================
-echo  Gov. Insight 공고 데이터 갱신 중...
+echo  Opportunity Hub 공고 데이터 갱신 중...
 echo ========================================
 python -m crawler.update
 echo.

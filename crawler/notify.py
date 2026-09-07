@@ -77,7 +77,7 @@ def _build_html(items):
 <html><body style="margin:0;padding:0;background:#f5f5f5;font-family:'Malgun Gothic',Arial,sans-serif">
 <div style="max-width:680px;margin:32px auto;background:#fff;border-radius:8px;overflow:hidden;border:1px solid #e8e8e8">
   <div style="background:#1a1a1a;padding:20px 24px">
-    <span style="color:#fff;font-size:16px;font-weight:600">Gov. Insight</span>
+    <span style="color:#fff;font-size:16px;font-weight:600">Opportunity Hub</span>
     <span style="color:#888;font-size:12px;margin-left:12px">신규 공고 알림</span>
   </div>
   <div style="padding:20px 24px">
@@ -99,7 +99,7 @@ def _build_html(items):
     </p>
   </div>
   <div style="padding:12px 24px;background:#fafafa;border-top:1px solid #f0f0f0">
-    <p style="font-size:11px;color:#ccc;margin:0">Gov. Insight 자동 갱신 시스템 · 수신 거부는 관리자에게 문의</p>
+    <p style="font-size:11px;color:#ccc;margin:0">Opportunity Hub 자동 갱신 시스템 · 수신 거부는 관리자에게 문의</p>
   </div>
 </div>
 </body></html>"""
@@ -118,11 +118,11 @@ def _send(items):
     today = datetime.now().strftime("%Y-%m-%d")
 
     msg = MIMEMultipart("alternative")
-    msg["Subject"] = f"[Gov. Insight] 신규 공고 {len(items)}건 ({today})"
-    msg["From"]    = f"Gov. Insight <{user}>"
+    msg["Subject"] = f"[Opportunity Hub] 신규 공고 {len(items)}건 ({today})"
+    msg["From"]    = f"Opportunity Hub <{user}>"
     msg["To"]      = ", ".join(recipients)
 
-    plain = f"Gov. Insight 신규 공고 {len(items)}건 ({today})\n\n"
+    plain = f"Opportunity Hub 신규 공고 {len(items)}건 ({today})\n\n"
     for d in items:
         plain += f"• {d.get('name','')}  |  {d.get('deadline','-')}  |  {d.get('src','')}\n"
     plain += f"\n대시보드: {DASHBOARD_URL}"

@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >nul
-title Gov. Insight 서버
+title Opportunity Hub 서버
 cd /d "%~dp0"
 echo ========================================
 for /f "tokens=2 delims=:" %%a in ('ipconfig ^| findstr /c:"IPv4"') do (
