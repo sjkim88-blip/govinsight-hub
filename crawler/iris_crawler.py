@@ -81,6 +81,17 @@ def _find_last_page():
     return lo
 
 
+def _is_test_record(x):
+    """IRIS 시스템에 실제로 올라와 있는 기관 자체 테스트/더미 공고 걸러내기.
+
+    예: ancmId 017852 "IRIS-기관 시스템 협약변경 연계 TEST" / "TEST".
+    한 번 노출되면 마감일이 미래(2027 등)라 deadline 필터로도 안 걸러지므로
+    별도로 제외한다.
+    """
+    title = (x.get("bsnsAncmTl") or x.get("ancmTl") or "").strip()
+    return title.upper() == "TEST" or "연계 TEST" in title
+
+
 def fetch_current(scan_pages=MAX_SCAN_PAGES):
     """현재 '진행중/예정' 공고 원본 레코드를 최신순으로 반환(중복 제거)."""
     last = _find_last_page()
@@ -88,6 +99,8 @@ def fetch_current(scan_pages=MAX_SCAN_PAGES):
     for page in range(last, max(1, last - scan_pages), -1):
         for x in _fetch_page(page):
             if x.get("rcveStt") not in ("진행중", "예정"):
+                continue
+            if _is_test_record(x):
                 continue
             key = (x.get("ancmId"), x.get("bsnsYy"), x.get("bsnsAncmSn"))
             if key in seen:

@@ -3,6 +3,8 @@
 import re
 import warnings
 import requests
+import xml.etree.ElementTree as ET
+from email.utils import parsedate
 
 # ── 사내 SSL 프록시(MITM 자체서명 CA) 대응 ──────────────────────────────
 # 사내망은 Zscaler 등 프록시가 TLS를 가로채며 자체 루트 CA로 재서명한다.
@@ -50,36 +52,52 @@ KEYWORD_RULES = [
     (["참여"], "#참여기관", "role"),
     (["수요기업"], "#수요기업", "role"),
     (["대기업"], "#대기업참여가능", "role"),
-    # ── 도메인 (6+1 카테고리) ─────────────────────────────────────────────
-    (["AI", "인공지능", "피지컬AI", "피지컬", "스마트공장", "스마트제조",
-      "디지털전환", "DX", "디지털트윈", "예지보전", "비전검사", "머신비전",
-      "자율제조", "자율화", "데이터"], "#AI", "domain"),
-    (["철강", "금속재료", "금속", "소재", "뿌리기술", "세라믹", "화합물",
-      "섬유", "탄소나노", "탄소소재"], "#철강·소재", "domain"),
-    (["로봇", "협동로봇"], "#로봇", "domain"),
-    (["자동차", "전기차", "수소차", "자율주행", "모빌리티", "EV",
-      "배터리", "이차전지"], "#자동차·모빌리티", "domain"),
-    (["반도체", "디스플레이", "시스템반도체", "웨이퍼"], "#반도체", "domain"),
-    (["석유화학", "화학공정", "화학산업", "화학소재", "정유", "탄소중립",
-      "탄소", "ESG", "수소", "신재생", "재생에너지", "태양광", "풍력"],
-     "#석유화학·에너지", "domain"),
-    (["조선", "방산", "해양", "항공", "공급망", "SCM", "물류",
-      "뿌리산업", "도금", "주조", "단조", "용접", "표면처리"], "#기타제조산업", "domain"),
-    (["에듀테크", "EdTech", "edtech", "이러닝", "e-러닝", "이-러닝",
+    # ── 도메인 (4 카테고리) ────────────────────────────────────────────────
+    # 산업별 뉴스 탭의 4개 서브탭과 1:1 대응. classify_news_domain() 도 이 규칙을 재사용한다.
+    (["AI", "인공지능", "피지컬AI", "피지컬", "로봇", "협동로봇",
+      "스마트공장", "스마트제조", "디지털전환", "DX", "디지털트윈",
+      "예지보전", "비전검사", "머신비전", "자율제조", "자율화", "데이터",
+      "에듀테크", "EdTech", "edtech", "이러닝", "e-러닝", "이-러닝",
       "스마트교육", "디지털교육", "교육플랫폼", "학습관리시스템", "LMS",
       "교육콘텐츠", "교육소프트웨어", "에드테크", "교육기술", "학습콘텐츠",
-      "원격교육", "교육데이터", "AI교육", "AI 교육"], "#에듀테크", "domain"),
+      "원격교육", "교육데이터", "AI교육", "AI 교육"], "#AI·로봇", "domain"),
+    (["반도체", "디스플레이", "시스템반도체", "웨이퍼", "전자", "가전",
+      "파운드리", "팹리스", "OLED"], "#반도체·전자", "domain"),
+    (["자동차", "전기차", "수소차", "자율주행", "모빌리티", "EV",
+      "배터리", "이차전지"], "#모빌리티·자동차", "domain"),
+    (["철강", "금속재료", "금속", "소재", "뿌리기술", "세라믹", "화합물",
+      "섬유", "탄소나노", "탄소소재",
+      "석유화학", "화학공정", "화학산업", "화학소재", "정유", "탄소중립",
+      "탄소", "ESG", "수소", "신재생", "재생에너지", "태양광", "풍력",
+      "조선", "방산", "해양", "항공", "공급망", "SCM", "물류",
+      "뿌리산업", "도금", "주조", "단조", "용접", "표면처리"], "#소재·에너지", "domain"),
 ]
+
+# 산업별 뉴스 탭 서브탭 4개(고정 순서). classify_news_domain() 반환값은 항상 이 중 하나.
+NEWS_DOMAINS = ["AI·로봇", "반도체·전자", "모빌리티·자동차", "소재·에너지"]
+_NEWS_DOMAIN_RULES = [(kws, label.lstrip("#")) for kws, label, typ in KEYWORD_RULES if typ == "domain"]
+
+
+def classify_news_domain(title, default=None):
+    """기사 제목 → 산업별 뉴스 4개 도메인 중 하나(단일값, 첫 매칭 우선).
+
+    한경 산업 섹션은 AI·로봇 전용 섹션이 없어(로봇 기사가 중공업/반도체·전자에
+    섞여 나옴) 섹션 라벨 대신 이 키워드 분류기로 재분류한다. 매칭 안 되면
+    default(호출부가 넘긴 원 섹션의 기본 도메인)를 반환.
+    """
+    text = title or ""
+    for keywords, label in _NEWS_DOMAIN_RULES:
+        if any(kw in text for kw in keywords):
+            return label
+    return default
 
 
 # ── 소관부처 화이트리스트 ───────────────────────────────────────────────
-# 이 부처들의 공고만 저장한다. 그 외(국토부·복지부·농진청 등)는 제외.
+# 이 부처들의 공고만 저장한다. 그 외(조달청·국토부·복지부·농진청 등)는 제외.
 MINISTRY_WHITELIST = [
-    "산업부",
+    "산업통상자원부",
     "과학기술정보통신부",
     "중소벤처기업부",
-    "조달청",
-    "산업통상자원부",
 ]
 
 # 출처별 부처 표기 변형(IRIS '산업통상부', 기업마당 '중기부' 등)까지 허용하는
@@ -88,7 +106,6 @@ _ALLOW_KEYWORDS = (
     "산업통상", "산업부", "산업",   # 산업부 / 산업통상자원부 / 산업통상부
     "과학기술", "과기",            # 과학기술정보통신부 / 과기부
     "중소벤처", "중기",            # 중소벤처기업부 / 중기부
-    "조달",                        # 조달청
     "KEIT", "IITP", "KIAT", "NIPA", "KETEP", "KOTECH", "NTIS",  # 전문기관 직접 표기
     "TIPA", "기술정보진흥원",       # 중소기업기술정보진흥원
     "스마트공장",                   # 스마트공장 사업
@@ -180,6 +197,42 @@ def post(url, **kwargs):
         return SESSION.post(url, **kwargs)
 
 
+_RSS_DATE_RE = re.compile(r'\d{4}[-./]\d{1,2}[-./]\d{1,2}')
+
+
+def parse_rfc2822_date(date_str):
+    """RSS pubDate(RFC 2822 등) → 'YYYY-MM-DD'. 실패 시 ''."""
+    try:
+        t = parsedate(date_str)
+        if t:
+            return f"{t[0]:04d}-{t[1]:02d}-{t[2]:02d}"
+    except Exception:
+        pass
+    m = _RSS_DATE_RE.search(date_str or "")
+    return m.group(0).replace(".", "-").replace("/", "-") if m else ""
+
+
+def fetch_rss(url, limit=30, timeout=20):
+    """RSS 2.0 피드를 [{title, link, pubDate}, ...] 로 파싱. 실패 시 예외 발생."""
+    r = get(url, timeout=timeout)
+    r.raise_for_status()
+    content = r.content
+    if b"<?xml" in content[:200]:
+        content = re.sub(rb"encoding=['\"][^'\"]+['\"]", b'encoding="utf-8"', content, count=1)
+    root = ET.fromstring(content)
+    items = []
+    for item in root.findall(".//item"):
+        title = (item.findtext("title") or "").strip()
+        link = (item.findtext("link") or "").strip()
+        pub = (item.findtext("pubDate") or "").strip()
+        if not title:
+            continue
+        items.append({"title": title, "link": link, "pubDate": parse_rfc2822_date(pub)})
+        if len(items) >= limit:
+            break
+    return items
+
+
 DOMAIN_RULES = [
     (["AX", "DX", "디지털전환", "AI전환", "보급확산", "선도모델",
       "상생형", "상생협력"], "AX/DX 솔루션 공급"),
@@ -212,3 +265,37 @@ def auto_tags(name, base_tags=None):
             tags.append({"text": tag_text, "type": tag_type})
             seen.add(tag_text)
     return tags
+
+
+# ── IT회사 동향 탭: 추적 기업 매칭 ───────────────────────────────────────
+# 대기업 그룹 캡티브마켓을 보유한 SI/IT서비스 계열사(VNTG 경쟁사) 12개.
+# 기사 제목/본문에 등장하면 최우선으로 'IT회사 동향(국내)'으로 분류한다.
+DOMESTIC_IT_COMPANIES = [
+    "삼성SDS", "LG CNS", "현대오토에버", "포스코DX", "한화시스템",
+    "코오롱베니트", "CJ올리브네트웍스", "효성인포메이션시스템",
+    "롯데정보통신", "GS ITM", "신세계I&C", "SK C&C",
+]
+
+# 해외: 특정 기업으로 제한하지 않고 "글로벌 빅테크/반도체/AI 기업" 관련이면
+# 포함한다. 주요 기업명을 폭넓게 등록해 제목 매칭에 사용한다(대소문자 무관).
+GLOBAL_TECH_KEYWORDS = [
+    "엔비디아", "NVIDIA", "구글", "Google", "알파벳", "Alphabet",
+    "마이크로소프트", "Microsoft", "MS", "애플", "Apple", "아마존", "Amazon",
+    "메타", "Meta", "테슬라", "Tesla", "오픈AI", "OpenAI", "알리바바", "Alibaba",
+    "텐센트", "Tencent", "바이두", "Baidu", "화웨이", "Huawei", "샤오미", "Xiaomi",
+    "마이크론", "Micron", "인텔", "Intel", "퀄컴", "Qualcomm", "ASML",
+    "TSMC", "브로드컴", "Broadcom", "AMD", "IBM", "오라클", "Oracle",
+    "세일즈포스", "Salesforce", "소프트뱅크", "SoftBank", "바이트댄스", "ByteDance",
+]
+
+
+def match_domestic_company(text):
+    """국내 추적 IT기업 12개 중 제목/본문에 등장하는 첫 회사명. 없으면 None."""
+    t = text or ""
+    return next((c for c in DOMESTIC_IT_COMPANIES if c in t), None)
+
+
+def match_global_tech(text):
+    """글로벌 빅테크/반도체/AI 기업 키워드 매칭 여부(제목/본문). 매칭된 키워드 또는 None."""
+    t = text or ""
+    return next((k for k in GLOBAL_TECH_KEYWORDS if k.lower() in t.lower()), None)

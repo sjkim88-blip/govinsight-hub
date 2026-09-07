@@ -5,7 +5,9 @@
   - KEIT 이슈픽 (srome.keit.re.kr): 산업기술 분야별 월간 동향 브리프
 
 사내 프록시 환경에서 접근 가능한 소스만 포함.
-axis="지원사업", src="뉴스레터"
+"산업별 뉴스" 탭에 뉴스 기사와 함께 노출되되, src="뉴스레터" 는 그대로 두어
+프론트에서 "동향"(보라) 태그로 구분 표시한다.
+axis="산업별 뉴스", src="뉴스레터"
 """
 import sys
 import hashlib
@@ -18,9 +20,9 @@ except Exception:
     pass
 
 try:
-    from common import get, auto_tags, extract_amount
+    from common import get, auto_tags, extract_amount, classify_news_domain
 except ImportError:
-    from crawler.common import get, auto_tags, extract_amount
+    from crawler.common import get, auto_tags, extract_amount, classify_news_domain
 
 from bs4 import BeautifulSoup
 
@@ -62,7 +64,7 @@ def _fetch_keit():
         amount = extract_amount(title)
         items.append({
             "id": _stable_id(bllts_seq),
-            "axis": "지원사업",
+            "axis": "산업별 뉴스",
             "name": title,
             "sub": "",
             "perProject": f"{amount:.0f}억" if amount else "확인 필요",
@@ -70,7 +72,9 @@ def _fetch_keit():
             "ministry": "뉴스레터",
             "agency": "KEIT",
             "deadline": "",
+            "pubDate": "",
             "src": "뉴스레터",
+            "category": classify_news_domain(title, default="AI·로봇"),
             "url": f"{DETAIL_URL}?blltSeq={bllts_seq}",
             "tags": auto_tags(title, [BASE_TAG]),
         })

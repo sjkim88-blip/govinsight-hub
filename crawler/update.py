@@ -22,7 +22,6 @@ import iris_crawler
 import keit_crawler
 import iitp_crawler
 import bizinfo_crawler
-import g2b_crawler
 import news_crawler
 import iris_pre_crawler
 import ntis_crawler
@@ -31,6 +30,9 @@ import newsletter_crawler
 import motir_crawler
 import smartfactory_crawler
 import keit_srome_crawler
+import hankyung_industry_crawler
+import itco_domestic_crawler
+import itco_global_crawler
 from common import is_allowed_ministry, is_company_fit, classify_size, classify_domain
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -45,7 +47,6 @@ CRAWLERS = [
     ("KEIT",       keit_crawler),
     ("IITP",       iitp_crawler),
     ("BIZINFO",    bizinfo_crawler),
-    ("G2B",        g2b_crawler),
     ("NEWS",       news_crawler),
     ("IRIS사전공고", iris_pre_crawler),
     ("NTIS",       ntis_crawler),
@@ -54,10 +55,16 @@ CRAWLERS = [
     ("산자부",      motir_crawler),
     ("스마트공장닷컴", smartfactory_crawler),
     ("KEIT통합", keit_srome_crawler),
+    ("한경산업",    hankyung_industry_crawler),
+    ("IT동향(국내)", itco_domestic_crawler),
+    ("IT동향(해외)", itco_global_crawler),
 ]
 
 # 전체교체형: 새 데이터가 수집되면 기존 같은 소스 항목을 모두 교체
-REPLACE_SRCS = {"BIZINFO", "G2B", "뉴스", "IRIS사전공고", "NTIS", "수요조사", "뉴스레터", "산자부", "스마트공장닷컴", "KEIT통합"}
+REPLACE_SRCS = {
+    "BIZINFO", "뉴스", "IRIS사전공고", "NTIS", "수요조사", "뉴스레터", "산자부",
+    "스마트공장닷컴", "KEIT통합", "한경", "전자신문", "AI타임스",
+}
 
 
 def _dedup_tags(item):
@@ -83,9 +90,15 @@ def load_existing():
 
 
 def _ministry_ok(item):
-    """소관부처·출처 화이트리스트 통과 여부."""
-    # 뉴스·NTIS·사전공고·수요조사·뉴스레터·스마트공장닷컴 src 는 ministry 대신 src 로 허용
-    if item.get("src") in ("뉴스", "NTIS", "IRIS사전공고", "수요조사", "뉴스레터", "스마트공장닷컴", "KEIT통합"):
+    """소관부처·출처 화이트리스트 통과 여부.
+
+    부처 화이트리스트는 "정부지원사업"(grant listing) 축에만 의미가 있다.
+    IT회사 동향/산업별 뉴스는 ministry 개념이 없으므로 그대로 통과시킨다.
+    """
+    if item.get("axis") != "지원사업":
+        return True
+    # NTIS·사전공고·수요조사·스마트공장닷컴 등은 ministry 대신 src 로 허용
+    if item.get("src") in ("NTIS", "IRIS사전공고", "수요조사", "스마트공장닷컴", "KEIT통합"):
         return True
     return is_allowed_ministry(item.get("ministry"))
 
