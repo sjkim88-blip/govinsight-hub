@@ -6493,6 +6493,946 @@
     ]
   },
   {
+    "id": "itcod_삼성SDS_b986bdda49",
+    "axis": "IT회사 동향",
+    "name": "삼성SDS, 미국서 'RX ART 2026' 개최…  RX 시너지 본격화",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "삼성SDS",
+    "deadline": "",
+    "pubDate": "2026-09-03",
+    "src": "삼성SDS",
+    "region": "domestic",
+    "company": "삼성SDS",
+    "url": "https://www.samsungsds.com/kr/news/sds-260903.html",
+    "tags": [
+      {
+        "text": "#삼성SDS",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_삼성SDS_857827cd39",
+    "axis": "IT회사 동향",
+    "name": "삼성SDS, '리얼 서밋 2026' 9월 8일 개최",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "삼성SDS",
+    "deadline": "",
+    "pubDate": "2026-09-01",
+    "src": "삼성SDS",
+    "region": "domestic",
+    "company": "삼성SDS",
+    "url": "https://www.samsungsds.com/kr/news/sds-260901.html",
+    "tags": [
+      {
+        "text": "#삼성SDS",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_삼성SDS_6573e754aa",
+    "axis": "IT회사 동향",
+    "name": "삼성SDS, 서울대 AI 네이티브 캠퍼스 구축 지원한다 ... '차세대 네트워크 플랫폼 전환' 사업 수주",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "삼성SDS",
+    "deadline": "",
+    "pubDate": "2026-08-24",
+    "src": "삼성SDS",
+    "region": "domestic",
+    "company": "삼성SDS",
+    "url": "https://www.samsungsds.com/kr/news/sds-260824.html",
+    "tags": [
+      {
+        "text": "#삼성SDS",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcod_SKCC_cec8d07586",
+    "axis": "IT회사 동향",
+    "name": "SK AX, SAP와 ‘AI 네이티브 엔터프라이즈’ 동맹 강화…기업운영 AX혁신 가속",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "SK C&C",
+    "deadline": "",
+    "pubDate": "2026-08-26",
+    "src": "SK C&C",
+    "region": "domestic",
+    "company": "SK C&C",
+    "url": "https://www.skax.co.kr/company/news-room/sk-ax-sap%ec%99%80-ai-%eb%84%a4%ec%9d%b4%ed%8b%b0%eb%b8%8c-%ec%97%94%ed%84%b0%ed%94%84%eb%9d%bc%ec%9d%b4%ec%a6%88-%eb%8f%99%eb%a7%b9-%ea%b0%95%ed%99%94%ea%b8%b0%ec%97%85",
+    "tags": [
+      {
+        "text": "#SK C&C",
+        "type": "agency"
+      },
+      {
+        "text": "#AX전환",
+        "type": "biztype"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AX/DX 솔루션 공급",
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcod_포스코DX_dcdec9cdc3",
+    "axis": "IT회사 동향",
+    "name": "더 나은 세상을 위한 청소년들의 AI 아이디어, 포스코DX와 함께 현실이 되다",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "포스코DX",
+    "deadline": "",
+    "pubDate": "2026-08-26",
+    "src": "포스코DX",
+    "region": "domestic",
+    "company": "포스코DX",
+    "url": "https://www.poscodx.com/kor/pr/newsRoomView.do?col=&sw=&page=&num=7122",
+    "tags": [
+      {
+        "text": "#포스코DX",
+        "type": "agency"
+      },
+      {
+        "text": "#철강",
+        "type": "domain"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AX/DX 솔루션 공급",
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcod_포스코DX_5f39ef9951",
+    "axis": "IT회사 동향",
+    "name": "포스코DX, 국산 AI 반도체 활용해 산업현장 비정형 데이터 분석 플랫폼 개발",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "포스코DX",
+    "deadline": "",
+    "pubDate": "2026-08-14",
+    "src": "포스코DX",
+    "region": "domestic",
+    "company": "포스코DX",
+    "url": "https://www.poscodx.com/kor/pr/newsRoomView.do?col=&sw=&page=&num=7120",
+    "tags": [
+      {
+        "text": "#포스코DX",
+        "type": "agency"
+      },
+      {
+        "text": "#철강",
+        "type": "domain"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      },
+      {
+        "text": "#반도체·전자",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AX/DX 솔루션 공급",
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcod_포스코DX_550742dd95",
+    "axis": "IT회사 동향",
+    "name": "포스코DX, 장애인 유튜브 크리에이터 꿈 키운다",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "포스코DX",
+    "deadline": "",
+    "pubDate": "2026-08-07",
+    "src": "포스코DX",
+    "region": "domestic",
+    "company": "포스코DX",
+    "url": "https://www.poscodx.com/kor/pr/newsRoomView.do?col=&sw=&page=&num=7119",
+    "tags": [
+      {
+        "text": "#포스코DX",
+        "type": "agency"
+      },
+      {
+        "text": "#철강",
+        "type": "domain"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AX/DX 솔루션 공급"
+    ]
+  },
+  {
+    "id": "itcod_포스코DX_5cac3491d5",
+    "axis": "IT회사 동향",
+    "name": "포스코DX, ‘AI 네이티브 컴퍼니’로 대전환…  피지컬AI와 에이전틱AI로 AI 시장 선도",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "포스코DX",
+    "deadline": "",
+    "pubDate": "2026-07-29",
+    "src": "포스코DX",
+    "region": "domestic",
+    "company": "포스코DX",
+    "url": "https://www.poscodx.com/kor/pr/newsRoomView.do?col=&sw=&page=&num=7116",
+    "tags": [
+      {
+        "text": "#포스코DX",
+        "type": "agency"
+      },
+      {
+        "text": "#철강",
+        "type": "domain"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AX/DX 솔루션 공급",
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcod_포스코DX_afc5596761",
+    "axis": "IT회사 동향",
+    "name": "포스코DX가 미디어데이를 개최합니다. (선착순 신청 마감되었습니다.)",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "포스코DX",
+    "deadline": "",
+    "pubDate": "2026-07-10",
+    "src": "포스코DX",
+    "region": "domestic",
+    "company": "포스코DX",
+    "url": "https://www.poscodx.com/kor/pr/newsRoomView.do?col=&sw=&page=&num=7115",
+    "tags": [
+      {
+        "text": "#포스코DX",
+        "type": "agency"
+      },
+      {
+        "text": "#철강",
+        "type": "domain"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AX/DX 솔루션 공급"
+    ]
+  },
+  {
+    "id": "itcod_한화시스템_1e6c3b0473",
+    "axis": "IT회사 동향",
+    "name": "한화시스템, 국내 최초 7회 연속 ‘CMMI 레벨 5’ 획득",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한화시스템",
+    "deadline": "",
+    "pubDate": "2026-08-24",
+    "src": "한화시스템",
+    "region": "domestic",
+    "company": "한화시스템",
+    "url": "https://www.hanwhasystems.com/kr/prcenter/newsView.do?bbidx=819",
+    "tags": [
+      {
+        "text": "#한화시스템",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_한화시스템_6353d75924",
+    "axis": "IT회사 동향",
+    "name": "한화시스템, 오스트리아 드론社와 협력 강화… 첨단 공중통신 솔루션 글로벌 수출 박차",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한화시스템",
+    "deadline": "",
+    "pubDate": "2026-08-18",
+    "src": "한화시스템",
+    "region": "domestic",
+    "company": "한화시스템",
+    "url": "https://www.hanwhasystems.com/kr/prcenter/newsView.do?bbidx=818",
+    "tags": [
+      {
+        "text": "#한화시스템",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_한화시스템_37db433897",
+    "axis": "IT회사 동향",
+    "name": "한화시스템, 해군 함정에 최첨단 EO·IR 공급… ‘현존 전력 성능 극대화’ 속도 낸다",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한화시스템",
+    "deadline": "",
+    "pubDate": "2026-08-14",
+    "src": "한화시스템",
+    "region": "domestic",
+    "company": "한화시스템",
+    "url": "https://www.hanwhasystems.com/kr/prcenter/newsView.do?bbidx=817",
+    "tags": [
+      {
+        "text": "#한화시스템",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_한화시스템_8a140117db",
+    "axis": "IT회사 동향",
+    "name": "한화시스템-TTA, 차세대 軍 통신망 개발 위해 맞손… 글로벌 시장 공략 나선다",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한화시스템",
+    "deadline": "",
+    "pubDate": "2026-08-13",
+    "src": "한화시스템",
+    "region": "domestic",
+    "company": "한화시스템",
+    "url": "https://www.hanwhasystems.com/kr/prcenter/newsView.do?bbidx=816",
+    "tags": [
+      {
+        "text": "#한화시스템",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_한화시스템_69db0b6879",
+    "axis": "IT회사 동향",
+    "name": "한화시스템, ‘20조원 우주 투자’ 이끌 첨단 ‘우주 인재’ 대규모 채용",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한화시스템",
+    "deadline": "",
+    "pubDate": "2026-08-04",
+    "src": "한화시스템",
+    "region": "domestic",
+    "company": "한화시스템",
+    "url": "https://www.hanwhasystems.com/kr/prcenter/newsView.do?bbidx=813",
+    "tags": [
+      {
+        "text": "#한화시스템",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_한화시스템_c083cf2859",
+    "axis": "IT회사 동향",
+    "name": "한화시스템, AI기반 해양무인체계 총출동… 해군 ‘유·무인 복합전투체계’ 미래를 현실로",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한화시스템",
+    "deadline": "",
+    "pubDate": "2026-08-03",
+    "src": "한화시스템",
+    "region": "domestic",
+    "company": "한화시스템",
+    "url": "https://www.hanwhasystems.com/kr/prcenter/newsView.do?bbidx=812",
+    "tags": [
+      {
+        "text": "#한화시스템",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      },
+      {
+        "text": "#소재·에너지",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcod_CJ올리브네트웍스_fb76d1eccc",
+    "axis": "IT회사 동향",
+    "name": "CJ ONE, 3400만 이용자 네이버페이에서도 적립 및 사용",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "CJ올리브네트웍스",
+    "deadline": "",
+    "pubDate": "2026-09-02",
+    "src": "CJ올리브네트웍스",
+    "region": "domestic",
+    "company": "CJ올리브네트웍스",
+    "url": "https://www.cjolivenetworks.co.kr/news/press_release/detail/861",
+    "tags": [
+      {
+        "text": "#CJ올리브네트웍스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_CJ올리브네트웍스_700915c4c0",
+    "axis": "IT회사 동향",
+    "name": "CJ ONE, 하나은행과 ‘CJ ONE 내맘적금’ 프로모션",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "CJ올리브네트웍스",
+    "deadline": "",
+    "pubDate": "2026-08-28",
+    "src": "CJ올리브네트웍스",
+    "region": "domestic",
+    "company": "CJ올리브네트웍스",
+    "url": "https://www.cjolivenetworks.co.kr/news/press_release/detail/859",
+    "tags": [
+      {
+        "text": "#CJ올리브네트웍스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_CJ올리브네트웍스_67d0696883",
+    "axis": "IT회사 동향",
+    "name": "CJ올리브네트웍스, ‘Girls Can Do IT 2026’ AI 요리 해커톤 성료",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "CJ올리브네트웍스",
+    "deadline": "",
+    "pubDate": "2026-08-27",
+    "src": "CJ올리브네트웍스",
+    "region": "domestic",
+    "company": "CJ올리브네트웍스",
+    "url": "https://www.cjolivenetworks.co.kr/news/press_release/detail/858",
+    "tags": [
+      {
+        "text": "#CJ올리브네트웍스",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcod_CJ올리브네트웍스_d8dd7cf802",
+    "axis": "IT회사 동향",
+    "name": "CJ ONE, 문화예술 전시서도 포인트 쌓고 쓴다 ‘그라운드시소’와 제휴",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "CJ올리브네트웍스",
+    "deadline": "",
+    "pubDate": "2026-08-20",
+    "src": "CJ올리브네트웍스",
+    "region": "domestic",
+    "company": "CJ올리브네트웍스",
+    "url": "https://www.cjolivenetworks.co.kr/news/press_release/detail/857",
+    "tags": [
+      {
+        "text": "#CJ올리브네트웍스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_CJ올리브네트웍스_38952e290a",
+    "axis": "IT회사 동향",
+    "name": "CJ올리브네트웍스, HD현대일렉트릭 청주 배전캠퍼스 차세대 물류 시스템(WMS) 구축 완료",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "CJ올리브네트웍스",
+    "deadline": "",
+    "pubDate": "2026-08-11",
+    "src": "CJ올리브네트웍스",
+    "region": "domestic",
+    "company": "CJ올리브네트웍스",
+    "url": "https://www.cjolivenetworks.co.kr/news/press_release/detail/856",
+    "tags": [
+      {
+        "text": "#CJ올리브네트웍스",
+        "type": "agency"
+      },
+      {
+        "text": "#소재·에너지",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_CJ올리브네트웍스_fd702309b1",
+    "axis": "IT회사 동향",
+    "name": "CJ ONE, 8월에도 ‘원더 시리즈’ 이어간다",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "CJ올리브네트웍스",
+    "deadline": "",
+    "pubDate": "2026-08-05",
+    "src": "CJ올리브네트웍스",
+    "region": "domestic",
+    "company": "CJ올리브네트웍스",
+    "url": "https://www.cjolivenetworks.co.kr/news/press_release/detail/854",
+    "tags": [
+      {
+        "text": "#CJ올리브네트웍스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_CJ올리브네트웍스_54b0c0f96e",
+    "axis": "IT회사 동향",
+    "name": "CJ ONE, 여름 미식 여행 테마 ‘원더퀴즈’ 진행",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "CJ올리브네트웍스",
+    "deadline": "",
+    "pubDate": "2026-07-27",
+    "src": "CJ올리브네트웍스",
+    "region": "domestic",
+    "company": "CJ올리브네트웍스",
+    "url": "https://www.cjolivenetworks.co.kr/news/press_release/detail/852",
+    "tags": [
+      {
+        "text": "#CJ올리브네트웍스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_CJ올리브네트웍스_b1b48c6b1d",
+    "axis": "IT회사 동향",
+    "name": "CJ ONE, 삼성 월렛에서도 포인트 적립/사용 한 번에",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "CJ올리브네트웍스",
+    "deadline": "",
+    "pubDate": "2026-07-20",
+    "src": "CJ올리브네트웍스",
+    "region": "domestic",
+    "company": "CJ올리브네트웍스",
+    "url": "https://www.cjolivenetworks.co.kr/news/press_release/detail/846",
+    "tags": [
+      {
+        "text": "#CJ올리브네트웍스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_CJ올리브네트웍스_254a142899",
+    "axis": "IT회사 동향",
+    "name": "\"공간집약형 IT기술로 압도적인 현장감 제공\" CJ올리브네트웍스, UHD AI 중계차 구축",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "CJ올리브네트웍스",
+    "deadline": "",
+    "pubDate": "2026-07-14",
+    "src": "CJ올리브네트웍스",
+    "region": "domestic",
+    "company": "CJ올리브네트웍스",
+    "url": "https://www.cjolivenetworks.co.kr/news/press_release/detail/845",
+    "tags": [
+      {
+        "text": "#CJ올리브네트웍스",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcod_코오롱베니트_e1de8a5bce",
+    "axis": "IT회사 동향",
+    "name": "코오롱베니트, 자체 개발 공급망실사 솔루션 앞세워 ESG 통합관...",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "코오롱베니트",
+    "deadline": "",
+    "pubDate": "2026-09-03",
+    "src": "코오롱베니트",
+    "region": "domestic",
+    "company": "코오롱베니트",
+    "url": "https://www.kolonbenit.com/pr-center/communityid/news/list.do",
+    "tags": [
+      {
+        "text": "#코오롱베니트",
+        "type": "agency"
+      },
+      {
+        "text": "#소재·에너지",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_코오롱베니트_23af10e797",
+    "axis": "IT회사 동향",
+    "name": "코오롱베니트 AI Alliance [잇다,CONNECT] Vol...",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "코오롱베니트",
+    "deadline": "",
+    "pubDate": "2026-09-03",
+    "src": "코오롱베니트",
+    "region": "domestic",
+    "company": "코오롱베니트",
+    "url": "https://www.kolonbenit.com/pr-center/communityid/news/list.do",
+    "tags": [
+      {
+        "text": "#코오롱베니트",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcod_코오롱베니트_33aec879ce",
+    "axis": "IT회사 동향",
+    "name": "코오롱베니트, 자체 ‘SAP SuccessFactors 프리패키...",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "코오롱베니트",
+    "deadline": "",
+    "pubDate": "2026-08-31",
+    "src": "코오롱베니트",
+    "region": "domestic",
+    "company": "코오롱베니트",
+    "url": "https://www.kolonbenit.com/pr-center/communityid/news/list.do",
+    "tags": [
+      {
+        "text": "#코오롱베니트",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_코오롱베니트_11f1ee3638",
+    "axis": "IT회사 동향",
+    "name": "코오롱베니트, 양자컴퓨팅 해커톤 ‘Quantum Reframin...",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "코오롱베니트",
+    "deadline": "",
+    "pubDate": "2026-08-27",
+    "src": "코오롱베니트",
+    "region": "domestic",
+    "company": "코오롱베니트",
+    "url": "https://www.kolonbenit.com/pr-center/communityid/news/list.do",
+    "tags": [
+      {
+        "text": "#코오롱베니트",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_코오롱베니트_60806a822c",
+    "axis": "IT회사 동향",
+    "name": "코오롱베니트, ‘델 테크놀로지스 포럼 2026’ 플래티넘 스폰서...",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "코오롱베니트",
+    "deadline": "",
+    "pubDate": "2026-08-25",
+    "src": "코오롱베니트",
+    "region": "domestic",
+    "company": "코오롱베니트",
+    "url": "https://www.kolonbenit.com/pr-center/communityid/news/list.do",
+    "tags": [
+      {
+        "text": "#코오롱베니트",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_코오롱베니트_7fdb9311af",
+    "axis": "IT회사 동향",
+    "name": "코오롱베니트, 과천종합사회복지관서 스마트폰 교육 봉사활동 전개",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "코오롱베니트",
+    "deadline": "",
+    "pubDate": "2026-08-10",
+    "src": "코오롱베니트",
+    "region": "domestic",
+    "company": "코오롱베니트",
+    "url": "https://www.kolonbenit.com/pr-center/communityid/news/list.do",
+    "tags": [
+      {
+        "text": "#코오롱베니트",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_코오롱베니트_01755669a2",
+    "axis": "IT회사 동향",
+    "name": "코오롱베니트, 자체 개발 솔루션 앞세워 기업 업무 혁신 시장 본...",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "코오롱베니트",
+    "deadline": "",
+    "pubDate": "2026-07-29",
+    "src": "코오롱베니트",
+    "region": "domestic",
+    "company": "코오롱베니트",
+    "url": "https://www.kolonbenit.com/pr-center/communityid/news/list.do",
+    "tags": [
+      {
+        "text": "#코오롱베니트",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_코오롱베니트_7cc584a2c6",
+    "axis": "IT회사 동향",
+    "name": "코오롱베니트, ‘상생형 AX 선도모델 구축지원사업’ 주관기관 선...",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "코오롱베니트",
+    "deadline": "",
+    "pubDate": "2026-07-16",
+    "src": "코오롱베니트",
+    "region": "domestic",
+    "company": "코오롱베니트",
+    "url": "https://www.kolonbenit.com/pr-center/communityid/news/list.do",
+    "tags": [
+      {
+        "text": "#코오롱베니트",
+        "type": "agency"
+      },
+      {
+        "text": "#AX전환",
+        "type": "biztype"
+      },
+      {
+        "text": "#상생협력",
+        "type": "biztype"
+      },
+      {
+        "text": "#주관기관",
+        "type": "role"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AX/DX 솔루션 공급"
+    ]
+  },
+  {
+    "id": "itcod_코오롱베니트_e933586acf",
+    "axis": "IT회사 동향",
+    "name": "코오롱베니트, ‘Dell Technologies Roadshow...",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "코오롱베니트",
+    "deadline": "",
+    "pubDate": "2026-07-09",
+    "src": "코오롱베니트",
+    "region": "domestic",
+    "company": "코오롱베니트",
+    "url": "https://www.kolonbenit.com/pr-center/communityid/news/list.do",
+    "tags": [
+      {
+        "text": "#코오롱베니트",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_전자신문_e0b5f6b43b",
+    "axis": "IT회사 동향",
+    "name": "애플 첫 폴더블 한국 출시 10월 이후로…아이폰18과 시차 둔다",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "전자신문",
+    "deadline": "",
+    "pubDate": "2026-09-07",
+    "src": "전자신문",
+    "region": "global",
+    "company": "애플",
+    "url": "https://www.etnews.com/20260907000344",
+    "tags": [
+      {
+        "text": "#전자신문",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
     "id": "itcog_전자신문_a9a632b10f",
     "axis": "IT회사 동향",
     "name": "활주로 이탈한 아마존 화물기가 도로 덮쳤다…최소 5명 사망",
