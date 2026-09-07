@@ -130,6 +130,7 @@
   <!-- 산업별 뉴스 -->
   <section id="panel-산업별 뉴스" hidden>
     <div class="h-tabs" id="domainTabs"></div>
+    <div class="pill-tabs" id="newsTypeTabs"></div>
     <div class="news-wrap"><div id="newsList"></div></div>
   </section>
 </div>
@@ -154,10 +155,12 @@ const AGENCY_LABELS = {
 
 const REGION_TABS = [{key:'domestic',label:'국내'},{key:'global',label:'해외'}];
 const DOMAIN_TABS = ['AI·로봇','반도체·전자','모빌리티·자동차','철강·소재·에너지'];
+// 산업별 뉴스 하위 구분: 뉴스(개별 기사) / 동향(뉴스레터·브리프, src==='뉴스레터')
+const NEWS_TYPE_TABS = [{key:'all',label:'전체'},{key:'news',label:'뉴스'},{key:'trend',label:'동향'}];
 
 let DATA=[],currentAxis='지원사업',
     activeMinistry=new Set(),activeAgencyTab='전체',
-    activeRegion='domestic',activeCategory=DOMAIN_TABS[0],
+    activeRegion='domestic',activeCategory=DOMAIN_TABS[0],activeNewsType='all',
     searchQuery='',sortKey='deadline',sortDir=1,RENDERED=[];
 
 async function loadData(){
@@ -196,6 +199,8 @@ function getRows(){
     rows=rows.filter(d=>d.region===activeRegion);
   }else if(currentAxis==='산업별 뉴스'){
     rows=rows.filter(d=>d.category===activeCategory);
+    if(activeNewsType==='news')rows=rows.filter(d=>d.src!=='뉴스레터');
+    else if(activeNewsType==='trend')rows=rows.filter(d=>d.src==='뉴스레터');
   }
   if(searchQuery){
     const q=searchQuery.toLowerCase();
@@ -233,6 +238,10 @@ function buildRegionTabs(){
 
 function buildDomainTabs(){
   return DOMAIN_TABS.map(d=>'<button class="h-tab'+(activeCategory===d?' active':'')+'" data-domain="'+esc(d)+'">'+esc(d)+'</button>').join('');
+}
+
+function buildNewsTypeTabs(){
+  return NEWS_TYPE_TABS.map(t=>'<button class="pill-tab'+(activeNewsType===t.key?' active':'')+'" data-newstype="'+t.key+'">'+t.label+'</button>').join('');
 }
 
 function renderGrantRows(rows){
@@ -301,6 +310,7 @@ function render(){
     renderNewsRows('itcoList', rows);
   }else{
     document.getElementById('domainTabs').innerHTML=buildDomainTabs();
+    document.getElementById('newsTypeTabs').innerHTML=buildNewsTypeTabs();
     renderNewsRows('newsList', rows);
   }
 }
@@ -308,7 +318,7 @@ function render(){
 document.querySelectorAll('.tab').forEach(tab=>tab.addEventListener('click',()=>{
   document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
   tab.classList.add('active');currentAxis=tab.dataset.axis;
-  activeMinistry.clear();activeAgencyTab='전체';
+  activeMinistry.clear();activeAgencyTab='전체';activeNewsType='all';
   sortKey='deadline';sortDir=1;
   render();
 }));
@@ -319,6 +329,7 @@ document.addEventListener('click',e=>{
   const at=e.target.closest('[data-agencytab]');if(at){activeAgencyTab=at.dataset.agencytab;render();return;}
   const rt=e.target.closest('[data-region]');if(rt){activeRegion=rt.dataset.region;render();return;}
   const dt=e.target.closest('[data-domain]');if(dt){activeCategory=dt.dataset.domain;render();return;}
+  const nt=e.target.closest('[data-newstype]');if(nt){activeNewsType=nt.dataset.newstype;render();return;}
 });
 document.querySelectorAll('th.sortable').forEach(th=>th.addEventListener('click',()=>{const k=th.dataset.sort;sortKey===k?(sortDir*=-1):(sortKey=k,sortDir=1);render();}));
 
