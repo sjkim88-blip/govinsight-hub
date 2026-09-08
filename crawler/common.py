@@ -289,7 +289,7 @@ GLOBAL_TECH_KEYWORDS = [
     "메타", "Meta", "테슬라", "Tesla", "오픈AI", "OpenAI", "알리바바", "Alibaba",
     "텐센트", "Tencent", "바이두", "Baidu", "화웨이", "Huawei", "샤오미", "Xiaomi",
     "마이크론", "Micron", "인텔", "Intel", "퀄컴", "Qualcomm", "ASML",
-    "TSMC", "브로드컴", "Broadcom", "AMD", "IBM", "오라클", "Oracle",
+    "브로드컴", "Broadcom", "AMD", "IBM", "오라클", "Oracle",
     "세일즈포스", "Salesforce", "소프트뱅크", "SoftBank", "바이트댄스", "ByteDance",
 ]
 

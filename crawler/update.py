@@ -152,6 +152,22 @@ def main():
     if expired_cnt:
         print(f"  · 마감된 공고 {expired_cnt}건 제외")
 
+    # 오래된 뉴스 제거: IT회사 동향/산업별 뉴스는 최신성이 중요하므로 pubDate
+    # 기준 2일 이상 지난 항목은 뺀다. pubDate 가 없는 항목(뉴스레터처럼 개별
+    # 게시일을 못 뽑는 소스)은 판단 불가이므로 유지한다.
+    NEWS_MAX_AGE_DAYS = 2
+    news_cutoff = (datetime.date.today() - datetime.timedelta(days=NEWS_MAX_AGE_DAYS)).isoformat()
+    before_news_cnt = len(result)
+    result = [
+        it for it in result
+        if it.get("axis") not in ("IT회사 동향", "산업별 뉴스")
+        or not it.get("pubDate")
+        or it["pubDate"] >= news_cutoff
+    ]
+    stale_news_cnt = before_news_cnt - len(result)
+    if stale_news_cnt:
+        print(f"  · {NEWS_MAX_AGE_DAYS}일 이상 지난 뉴스 {stale_news_cnt}건 제외")
+
     # ministry 필드 정규화: 표기 변형 통일
     _MINISTRY_MAP = {
         "산업통상부": "산업통상자원부",
