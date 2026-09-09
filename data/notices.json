@@ -554,6 +554,41 @@
     "domain": []
   },
   {
+    "id": "itcod_삼성SDS_db3e90844e",
+    "axis": "IT회사 동향",
+    "name": "삼성SDS, AI 도입 넘어 기업 AX 혁신 이끈다! '리얼 서밋 2026'서 '다차원 AI 풀스택' 전략 제시",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "삼성SDS",
+    "deadline": "",
+    "pubDate": "2026-09-08",
+    "src": "삼성SDS",
+    "region": "domestic",
+    "company": "삼성SDS",
+    "url": "https://www.samsungsds.com/kr/news/sds20260908.html",
+    "tags": [
+      {
+        "text": "#삼성SDS",
+        "type": "agency"
+      },
+      {
+        "text": "#AX전환",
+        "type": "biztype"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AX/DX 솔루션 공급",
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
     "id": "bizinfo_pbln_000000000126291",
     "axis": "지원사업",
     "name": "[전남광주] 진도군 2026년 착한가격업소 신규지정 추가 모집 공고",
@@ -2197,7 +2232,7 @@
   },
   {
     "id": "hk_202609081698",
-    "name": "흡입력도 배터리도 LG가 나은데…삼성 로청에 '후한 점수' 준 이유",
+    "name": "\"청소 잘해도 멈추면 꽝\"…삼성·LG 로봇청소기 '충격' 결과",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
@@ -2213,12 +2248,12 @@
         "type": "agency"
       },
       {
-        "text": "#모빌리티·자동차",
+        "text": "#AI",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
+    "category": "AI",
     "sz": "small",
     "domain": []
   },
@@ -3028,6 +3063,30 @@
     "domain": []
   },
   {
+    "id": "hk_202609045199",
+    "name": "중고차 수십만 대 훑어봤더니…테슬라·벤츠도 제친 '전기車'",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-09-06",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202609045199g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "IT회사 동향",
+    "region": "global",
+    "company": "테슬라",
+    "sz": "small",
+    "domain": []
+  },
+  {
     "id": "hk_2026090823391",
     "name": "6800억 규모 태국 호위함…한화오션, 사업자로 선정",
     "sub": "",
@@ -3249,28 +3308,100 @@
     ]
   },
   {
-    "id": "itcod_삼성SDS_db3e90844e",
+    "id": "itcod_삼성SDS_b986bdda49",
     "axis": "IT회사 동향",
-    "name": "삼성SDS, AI 도입 넘어 기업 AX 혁신 이끈다! '리얼 서밋 2026'서 '다차원 AI 풀스택' 전략 제시",
+    "name": "삼성SDS, 미국서 'RX ART 2026' 개최…  RX 시너지 본격화",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "삼성SDS",
     "deadline": "",
-    "pubDate": "2026-09-08",
+    "pubDate": "2026-09-03",
     "src": "삼성SDS",
     "region": "domestic",
     "company": "삼성SDS",
-    "url": "https://www.samsungsds.com/kr/news/sds20260908.html",
+    "url": "https://www.samsungsds.com/kr/news/sds-260903.html",
     "tags": [
       {
         "text": "#삼성SDS",
         "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_CJ올리브네트웍스_fb76d1eccc",
+    "axis": "IT회사 동향",
+    "name": "CJ ONE, 3400만 이용자 네이버페이에서도 적립 및 사용",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "CJ올리브네트웍스",
+    "deadline": "",
+    "pubDate": "2026-09-02",
+    "src": "CJ올리브네트웍스",
+    "region": "domestic",
+    "company": "CJ올리브네트웍스",
+    "url": "https://www.cjolivenetworks.co.kr/news/press_release/detail/861",
+    "tags": [
+      {
+        "text": "#CJ올리브네트웍스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_코오롱베니트_e1de8a5bce",
+    "axis": "IT회사 동향",
+    "name": "코오롱베니트, 자체 개발 공급망실사 솔루션 앞세워 ESG 통합관...",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "코오롱베니트",
+    "deadline": "",
+    "pubDate": "2026-09-03",
+    "src": "코오롱베니트",
+    "region": "domestic",
+    "company": "코오롱베니트",
+    "url": "https://www.kolonbenit.com/pr-center/communityid/news/list.do",
+    "tags": [
+      {
+        "text": "#코오롱베니트",
+        "type": "agency"
       },
       {
-        "text": "#AX전환",
-        "type": "biztype"
+        "text": "#소재·에너지",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_코오롱베니트_23af10e797",
+    "axis": "IT회사 동향",
+    "name": "코오롱베니트 AI Alliance [잇다,CONNECT] Vol...",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "코오롱베니트",
+    "deadline": "",
+    "pubDate": "2026-09-03",
+    "src": "코오롱베니트",
+    "region": "domestic",
+    "company": "코오롱베니트",
+    "url": "https://www.kolonbenit.com/pr-center/communityid/news/list.do",
+    "tags": [
+      {
+        "text": "#코오롱베니트",
+        "type": "agency"
       },
       {
         "text": "#AI",
@@ -3279,7 +3410,36 @@
     ],
     "sz": "small",
     "domain": [
-      "AX/DX 솔루션 공급",
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcog_전자신문_b25e33efc4",
+    "axis": "IT회사 동향",
+    "name": "오픈AI '아스트라', 48단계 '인간 증명' 테스트 모두 통과",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "전자신문",
+    "deadline": "",
+    "pubDate": "2026-09-09",
+    "src": "전자신문",
+    "region": "global",
+    "company": "오픈AI",
+    "url": "https://www.etnews.com/20260909000001",
+    "tags": [
+      {
+        "text": "#전자신문",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
       "AI·피지컬AI R&D"
     ]
   },

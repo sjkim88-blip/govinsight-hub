@@ -152,21 +152,23 @@ def main():
     if expired_cnt:
         print(f"  · 마감된 공고 {expired_cnt}건 제외")
 
-    # 오래된 뉴스 제거: IT회사 동향/산업별 뉴스는 최신성이 중요하므로 pubDate
-    # 기준 2일 이상 지난 항목은 뺀다. pubDate 가 없는 항목(뉴스레터처럼 개별
-    # 게시일을 못 뽑는 소스)은 판단 불가이므로 유지한다.
-    NEWS_MAX_AGE_DAYS = 2
-    news_cutoff = (datetime.date.today() - datetime.timedelta(days=NEWS_MAX_AGE_DAYS)).isoformat()
+    # 오래된 뉴스 제거: pubDate 기준으로 축(axis)마다 다른 기간을 적용한다.
+    # 산업별 뉴스(한경)는 매일 기사량이 많아 2일이면 충분하지만, IT회사 동향은
+    # 회사별 보도자료가 매일 나오지 않아 2일로는 너무 적게 남아 7일(주간)로 둔다.
+    # pubDate 가 없는 항목(뉴스레터처럼 개별 게시일을 못 뽑는 소스)은 판단
+    # 불가이므로 유지한다.
+    NEWS_MAX_AGE_DAYS = {"IT회사 동향": 7, "산업별 뉴스": 2}
+    today_date = datetime.date.today()
     before_news_cnt = len(result)
     result = [
         it for it in result
-        if it.get("axis") not in ("IT회사 동향", "산업별 뉴스")
+        if it.get("axis") not in NEWS_MAX_AGE_DAYS
         or not it.get("pubDate")
-        or it["pubDate"] >= news_cutoff
+        or it["pubDate"] >= (today_date - datetime.timedelta(days=NEWS_MAX_AGE_DAYS[it["axis"]])).isoformat()
     ]
     stale_news_cnt = before_news_cnt - len(result)
     if stale_news_cnt:
-        print(f"  · {NEWS_MAX_AGE_DAYS}일 이상 지난 뉴스 {stale_news_cnt}건 제외")
+        print(f"  · 오래된 뉴스 {stale_news_cnt}건 제외")
 
     # ministry 필드 정규화: 표기 변형 통일
     _MINISTRY_MAP = {
