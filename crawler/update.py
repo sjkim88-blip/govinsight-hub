@@ -153,11 +153,9 @@ def main():
         print(f"  · 마감된 공고 {expired_cnt}건 제외")
 
     # 오래된 뉴스 제거: pubDate 기준으로 축(axis)마다 다른 기간을 적용한다.
-    # 산업별 뉴스(한경)는 매일 기사량이 많아 2일이면 충분하지만, IT회사 동향은
-    # 회사별 보도자료가 매일 나오지 않아 2일로는 너무 적게 남아 7일(주간)로 둔다.
-    # pubDate 가 없는 항목(뉴스레터처럼 개별 게시일을 못 뽑는 소스)은 판단
-    # 불가이므로 유지한다.
-    NEWS_MAX_AGE_DAYS = {"IT회사 동향": 7, "산업별 뉴스": 2}
+    # IT회사 동향은 한 달, 산업별 뉴스는 2주 보관(사용자 지정). pubDate 가
+    # 없는 항목(뉴스레터처럼 개별 게시일을 못 뽑는 소스)은 판단 불가이므로 유지한다.
+    NEWS_MAX_AGE_DAYS = {"IT회사 동향": 30, "산업별 뉴스": 14}
     today_date = datetime.date.today()
     before_news_cnt = len(result)
     result = [
