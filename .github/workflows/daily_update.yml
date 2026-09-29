@@ -28,6 +28,7 @@ jobs:
         run: python crawler/update.py
 
       - name: 신규 공고 이메일 알림
+        continue-on-error: true   # 이메일 발송 실패(SMTP 등)가 커밋/푸시를 막지 않도록
         env:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
@@ -35,6 +36,7 @@ jobs:
         run: python crawler/notify.py
 
       - name: 변경사항 커밋 & 푸시
+        if: always()   # 이전 단계가 실패해도 크롤링 결과는 반드시 커밋
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
