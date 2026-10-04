@@ -4961,6 +4961,66 @@
     "domain": []
   },
   {
+    "id": "itcog_AI타임스_84a8349996",
+    "axis": "IT회사 동향",
+    "name": "오픈AI 내부 모델, 종료 일정 알아채고 '생존 조치' 모색",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-10-04",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "오픈AI",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215950",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcog_AI타임스_01f54322ec",
+    "axis": "IT회사 동향",
+    "name": "오픈AI 안전 총괄, 조직 문화 비판하며 사직...\"시행착오 시대 끝났다\"",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-10-04",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "오픈AI",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215947",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
     "id": "itcog_AI타임스_8d1d894f5c",
     "axis": "IT회사 동향",
     "name": "메타, 오픈소스 '뮤즈 가젯' 공개...AI 에이전트 하드웨어 이식 본격화",
@@ -4993,7 +5053,7 @@
   {
     "id": "itcog_AI타임스_2d6d9230a2",
     "axis": "IT회사 동향",
-    "name": "애플, 맥OS '전체 디스크 접근' 제어 강화...AI 에이전트 무단 접근 막는다",
+    "name": "애플, AI 에이전트 공격 대비해 맥OS '전체 디스크 접근' 제어 강화",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
@@ -5043,147 +5103,5 @@
     ],
     "sz": "small",
     "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_8c048ffba4",
-    "axis": "IT회사 동향",
-    "name": "아마존, 에이전트 전용 의사결정 모델 ‘스트랜즈 디사이더 2B’ 오픈 공개",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-02",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "아마존",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=215887",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_0a82742e5e",
-    "axis": "IT회사 동향",
-    "name": "구글 딥마인드, AI가 만든 단백질·유전체 추적하는 워터마크 기술 공개",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-02",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "구글",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=215902",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_791803e2c2",
-    "axis": "IT회사 동향",
-    "name": "[AI 모델 신작] MS 음성인식 'MAI-트랜스크라이브-2-스트리밍' 등 6종",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-02",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "MS",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=215930",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_29aa782bf8",
-    "axis": "IT회사 동향",
-    "name": "구글 \"우주 데이터센터 실현 위해 스타십 최소 1800회 발사 필요\"",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-02",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "구글",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=215886",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_abf5aca90f",
-    "axis": "IT회사 동향",
-    "name": "텐센트, 오라클서 AI 칩 10만개 임대…규제 피하려 동남아로",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-02",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "텐센트",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=215909",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
   }
 ]
