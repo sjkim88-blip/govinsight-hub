@@ -682,112 +682,6 @@
     ]
   },
   {
-    "id": "itcog_전자신문_62431f49a4",
-    "axis": "IT회사 동향",
-    "name": "석 달 만에 '사상 최대'…'60조' 마이크론, 다음은 '190조' 삼전닉스",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "전자신문",
-    "deadline": "",
-    "pubDate": "2026-10-02",
-    "src": "전자신문",
-    "region": "global",
-    "company": "마이크론",
-    "url": "https://www.etnews.com/20261001000501",
-    "tags": [
-      {
-        "text": "#전자신문",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_전자신문_c2a3ec807d",
-    "axis": "IT회사 동향",
-    "name": "“남편 지원 받습니다”… 美 여성, 구글폼에 지원서 올리자 240명 몰려",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "전자신문",
-    "deadline": "",
-    "pubDate": "2026-10-02",
-    "src": "전자신문",
-    "region": "global",
-    "company": "구글",
-    "url": "https://www.etnews.com/20261001000458",
-    "tags": [
-      {
-        "text": "#전자신문",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_전자신문_8721cb5c5c",
-    "axis": "IT회사 동향",
-    "name": "美 캘리포니아주, 오픈AI에 소환장…AI 안정성 조사",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "전자신문",
-    "deadline": "",
-    "pubDate": "2026-10-02",
-    "src": "전자신문",
-    "region": "global",
-    "company": "오픈AI",
-    "url": "https://www.etnews.com/20261002000002",
-    "tags": [
-      {
-        "text": "#전자신문",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_전자신문_d9d9e005f9",
-    "axis": "IT회사 동향",
-    "name": "HL그룹, 구글 웨이모 뚫었다…전자 브레이크 시스템 첫 공급",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "전자신문",
-    "deadline": "",
-    "pubDate": "2026-10-01",
-    "src": "전자신문",
-    "region": "global",
-    "company": "구글",
-    "url": "https://www.etnews.com/20260930000074",
-    "tags": [
-      {
-        "text": "#전자신문",
-        "type": "agency"
-      },
-      {
-        "text": "#반도체·전자",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
     "id": "bizinfo_pbln_000000000126974",
     "axis": "지원사업",
     "name": "2026년 에너지특화기업 지정 신청 공고",
@@ -1336,14 +1230,14 @@
   {
     "id": "sf_2026_N_0203_1",
     "axis": "지원사업",
-    "name": "경북 지역특화형(방산·모빌리티) 스마트공장 보급확산사업 (신규구축)",
+    "name": "2026년도 경북 지역특화형(방산·모빌리티) 스마트공장 보급확산 사업 (신규구축)",
     "sub": "경북형 스마트공장 구축 지원사업",
     "perProject": "확인 필요",
     "totalBudget": "-",
     "ministry": "중소벤처기업부",
     "agency": "중소기업기술정보진흥원",
     "deadline": "2026-10-27",
-    "period": "2026-10-06 ~ 2026-10-27",
+    "period": "2026-10-12 ~ 2026-10-27",
     "src": "스마트공장닷컴",
     "url": "https://www.smart-factory.kr/usr/bg/ba/ma/bsnsPbancDtl?pbancId=2026-N-0203&pbancSn=1",
     "tags": [
@@ -2281,6 +2175,52 @@
         "type": "domain"
       }
     ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_202610053395",
+    "name": "삼성의 '독한 다이어트'…아이폰보다 늘씬한 '여권폰'의 비밀",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-10-05",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202610053395g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "반도체·전자",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_2026100426341",
+    "name": "'K기판 르네상스'…역대 최대 수출액 노린다",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-10-04",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/2026100426341",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "반도체·전자",
     "sz": "small",
     "domain": []
   },
@@ -3280,61 +3220,27 @@
     "domain": []
   },
   {
-    "id": "hk_202609289575",
-    "name": "\"물량 못 대서 라인 또 늘린다\"…구글·테슬라 줄 서는 LS전선 구미공장",
+    "id": "hk_2026100426291",
+    "name": "16년 만에 '최악 부진' 현대차…7천만원대 GV80 내놓는다",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "한경",
     "deadline": "",
-    "pubDate": "2026-09-28",
+    "pubDate": "2026-10-04",
     "src": "한경",
-    "url": "https://www.hankyung.com/article/202609289575i",
+    "url": "https://www.hankyung.com/article/2026100426291",
     "tags": [
       {
         "text": "#한경",
         "type": "agency"
-      }
-    ],
-    "axis": "IT회사 동향",
-    "region": "global",
-    "company": "구글",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_2026092776201",
-    "name": "멕시코서 ‘AI 연결’ 선보인 삼성전자",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-09-27",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026092776201",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      },
-      {
-        "text": "#반도체·전자",
-        "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI",
+    "category": "모빌리티·자동차",
     "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
+    "domain": []
   },
   {
     "id": "hk_202610020643",
@@ -4240,17 +4146,17 @@
     "domain": []
   },
   {
-    "id": "hk_2026092912041",
-    "name": "국내 최저가에 주행감은 기대 이상…첫 차로 합격점",
+    "id": "hk_202610042527",
+    "name": "\"부르는 게 값\"…반년 새 3배 오른 '이 기름' 알고 보니",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "한경",
     "deadline": "",
-    "pubDate": "2026-09-29",
+    "pubDate": "2026-10-05",
     "src": "한경",
-    "url": "https://www.hankyung.com/article/2026092912041",
+    "url": "https://www.hankyung.com/article/202610042527i",
     "tags": [
       {
         "text": "#한경",
@@ -4258,7 +4164,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
+    "category": "소재·에너지",
     "sz": "small",
     "domain": []
   },
@@ -4658,24 +4564,24 @@
     "domain": []
   },
   {
-    "id": "hk_2026092775571",
-    "name": "데이터센터發 수요 폭발…비철금속 수출도 '맑음'",
+    "id": "hk_2026100426331",
+    "name": "휘발유·경유 수출 제한속…정유업계 '효자'된 항공유",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "한경",
     "deadline": "",
-    "pubDate": "2026-09-27",
+    "pubDate": "2026-10-04",
     "src": "한경",
-    "url": "https://www.hankyung.com/article/2026092775571",
+    "url": "https://www.hankyung.com/article/2026100426331",
     "tags": [
       {
         "text": "#한경",
         "type": "agency"
       },
       {
-        "text": "#AI",
+        "text": "#석유화학",
         "type": "domain"
       },
       {
@@ -4684,63 +4590,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "AI",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_202609277526",
-    "name": "HS효성, 멕시코에 첨단 소재 생산설비 투자…\"북미 시장 공략\"",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-09-27",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/202609277526i",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      },
-      {
-        "text": "#소재·에너지",
-        "type": "domain"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "소재·에너지",
-    "sz": "small",
-    "domain": [
-      "스마트공장·제조현장 구축"
-    ]
-  },
-  {
-    "id": "hk_202609266658",
-    "name": "\"땅도 전기도 부족하다더니\"…K조선, 바다에 '이것' 띄운다",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-09-27",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/202609266658i",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      },
-      {
-        "text": "#소재·에너지",
-        "type": "domain"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -4934,29 +4784,140 @@
     "domain": []
   },
   {
-    "id": "hk_202609220854",
-    "name": "'재생에너지 투자 선구자' 트러스톤, 신안 풍력 발전소 투자… 리파워링도 추진",
+    "id": "itcog_전자신문_b505728cbe",
+    "axis": "IT회사 동향",
+    "name": "샘 올트먼 오픈AI CEO “AI 혜택 위해 위험 감수해야”…앤트로픽과 차별화",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
-    "agency": "한경",
+    "agency": "전자신문",
     "deadline": "",
-    "pubDate": "2026-09-27",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/202609220854i",
+    "pubDate": "2026-10-05",
+    "src": "전자신문",
+    "region": "global",
+    "company": "오픈AI",
+    "url": "https://www.etnews.com/20261005000103",
     "tags": [
       {
-        "text": "#한경",
+        "text": "#전자신문",
         "type": "agency"
       },
       {
-        "text": "#소재·에너지",
+        "text": "#AI",
         "type": "domain"
       }
     ],
-    "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcog_AI타임스_9b64d59a8f",
+    "axis": "IT회사 동향",
+    "name": "네덜란드 대형 안경 체인, 몰래 촬영 우려로 메타 스마트 안경 판매 중단",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-10-05",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "메타",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215962",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_AI타임스_af5780482e",
+    "axis": "IT회사 동향",
+    "name": "오픈AI '에이전트 폭주'에 사면초가... 전 세계서 법적·규제 경고 폭풍",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-10-05",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "오픈AI",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215968",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcog_AI타임스_30f546adfd",
+    "axis": "IT회사 동향",
+    "name": "트럼프, ‘슈퍼 인텔리전스 부대’ 출범…국가정보국장, 백악관 AI 차르 겸임",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-10-05",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "인텔",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215953",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcog_AI타임스_c7bd3d6c86",
+    "axis": "IT회사 동향",
+    "name": "구글, 제미나이 요금제 개편..무료·저가 요금제서 '프로' 모델 뺀다",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-10-04",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "구글",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215946",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      }
+    ],
     "sz": "small",
     "domain": []
   },
@@ -5019,89 +4980,5 @@
     "domain": [
       "AI·피지컬AI R&D"
     ]
-  },
-  {
-    "id": "itcog_AI타임스_8d1d894f5c",
-    "axis": "IT회사 동향",
-    "name": "메타, 오픈소스 '뮤즈 가젯' 공개...AI 에이전트 하드웨어 이식 본격화",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-03",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "메타",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=215936",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_2d6d9230a2",
-    "axis": "IT회사 동향",
-    "name": "애플, AI 에이전트 공격 대비해 맥OS '전체 디스크 접근' 제어 강화",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-03",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "애플",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=215938",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_c76af0433a",
-    "axis": "IT회사 동향",
-    "name": "엔비디아, 4999달러짜리 ‘DGX 스파크’ 출시...메모리 대란에 가격 낮췄다",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-03",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "엔비디아",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=215937",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
   }
 ]
