@@ -134,7 +134,7 @@ def _send(items):
         smtp.login(user, pwd)
         smtp.sendmail(user, recipients, msg.as_string())
 
-    print(f"✓ 이메일 발송: {len(items)}건 → {', '.join(recipients)}")
+    print(f"✓ 이메일 발송: {len(items)}건 → 수신자 {len(recipients)}명")
 
 
 def main():
