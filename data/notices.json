@@ -632,34 +632,6 @@
     "domain": []
   },
   {
-    "id": "itcog_전자신문_60fe627296",
-    "axis": "IT회사 동향",
-    "name": "엔비디아 넘어선 '분기 영업익 100조' 삼성전자…내년 전망도 밝은데 주가만 반대로 간다",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "전자신문",
-    "deadline": "",
-    "pubDate": "2026-10-09",
-    "src": "전자신문",
-    "region": "global",
-    "company": "엔비디아",
-    "url": "https://www.etnews.com/20261009000007",
-    "tags": [
-      {
-        "text": "#전자신문",
-        "type": "agency"
-      },
-      {
-        "text": "#반도체·전자",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
     "id": "bizinfo_pbln_000000000127088",
     "axis": "지원사업",
     "name": "[충남] 2026년 디지털콘텐츠 제작지원(팔리는 상세페이지 제작지원) 모집 공고",
@@ -2409,6 +2381,29 @@
     "domain": []
   },
   {
+    "id": "hk_2026101139707",
+    "name": "\"4년 뒤 20배 폭증\"…삼전닉스 웃게 할 '새 먹거리' 정체",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-10-11",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/2026101139707",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "반도체·전자",
+    "sz": "small",
+    "domain": []
+  },
+  {
     "id": "hk_2026100929011",
     "name": "메모리 넘어 AI 부품·전력기기 확보전…빅테크 '5년 계약' 줄섰다",
     "sub": "",
@@ -3410,17 +3405,17 @@
     "domain": []
   },
   {
-    "id": "hk_2026100426341",
-    "name": "'K기판 르네상스'…역대 최대 수출액 노린다",
+    "id": "hk_202610113913",
+    "name": "현대차, 30년 만에 대기록 썼다…인도서 누적 판매 1000만대",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "한경",
     "deadline": "",
-    "pubDate": "2026-10-04",
+    "pubDate": "2026-10-11",
     "src": "한경",
-    "url": "https://www.hankyung.com/article/2026100426341",
+    "url": "https://www.hankyung.com/article/202610113913g",
     "tags": [
       {
         "text": "#한경",
@@ -3428,7 +3423,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "반도체·전자",
+    "category": "모빌리티·자동차",
     "sz": "small",
     "domain": []
   },
@@ -4600,25 +4595,182 @@
     "domain": []
   },
   {
-    "id": "hk_2026100314707",
-    "name": "\"20주째 내렸다는데 고작 0.4원\"…서울 휘발유 여전히 1900원",
+    "id": "itcog_전자신문_f896ecdabd",
+    "axis": "IT회사 동향",
+    "name": "구글과 손잡은 日 파나소닉…불붙는 '스마트 홈 경쟁'",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
-    "agency": "한경",
+    "agency": "전자신문",
     "deadline": "",
-    "pubDate": "2026-10-03",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026100314707",
+    "pubDate": "2026-10-11",
+    "src": "전자신문",
+    "region": "global",
+    "company": "구글",
+    "url": "https://www.etnews.com/20261008000207",
     "tags": [
       {
-        "text": "#한경",
+        "text": "#전자신문",
         "type": "agency"
       }
     ],
-    "axis": "산업별 뉴스",
-    "category": "석유화학",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_AI타임스_9c0f705b1a",
+    "axis": "IT회사 동향",
+    "name": "엔비디아, 미국 오픈소스 대표 리플렉션 AI 인수·투자 확대 논의",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-10-11",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "엔비디아",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216125",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcog_AI타임스_04dd413398",
+    "axis": "IT회사 동향",
+    "name": "엔비디아, AI 추론 칩 d-매트릭스에 투자 계획…GPU 중심 생태계 확장",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-10-10",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "엔비디아",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216122",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcog_AI타임스_826227cb73",
+    "axis": "IT회사 동향",
+    "name": "MS, 에이전트 의사결정 특화 모델 ‘디시전-1’ 공개",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-10-10",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "MS",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216107",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_AI타임스_fb5f26127c",
+    "axis": "IT회사 동향",
+    "name": "테슬라, 유럽 승인 위해 'FSD' 명칭 떼고 '보조 주행'으로 교체",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-10-10",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "테슬라",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216113",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_AI타임스_2c3529d601",
+    "axis": "IT회사 동향",
+    "name": "알리바바, 연산 단계 줄여 속도·효율 높인 '큐원 이미지 2.1 터보' 공개",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-10-10",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "알리바바",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216108",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_AI타임스_c2489544b3",
+    "axis": "IT회사 동향",
+    "name": "메타 인수 무산된 마누스, 6700억 투자 유치로 독립 경영 가속",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-10-10",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "메타",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216118",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      }
+    ],
     "sz": "small",
     "domain": []
   },
@@ -4675,243 +4827,5 @@
     "domain": [
       "AI·피지컬AI R&D"
     ]
-  },
-  {
-    "id": "itcog_AI타임스_4acad2bcb5",
-    "axis": "IT회사 동향",
-    "name": "데이터센터 전문 퍼머스, 호주 IPO 철회…'엔비디아 후광'도 안 통했다",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-09",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "엔비디아",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216103",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_ac2661f8c4",
-    "axis": "IT회사 동향",
-    "name": "애플, 10월 말 첫 터치스크린 맥북 공개...M6 칩으로 전문가 시장 공략",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-09",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "애플",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216094",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_6c24edc8d3",
-    "axis": "IT회사 동향",
-    "name": "아마존, 안드로이드 태블릿 첫 출시…프리미엄 시장 도전",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-09",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "아마존",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216099",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_7a777cf06a",
-    "axis": "IT회사 동향",
-    "name": "오픈AI 해고 연구원 3인 \"AI 추론 감시 기능 보존해야\"",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-09",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "오픈AI",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216093",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_adc086b9c1",
-    "axis": "IT회사 동향",
-    "name": "미국, 외국인 노동자 단속 강화…MS·어도비 영주권 신청 중단",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-09",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "MS",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216097",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_7b04aaf680",
-    "axis": "IT회사 동향",
-    "name": "오픈AI, 연간 매출 추정치 27조 하향…빅테크 주가 일제히 요동",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-09",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "오픈AI",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216098",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_f0739d88dd",
-    "axis": "IT회사 동향",
-    "name": "구글, 기업용 '제미나이 에이전트' 출시…'아르곤'·'클로드' 동시 탑재",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-09",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "구글",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216096",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_2f5ff57087",
-    "axis": "IT회사 동향",
-    "name": "[10월8일] “수학 문제 4000개에 AI 투입해 성과”…오픈AI가 보여준 과학연구의 변화",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-09",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "오픈AI",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216072",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_c9732b4cf8",
-    "axis": "IT회사 동향",
-    "name": "구글, 텍스트 입력으로 게임 만드는 플랫폼 공개…유니티와 협력",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-08",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "구글",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216076",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
   }
 ]
