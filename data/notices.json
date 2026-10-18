@@ -1986,117 +1986,6 @@
     ]
   },
   {
-    "id": "sf_2026_N_0200_2",
-    "axis": "지원사업",
-    "name": "[한국동서발전] 2026 대중소 상생형 스마트공장 구축 사업_고도화",
-    "sub": "(상생형)고도화-한국동서발전",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중소벤처기업부",
-    "agency": "중소기업기술정보진흥원",
-    "deadline": "2026-10-17",
-    "period": "2026-09-28 ~ 2026-10-17",
-    "src": "스마트공장닷컴",
-    "url": "https://www.smart-factory.kr/usr/bg/ba/ma/bsnsPbancDtl?pbancId=2026-N-0200&pbancSn=2",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      },
-      {
-        "text": "#TIPA",
-        "type": "agency"
-      },
-      {
-        "text": "#상생협력",
-        "type": "biztype"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AX/DX 솔루션 공급",
-      "스마트공장·제조현장 구축"
-    ]
-  },
-  {
-    "id": "sf_2026_N_0200_1",
-    "axis": "지원사업",
-    "name": "[한국동서발전] 2026 대중소 상생형 스마트공장 구축 사업_기초",
-    "sub": "(상생형)고도화-한국동서발전",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중소벤처기업부",
-    "agency": "중소기업기술정보진흥원",
-    "deadline": "2026-10-17",
-    "period": "2026-09-28 ~ 2026-10-17",
-    "src": "스마트공장닷컴",
-    "url": "https://www.smart-factory.kr/usr/bg/ba/ma/bsnsPbancDtl?pbancId=2026-N-0200&pbancSn=1",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      },
-      {
-        "text": "#TIPA",
-        "type": "agency"
-      },
-      {
-        "text": "#상생협력",
-        "type": "biztype"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AX/DX 솔루션 공급",
-      "스마트공장·제조현장 구축"
-    ]
-  },
-  {
-    "id": "sf_2026_N_0200_3",
-    "axis": "지원사업",
-    "name": "[한국동서발전] 2026 대중소 상생형 스마트공장 구축 사업_고도화(동일)",
-    "sub": "(상생형)고도화-한국동서발전",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중소벤처기업부",
-    "agency": "중소기업기술정보진흥원",
-    "deadline": "2026-10-17",
-    "period": "2026-09-28 ~ 2026-10-17",
-    "src": "스마트공장닷컴",
-    "url": "https://www.smart-factory.kr/usr/bg/ba/ma/bsnsPbancDtl?pbancId=2026-N-0200&pbancSn=3",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      },
-      {
-        "text": "#TIPA",
-        "type": "agency"
-      },
-      {
-        "text": "#상생협력",
-        "type": "biztype"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AX/DX 솔루션 공급",
-      "스마트공장·제조현장 구축"
-    ]
-  },
-  {
     "id": "sf_2026_N_0201_1",
     "axis": "지원사업",
     "name": "[한국서부발전] 2026 대중소 상생형 스마트공장 구축 사업_x",
@@ -2373,8 +2262,35 @@
     "domain": []
   },
   {
+    "id": "hk_2026101779027",
+    "name": "中 반도체 이 정도였나…'없어서 못 판다' 삼전닉스 맹추격",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-10-17",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/2026101779027",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      },
+      {
+        "text": "#반도체·전자",
+        "type": "domain"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "반도체·전자",
+    "sz": "small",
+    "domain": []
+  },
+  {
     "id": "hk_2026101667266",
-    "name": "\"반도체는 워싱턴서 결정\"…SK가 HBM 만큼 공들이는 것",
+    "name": "\"반도체는 워싱턴서 결정\"…직접 美 달려간 최태원의 승부수",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
@@ -3383,31 +3299,56 @@
     "domain": []
   },
   {
-    "id": "hk_202610141816",
-    "name": "반도체 가격 급등에 '중국산 반도체' 수출액도 2배 뛰었다",
+    "id": "hk_202610166362",
+    "name": "\"돈 아껴드리겠습니다\"…슈퍼카 CEO가 날린 '일침'",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "한경",
     "deadline": "",
-    "pubDate": "2026-10-14",
+    "pubDate": "2026-10-18",
     "src": "한경",
-    "url": "https://www.hankyung.com/article/202610141816g",
+    "url": "https://www.hankyung.com/article/202610166362g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "모빌리티·자동차",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_202610166310",
+    "name": "현대차·기아, 제조 AI 내재화 속도…로봇부터 공장 운영까지 혁신",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-10-18",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202610166310g",
     "tags": [
       {
         "text": "#한경",
         "type": "agency"
       },
       {
-        "text": "#반도체·전자",
+        "text": "#AI",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "반도체·전자",
+    "category": "AI",
     "sz": "small",
-    "domain": []
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
   },
   {
     "id": "hk_202610167277",
@@ -4861,6 +4802,126 @@
     "domain": []
   },
   {
+    "id": "itcog_AI타임스_bcb5714e6e",
+    "axis": "IT회사 동향",
+    "name": "미국 은행들, 메타 ‘뮤즈’ 계좌 접근 차단…“AI가 옮긴 돈, 누가 책임지나”",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-10-18",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "메타",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216373",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcog_AI타임스_bf5047aa6f",
+    "axis": "IT회사 동향",
+    "name": "오픈AI 도청 사건에 드러난 AI 첩보전…기업들은 이미 ‘스파이 경계’",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-10-17",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "오픈AI",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216366",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcog_AI타임스_43b8382eb0",
+    "axis": "IT회사 동향",
+    "name": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-10-17",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "오픈AI",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216364",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcog_AI타임스_b5037f1cf9",
+    "axis": "IT회사 동향",
+    "name": "오픈AI, 크롬용 '챗GPT' 확장 기능 강화...\"열린 탭 분석하고 직접 제어\"",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-10-17",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "오픈AI",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216360",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
     "id": "itcog_AI타임스_153c75bcdb",
     "axis": "IT회사 동향",
     "name": "애플 첫 폴더블 ‘아이폰 듀오’ 예판 대란…배송 최대 3개월 지연",
@@ -4907,187 +4968,5 @@
     ],
     "sz": "small",
     "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_d2fe94ef80",
-    "axis": "IT회사 동향",
-    "name": "MS, 정식 출시 앞서 2.8조 매개변수 모델 공개…‘독자 역량’ 부각",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-16",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "MS",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216337",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_f7b8920070",
-    "axis": "IT회사 동향",
-    "name": "구글 창립자 “RSI 궤도 진입...플래시부터 AI가 후속 모델 개발 참여\"",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-16",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "구글",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216350",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#참여기관",
-        "type": "role"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_7be774b93d",
-    "axis": "IT회사 동향",
-    "name": "아마존, 일상 대화 기억·요약하는 개인용 AI 웨어러블 '비' 시리즈 공개",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-16",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "아마존",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216332",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_307b223fff",
-    "axis": "IT회사 동향",
-    "name": "인텔리빅스, 30일 코스닥 상장...\"안전 AI로 국방·자율주행·선박 공략\"",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-16",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "인텔",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216333",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      },
-      {
-        "text": "#모빌리티·자동차",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_6f77e14710",
-    "axis": "IT회사 동향",
-    "name": "오픈AI 도청 혐의 직원, 사우디 왕세자 면담부터 투자사 활동까지 드러나",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-16",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "오픈AI",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216347",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_485a2a46a0",
-    "axis": "IT회사 동향",
-    "name": "\"한국어 억양 더 자연스럽게\"...오픈AI, '챗GPT 보이스' 업데이트",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-10-16",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "오픈AI",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216324",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
   }
 ]
