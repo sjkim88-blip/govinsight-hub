@@ -188,7 +188,7 @@ def main():
 
     # 전문기관·출처 태그 타입 마이그레이션: "ministry" → "agency"
     _AGENCY_TEXTS = {
-        "#KEIT", "#IITP", "#NRF", "#TIPA", "#KISTEP", "#KIAT", "#NIPA", "#KETEP",
+        "#KEIT", "#IITP", "#NRF", "#TIPA", "#KISTEP", "#KIAT", "#NIPA", "#KETEP", "#INNOPOLIS",
         "#IRIS", "#BIZINFO", "#NTIS", "#IRIS사전공고", "#전자신문", "#디지털타임스", "#KEIT이슈픽", "#AI타임스",
     }
     for it in result:
