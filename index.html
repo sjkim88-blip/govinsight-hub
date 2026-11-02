@@ -245,6 +245,13 @@ function buildDomainTabs(){
   }).join('');
 }
 
+function agencyCell(d){
+  const agency=d.agency||'';
+  if(!agency)return esc(d.src||'-');
+  if(!d.src||d.src==='수요조사'||d.src===agency)return esc(agency);
+  return esc(agency)+' <span style="color:#aaa">('+esc(d.src)+')</span>';
+}
+
 function renderGrantRows(rows){
   const tbody=document.getElementById('tbody');
   if(!rows.length){
@@ -260,7 +267,7 @@ function renderGrantRows(rows){
     const subEl=d.sub?'<div class="name-sub">'+esc(d.sub)+'</div>':'';
     const periodEl=esc(d.period||(d.deadline?'~ '+d.deadline:'-'));
     return '<tr>'
-      +'<td class="c-agency">'+esc(d.agency||'-')+'</td>'
+      +'<td class="c-agency">'+agencyCell(d)+'</td>'
       +'<td class="c-name"><div class="name-main">'+demandBadge+' '+nameEl+'</div>'+subEl+'</td>'
       +'<td class="c-period">'+periodEl+'</td>'
       +'<td class="c-deadline">'+ddayBadge(d.deadline)+'</td>'
