@@ -1166,6 +1166,36 @@
     "domain": []
   },
   {
+    "id": "itcod_삼성SDS_95c90e7ae2",
+    "axis": "IT회사 동향",
+    "name": "삼성SDS, 구미 AI 데이터센터 착공…삼성 영남권 60조 투자 계획 실행",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "삼성SDS",
+    "deadline": "",
+    "pubDate": "2026-11-02",
+    "src": "삼성SDS",
+    "region": "domestic",
+    "company": "삼성SDS",
+    "url": "https://www.samsungsds.com/kr/news/gmdc-261102.html",
+    "tags": [
+      {
+        "text": "#삼성SDS",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
     "id": "bizinfo_pbln_000000000127632",
     "axis": "지원사업",
     "name": "[충남] 서산시 2026년 친환경수산물 인증수수료 지원 사업 사업대상자 모집 공고",
@@ -4834,36 +4864,6 @@
     "category": "소재·에너지",
     "sz": "small",
     "domain": []
-  },
-  {
-    "id": "itcod_삼성SDS_95c90e7ae2",
-    "axis": "IT회사 동향",
-    "name": "삼성SDS, 구미 AI 데이터센터 착공…삼성 영남권 60조 투자 계획 실행",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "삼성SDS",
-    "deadline": "",
-    "pubDate": "2026-11-02",
-    "src": "삼성SDS",
-    "region": "domestic",
-    "company": "삼성SDS",
-    "url": "https://www.samsungsds.com/kr/news/gmdc-261102.html",
-    "tags": [
-      {
-        "text": "#삼성SDS",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
   },
   {
     "id": "itcog_전자신문_8b857c6b48",
