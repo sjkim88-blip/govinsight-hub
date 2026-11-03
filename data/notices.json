@@ -428,30 +428,6 @@
     "domain": []
   },
   {
-    "id": "itcod_CJ올리브네트웍스_c225916ebb",
-    "axis": "IT회사 동향",
-    "name": "CJ올리브네트웍스, 기업신용등급 ‘A+’ 획득… 사업 경쟁력·재무 안정성 동시 인정",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "CJ올리브네트웍스",
-    "deadline": "",
-    "pubDate": "2026-10-26",
-    "src": "CJ올리브네트웍스",
-    "region": "domestic",
-    "company": "CJ올리브네트웍스",
-    "url": "https://www.cjolivenetworks.co.kr/news/press_release/detail/872",
-    "tags": [
-      {
-        "text": "#CJ올리브네트웍스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
     "id": "kistep_017852_2",
     "axis": "지원사업",
     "name": "2026년 범부처 통합연구지원시스템 운영지원사업 신규과제 공모",
@@ -475,40 +451,6 @@
     "tags": [
       {
         "text": "#KISTEP",
-        "type": "agency"
-      },
-      {
-        "text": "#과기부",
-        "type": "ministry"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "iris_024158_5",
-    "axis": "지원사업",
-    "name": "제주특자도 과학기술혁신지원",
-    "sub": "제주특자도 과학기술혁신지원",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "과학기술정보통신부",
-    "agency": "연구개발특구진흥재단",
-    "deadline": "2026-11-02",
-    "src": "IRIS",
-    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
-    "post": {
-      "ancmId": "024158",
-      "bsnsYy": "2026",
-      "sorgnBsnsCd": "S051104",
-      "bsnsAncmSn": "5",
-      "ancmTurn": "1",
-      "hirkSorgnBsnsCd": "S049635",
-      "sorgnId": "10035"
-    },
-    "tags": [
-      {
-        "text": "#IRIS",
         "type": "agency"
       },
       {
@@ -1132,40 +1074,6 @@
     "domain": []
   },
   {
-    "id": "innopolis_024158_5",
-    "axis": "지원사업",
-    "name": "제주특자도 과학기술혁신지원",
-    "sub": "제주특자도 과학기술혁신지원",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "과학기술정보통신부",
-    "agency": "연구개발특구진흥재단",
-    "deadline": "2026-11-02",
-    "src": "INNOPOLIS",
-    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
-    "post": {
-      "ancmId": "024158",
-      "bsnsYy": "2026",
-      "sorgnBsnsCd": "S051104",
-      "bsnsAncmSn": "5",
-      "ancmTurn": "1",
-      "hirkSorgnBsnsCd": "S049635",
-      "sorgnId": "10035"
-    },
-    "tags": [
-      {
-        "text": "#INNOPOLIS",
-        "type": "agency"
-      },
-      {
-        "text": "#과기부",
-        "type": "ministry"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
     "id": "itcod_삼성SDS_95c90e7ae2",
     "axis": "IT회사 동향",
     "name": "삼성SDS, 구미 AI 데이터센터 착공…삼성 영남권 60조 투자 계획 실행",
@@ -1196,17 +1104,130 @@
     ]
   },
   {
-    "id": "bizinfo_pbln_000000000127632",
+    "id": "itcog_전자신문_8b857c6b48",
+    "axis": "IT회사 동향",
+    "name": "[단독]임문영 의원, AMD 수석부사장 만난다…광주 AI 연구센터 유치 주목",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "전자신문",
+    "deadline": "",
+    "pubDate": "2026-11-02",
+    "src": "전자신문",
+    "region": "global",
+    "company": "AMD",
+    "url": "https://www.etnews.com/20261102000324",
+    "tags": [
+      {
+        "text": "#전자신문",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "nipa_024717_2",
     "axis": "지원사업",
-    "name": "[충남] 서산시 2026년 친환경수산물 인증수수료 지원 사업 사업대상자 모집 공고",
+    "name": "「AX실증밸리조성(R&D)」 (내역3)[품목]AI 기반 에너지 운영 최적화 및 안전관리",
+    "sub": "AX실증밸리조성(R&D)(내역3.AI 기반 에너지 운영 최적화 및 안전관리)",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "정보통신산업진흥원",
+    "deadline": "2026-11-16",
+    "src": "NIPA",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "024717",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S051642",
+      "bsnsAncmSn": "2",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S051615",
+      "sorgnId": "10036"
+    },
+    "tags": [
+      {
+        "text": "#NIPA",
+        "type": "agency"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#실증",
+        "type": "biztype"
+      },
+      {
+        "text": "#AX전환",
+        "type": "biztype"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AX/DX 솔루션 공급",
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "nrf_024697_1",
+    "axis": "지원사업",
+    "name": "2026년도 국제공동연구 신속지원사업 신규과제 공모",
+    "sub": "(공동연구) 신속대응(디스플레이)",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "과학기술정보통신부",
+    "agency": "한국연구재단",
+    "deadline": "2026-11-11",
+    "src": "NRF",
+    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
+    "post": {
+      "ancmId": "024697",
+      "bsnsYy": "2026",
+      "sorgnBsnsCd": "S051658",
+      "bsnsAncmSn": "1",
+      "ancmTurn": "1",
+      "hirkSorgnBsnsCd": "S001799",
+      "sorgnId": "10001"
+    },
+    "tags": [
+      {
+        "text": "#NRF",
+        "type": "agency"
+      },
+      {
+        "text": "#과기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "bizinfo_pbln_000000000127662",
+    "axis": "지원사업",
+    "name": "[충남] 당진시 2026년 인플루언서 라이브커머스 지원 대상기업 모집 공고",
     "sub": "충청남도",
     "perProject": "확인 필요",
     "totalBudget": "-",
     "ministry": "중소벤처기업부",
-    "agency": "기초자치단체",
-    "deadline": "2026-11-13",
+    "agency": "충남산학융합원",
+    "deadline": "2026-11-03",
     "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127632",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127662",
     "tags": [
       {
         "text": "#중기부",
@@ -1217,17 +1238,105 @@
     "domain": []
   },
   {
-    "id": "bizinfo_pbln_000000000127630",
+    "id": "bizinfo_pbln_000000000127661",
     "axis": "지원사업",
-    "name": "[전남광주] 여수시 2026년 일자리 박람회 참여기업 모집 공고",
-    "sub": "전남광주통합특별시",
+    "name": "[충북] 충주시 2026년 반려동물 동반 출입업소 위생용품 구입비 지원사업 공고",
+    "sub": "충청북도",
     "perProject": "확인 필요",
     "totalBudget": "-",
     "ministry": "중소벤처기업부",
     "agency": "기초자치단체",
-    "deadline": "2026-11-13",
+    "deadline": "2026-12-04",
     "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127630",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127661",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "bizinfo_pbln_000000000127660",
+    "axis": "지원사업",
+    "name": "[경기] 화성시 2027년 유기질비료 지원사업 추가ㆍ변경 신청 공고",
+    "sub": "경기도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "기초자치단체",
+    "deadline": "2026-12-04",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127660",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "bizinfo_pbln_000000000127659",
+    "axis": "지원사업",
+    "name": "[경기] 화성시 2026년 음식점 주방 청소 비용 지원사업 대상업소 추가모집 기간연장 공고",
+    "sub": "경기도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "기초자치단체",
+    "deadline": "2026-11-03",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127659",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "bizinfo_pbln_000000000127658",
+    "axis": "지원사업",
+    "name": "2027년 브라질 상파울루 자동차부품 전시회 (Automec) 한국관 참가기업 모집 공고",
+    "sub": "산업통상부",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "대한무역투자진흥공사",
+    "deadline": "2026-11-20",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127658",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#모빌리티·자동차",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "bizinfo_pbln_000000000127657",
+    "axis": "지원사업",
+    "name": "[경북] 구미시 2026년 문화로 창업지원사업 참여 창업자 모집 공고",
+    "sub": "경상북도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "기초자치단체",
+    "deadline": "2026-11-11",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127657",
     "tags": [
       {
         "text": "#중기부",
@@ -1242,21 +1351,131 @@
     "domain": []
   },
   {
-    "id": "bizinfo_pbln_000000000127629",
+    "id": "bizinfo_pbln_000000000127656",
     "axis": "지원사업",
-    "name": "2026년 5차 방산 중소기업 컨설팅 지원사업 지원대상기업 모집 공고",
-    "sub": "방위사업청",
+    "name": "2026년 하얼빈 빙설축제 유망 소비재 판촉전 모집 공고",
+    "sub": "산업통상부",
     "perProject": "확인 필요",
     "totalBudget": "-",
     "ministry": "중소벤처기업부",
-    "agency": "한국방위산업진흥회",
-    "deadline": "2026-11-13",
+    "agency": "대한무역투자진흥공사",
+    "deadline": "2026-11-20",
     "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127629",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127656",
     "tags": [
       {
         "text": "#중기부",
         "type": "ministry"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "bizinfo_pbln_000000000127652",
+    "axis": "지원사업",
+    "name": "2026년 SK텔레콤 협력형 세종시 사회적 배려 대상자 AIㆍ디지털 건강케어 실증 참여기업 모집 공고",
+    "sub": "세종특별자치시",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "세종창조경제혁신센터",
+    "deadline": "2026-11-23",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127652",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#실증",
+        "type": "biztype"
+      },
+      {
+        "text": "#참여기관",
+        "type": "role"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "bizinfo_pbln_000000000127651",
+    "axis": "지원사업",
+    "name": "[경기] 광주시 2026년 가구문화거리 마케팅 촉진사업 개별전시회 참여기업 추가 모집 공고",
+    "sub": "경기도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "경기도경제과학진흥원",
+    "deadline": "2026-11-16",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127651",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#참여기관",
+        "type": "role"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "bizinfo_pbln_000000000127650",
+    "axis": "지원사업",
+    "name": "2027년 철도 유관기관 연계형 실용화 R&D 지원사업 공동연구개발 참여기업 재공모",
+    "sub": "과학기술정보통신부",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "한국철도기술연구원",
+    "deadline": "2026-11-06",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127650",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#참여기관",
+        "type": "role"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "bizinfo_pbln_000000000127648",
+    "axis": "지원사업",
+    "name": "[강원] 철원군 2026년 수출기업 해외물류비 지원 참여기업 모집 공고",
+    "sub": "강원특별자치도",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "강원특별자치도경제진흥원",
+    "deadline": "2026-11-30",
+    "src": "BIZINFO",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127648",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#참여기관",
+        "type": "role"
       },
       {
         "text": "#소재·에너지",
@@ -1267,230 +1486,17 @@
     "domain": []
   },
   {
-    "id": "bizinfo_pbln_000000000127628",
+    "id": "motir_71405",
     "axis": "지원사업",
-    "name": "[전북] 2026년 ICT이노베이션스퀘어 확산사업 기업협력프로젝트 참여기업 모집 공고",
-    "sub": "전북특별자치도",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중소벤처기업부",
-    "agency": "전주정보문화산업진흥원",
-    "deadline": "2026-11-04",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127628",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      },
-      {
-        "text": "#보급확산",
-        "type": "biztype"
-      },
-      {
-        "text": "#참여기관",
-        "type": "role"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "bizinfo_pbln_000000000127627",
-    "axis": "지원사업",
-    "name": "[경북] 포항시 2026년 중소기업 성능인증 및 공공조달 Fast-Track 지원사업 참여기업 모집 공고",
-    "sub": "경상북도",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중소벤처기업부",
-    "agency": "포항창조경제혁신센터",
-    "deadline": "2026-11-06",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127627",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      },
-      {
-        "text": "#참여기관",
-        "type": "role"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "bizinfo_pbln_000000000127626",
-    "axis": "지원사업",
-    "name": "2026년 11차 정보보호 인증제품 조달청 벤처나라 추천기업 모집 공고(11월 추천)",
-    "sub": "과학기술정보통신부",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중소벤처기업부",
-    "agency": "한국인터넷진흥원",
-    "deadline": "2026-11-20",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127626",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "bizinfo_pbln_000000000127625",
-    "axis": "지원사업",
-    "name": "[대구] 제8회 대한민국 사회연대경제 박람회 및 컨퍼런스 참여 지원 희망자 모집 공고",
-    "sub": "고용노동부",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중소벤처기업부",
-    "agency": "한국사회적기업진흥원",
-    "deadline": "2026-11-13",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127625",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      },
-      {
-        "text": "#참여기관",
-        "type": "role"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "bizinfo_pbln_000000000127623",
-    "axis": "지원사업",
-    "name": "2026년 2차 무기체계 부품국산화개발 지원사업 연구개발기관 모집 3차 재공고",
-    "sub": "방위사업청",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중소벤처기업부",
-    "agency": "국방기술진흥연구소",
-    "deadline": "2026-11-12",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127623",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "bizinfo_pbln_000000000127622",
-    "axis": "지원사업",
-    "name": "[세종] 2026년 일자리창출 유공 포상 추천대상 모집 공고",
-    "sub": "세종특별자치시",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중소벤처기업부",
-    "agency": "세종일자리경제진흥원",
-    "deadline": "2026-11-13",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127622",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "bizinfo_pbln_000000000127621",
-    "axis": "지원사업",
-    "name": "[경북] 2027년 지역 자율형 디지털 혁신프로젝트 신규과제 컨소시엄 모집 연장 공고",
-    "sub": "경상북도",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중소벤처기업부",
-    "agency": "포항테크노파크",
-    "deadline": "2026-11-12",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127621",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      },
-      {
-        "text": "#컨소시엄",
-        "type": "biztype"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "bizinfo_pbln_000000000127620",
-    "axis": "지원사업",
-    "name": "[전남광주] 2026년 수산물 직거래 장터ㆍ박람회 참가 지원 공고",
-    "sub": "전남광주통합특별시",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중소벤처기업부",
-    "agency": "전라남도중소기업일자리경제진흥원",
-    "deadline": "2026-11-13",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127620",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "bizinfo_pbln_000000000127618",
-    "axis": "지원사업",
-    "name": "2026년 서울시 청년 쿡 푸드테크 센터 참여 스타트업 모집 공고",
-    "sub": "서울특별시",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중소벤처기업부",
-    "agency": "청년쿡푸드테크센터",
-    "deadline": "2026-11-20",
-    "src": "BIZINFO",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000127618",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      },
-      {
-        "text": "#참여기관",
-        "type": "role"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "motir_71401",
-    "axis": "지원사업",
-    "name": "2026년 제6차 산업융합 규제샌드박스 규제특례 승인 공고",
-    "sub": "산업규제혁신과",
+    "name": "지역특화청년무역전문가양성사업(GTEP) 사업단 모집 공고",
+    "sub": "무역정책과",
     "perProject": "확인 필요",
     "totalBudget": "-",
     "ministry": "산업통상자원부",
     "agency": "",
-    "deadline": "2026-11-02",
+    "deadline": "2026-11-03",
     "src": "산자부",
-    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/71401/view",
+    "url": "https://www.motir.go.kr/kor/article/ATCL2826a2625/71405/view",
     "tags": [
       {
         "text": "#산자부",
@@ -1574,6 +1580,43 @@
       },
       {
         "text": "#반도체·전자",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AX/DX 솔루션 공급",
+      "스마트공장·제조현장 구축"
+    ]
+  },
+  {
+    "id": "sf_2026_N_0223_1",
+    "axis": "지원사업",
+    "name": "[한국교통안전공단] 대중소 상생형 스마트공장 구축지원사업_고도화",
+    "sub": "(상생형)고도화-한국교통안전공단",
+    "perProject": "확인 필요",
+    "totalBudget": "-",
+    "ministry": "중소벤처기업부",
+    "agency": "중소기업기술정보진흥원",
+    "deadline": "2026-11-06",
+    "period": "2026-10-13 ~ 2026-11-06",
+    "src": "스마트공장닷컴",
+    "url": "https://www.smart-factory.kr/usr/bg/ba/ma/bsnsPbancDtl?pbancId=2026-N-0223&pbancSn=1",
+    "tags": [
+      {
+        "text": "#중기부",
+        "type": "ministry"
+      },
+      {
+        "text": "#TIPA",
+        "type": "agency"
+      },
+      {
+        "text": "#상생협력",
+        "type": "biztype"
+      },
+      {
+        "text": "#AI",
         "type": "domain"
       }
     ],
@@ -1952,41 +1995,119 @@
     ]
   },
   {
-    "id": "sf_2026_N_0185_1",
-    "axis": "지원사업",
-    "name": "[한국국제협력단] 2026 대중소 상생형 스마트공장 구축 사업_고도화",
-    "sub": "(상생형)고도화-한국국제협력단",
-    "perProject": "확인 필요",
+    "id": "hk_202611020529",
+    "name": "식세기 설치하러 수납장 뜯었다가…\"곧 나온다\"던 신제품, 5개월째 출시 지연",
+    "sub": "",
+    "perProject": "",
     "totalBudget": "-",
-    "ministry": "중소벤처기업부",
-    "agency": "중소기업기술정보진흥원",
-    "deadline": "2026-11-13",
-    "period": "2026-08-31 ~ 2026-11-13",
-    "src": "스마트공장닷컴",
-    "url": "https://www.smart-factory.kr/usr/bg/ba/ma/bsnsPbancDtl?pbancId=2026-N-0185&pbancSn=1",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-03",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202611020529g",
     "tags": [
       {
-        "text": "#중기부",
-        "type": "ministry"
-      },
-      {
-        "text": "#TIPA",
+        "text": "#한경",
         "type": "agency"
-      },
-      {
-        "text": "#상생협력",
-        "type": "biztype"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
       }
     ],
+    "axis": "산업별 뉴스",
+    "category": "반도체·전자",
     "sz": "small",
-    "domain": [
-      "AX/DX 솔루션 공급",
-      "스마트공장·제조현장 구축"
-    ]
+    "domain": []
+  },
+  {
+    "id": "hk_202611021413",
+    "name": "리센느 뜨자 30대男 '우르르'…54만명 몰린 라방의 '반전'",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-03",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202611021413g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "반도체·전자",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_202611032537",
+    "name": "삼성, 급하게 'SOS' 보냈지만…대만 업체가 주문 거절한 이유",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-03",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202611032537g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "반도체·전자",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_202611020878",
+    "name": "\"내년 1월까지 기다릴 판\"…'아이폰' 대박에도 뜻밖의 악재",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-02",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202611020878g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "반도체·전자",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_2026110211511",
+    "name": "삼성 스마트폰, 아프리카서 첫 매출 1위",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-02",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/2026110211511",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "반도체·전자",
+    "sz": "small",
+    "domain": []
   },
   {
     "id": "hk_2026110293821",
@@ -2917,137 +3038,379 @@
     "domain": []
   },
   {
-    "id": "hk_2026102926667",
-    "name": "삼성전자, 1주당 4601원 현금배당…총 30조 규모",
+    "id": "hk_202611033028",
+    "name": "\"G80 하이브리드 시험 못 하나\"…제네시스 생산라인 이틀째 '스톱'",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "한경",
     "deadline": "",
-    "pubDate": "2026-10-29",
+    "pubDate": "2026-11-03",
     "src": "한경",
-    "url": "https://www.hankyung.com/article/2026102926667",
+    "url": "https://www.hankyung.com/article/202611033028g",
     "tags": [
       {
         "text": "#한경",
         "type": "agency"
-      },
-      {
-        "text": "#반도체·전자",
-        "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "반도체·전자",
+    "category": "모빌리티·자동차",
     "sz": "small",
     "domain": []
   },
   {
-    "id": "hk_202610291879",
-    "name": "삼성전자, 3분기 주당 4601원 배당",
+    "id": "hk_202611032768",
+    "name": "자동차 보고 금 한돈까지…충남 내포신도시 모터페스티벌 7일 개막",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "한경",
     "deadline": "",
-    "pubDate": "2026-10-29",
+    "pubDate": "2026-11-03",
     "src": "한경",
-    "url": "https://www.hankyung.com/article/202610291879i",
+    "url": "https://www.hankyung.com/article/202611032768g",
     "tags": [
       {
         "text": "#한경",
         "type": "agency"
       },
       {
-        "text": "#반도체·전자",
+        "text": "#모빌리티·자동차",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "반도체·전자",
+    "category": "모빌리티·자동차",
     "sz": "small",
     "domain": []
   },
   {
-    "id": "hk_202610292614",
-    "name": "삼성전자, 3분기 반도체 부문 영업익 106.5조",
+    "id": "hk_202611032417",
+    "name": "\"일본 상용차 시장 노린다\"…기아, 2030년까지 PBV 1000대 공급",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "한경",
     "deadline": "",
-    "pubDate": "2026-10-29",
+    "pubDate": "2026-11-03",
     "src": "한경",
-    "url": "https://www.hankyung.com/article/202610292614g",
+    "url": "https://www.hankyung.com/article/202611032417g",
     "tags": [
       {
         "text": "#한경",
         "type": "agency"
-      },
-      {
-        "text": "#반도체·전자",
-        "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "반도체·전자",
+    "category": "모빌리티·자동차",
     "sz": "small",
     "domain": []
   },
   {
-    "id": "hk_202610291858",
-    "name": "삼성전자, 3분기 영업익 107조…반도체 부문서 106조",
+    "id": "hk_202611032191",
+    "name": "\"한국서 무섭게 팔리더니\"…'이러다 큰일' 현대차도 심상찮다",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "한경",
     "deadline": "",
-    "pubDate": "2026-10-29",
+    "pubDate": "2026-11-03",
     "src": "한경",
-    "url": "https://www.hankyung.com/article/202610291858i",
+    "url": "https://www.hankyung.com/article/202611032191g",
     "tags": [
       {
         "text": "#한경",
         "type": "agency"
-      },
-      {
-        "text": "#반도체·전자",
-        "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "반도체·전자",
+    "category": "모빌리티·자동차",
     "sz": "small",
     "domain": []
   },
   {
-    "id": "hk_202610292145",
-    "name": "삼성전자, 3분기 영업익 107.4조…작년 대비 783% 증가",
+    "id": "hk_202611032384",
+    "name": "현대차, 대형·고급 정비거점 '그랜드 블루핸즈' 확대…29년까지 30곳 구축",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "한경",
     "deadline": "",
-    "pubDate": "2026-10-29",
+    "pubDate": "2026-11-03",
     "src": "한경",
-    "url": "https://www.hankyung.com/article/202610292145g",
+    "url": "https://www.hankyung.com/article/202611032384g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "모빌리티·자동차",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_202611032371",
+    "name": "3000만원대 보급형 전기차…폭스바겐 폴로, 독일에서 돌풍",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-03",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202611032371g",
     "tags": [
       {
         "text": "#한경",
         "type": "agency"
       },
       {
-        "text": "#반도체·전자",
+        "text": "#보급확산",
+        "type": "biztype"
+      },
+      {
+        "text": "#모빌리티·자동차",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "반도체·전자",
+    "category": "모빌리티·자동차",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_202611032316",
+    "name": "타타대우모빌리티, 수소엔진 탑재한 '맥쎈' 트랙터 시제품 전시",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-03",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202611032316g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      },
+      {
+        "text": "#모빌리티·자동차",
+        "type": "domain"
+      },
+      {
+        "text": "#소재·에너지",
+        "type": "domain"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "모빌리티·자동차",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_202611032152",
+    "name": "中 샤오펑, 신임 한국 대표에 이만식 볼보코리아 전무",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-03",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202611032152g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "모빌리티·자동차",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_202611031789",
+    "name": "미국행 비행기 타기 전 필수 확인…대한항공, 에볼라 서약서 의무화",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-03",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202611031789g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      },
+      {
+        "text": "#소재·에너지",
+        "type": "domain"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "소재·에너지",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_2026110211521",
+    "name": "정의선 회장 만난 李 부총리…\"전기차 생산세액공제 논의할 것\"",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-02",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/2026110211521",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      },
+      {
+        "text": "#모빌리티·자동차",
+        "type": "domain"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "모빌리티·자동차",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_202611020921",
+    "name": "GM 한국사업장, 10월 5만189대 판매…수출 28.5% 증가",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-02",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202611020921g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "모빌리티·자동차",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_202611020920",
+    "name": "KG모빌리티 10월 6537대 판매…전년 동기 대비 31% 감소",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-02",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202611020920g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      },
+      {
+        "text": "#모빌리티·자동차",
+        "type": "domain"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "모빌리티·자동차",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_202611020892",
+    "name": "르노코리아, 내수 3개월 연속 증가…'아르카나' 판매 140%↑",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-02",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202611020892g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "모빌리티·자동차",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_202611020909",
+    "name": "현대차, 10월 32만9773대 판매…전년 대비 6.3% 감소",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-02",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202611020909g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "모빌리티·자동차",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_202611020671",
+    "name": "\"50년간 살아남은 이유 있었네\"…운전 재미 꽉 잡은 '車'",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-02",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202611020671g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "모빌리티·자동차",
     "sz": "small",
     "domain": []
   },
@@ -3649,355 +4012,56 @@
     "domain": []
   },
   {
-    "id": "hk_2026102933367",
-    "name": "현대차, 영업이익률 목표 최대 7.3%에서 6.5%로 하향",
+    "id": "hk_2026110209901",
+    "name": "포스코홀딩스, 3분기 영업익 48% 증가",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "한경",
     "deadline": "",
-    "pubDate": "2026-10-29",
+    "pubDate": "2026-11-02",
     "src": "한경",
-    "url": "https://www.hankyung.com/article/2026102933367",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_2026102933357",
-    "name": "현대차 올해 판매목표 416만→400만대…투자 17.8조→16조",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-29",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026102933357",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_2026102932947",
-    "name": "현대차 3분기 영업익 2조6772억원…작년 대비 5.5%↑",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-29",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026102932947",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_202610292769",
-    "name": "삼성SDI, 3분기 영업익 4078억원…전년 동기 대비 흑자 전환",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-29",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/202610292769g",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_202610280411",
-    "name": "문짝 하나에 6년 걸렸다…제네시스 GV90 '세계 최초' 기술",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-29",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/202610280411g",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_2026102813711",
-    "name": "벤츠, 신형 전기 SUV ‘GLB’ 출시",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-28",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026102813711",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_202610289564",
-    "name": "현대차그룹 '월드 하이드로젠 엑스포 2026' 참가",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-28",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/202610289564g",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_2026102786921",
-    "name": "원가절감·기술 보안·탈중국…아틀라스가 소집한 'K부품 군단'",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-27",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026102786921",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_2026102787761",
-    "name": "씨티알·비에이치 등에 아틀라스 1만대 부품 발주",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-27",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026102787761",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_202610278605",
-    "name": "MINI코리아, 세계 최초 ‘JCW 개러지’ 국내 오픈",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-27",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/202610278605g",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_2026102772431",
-    "name": "현대차그룹, 인도에 20조 투자…전기차·자율차로 주도권 굳힌다",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-27",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026102772431",
+    "url": "https://www.hankyung.com/article/2026110209901",
     "tags": [
       {
         "text": "#한경",
         "type": "agency"
       },
       {
-        "text": "#모빌리티·자동차",
+        "text": "#철강",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
+    "category": "철강",
     "sz": "small",
     "domain": []
   },
   {
-    "id": "hk_2026102772621",
-    "name": "유럽 '전기차 캐즘' 끝났다…판매량 휘발유·경유차 첫 추월",
+    "id": "hk_202611020870",
+    "name": "포스코홀딩스, 3Q 영업익 전년比 48% 증가…\"철강이 주도\"",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "한경",
     "deadline": "",
-    "pubDate": "2026-10-27",
+    "pubDate": "2026-11-02",
     "src": "한경",
-    "url": "https://www.hankyung.com/article/2026102772621",
+    "url": "https://www.hankyung.com/article/202611020870i",
     "tags": [
       {
         "text": "#한경",
         "type": "agency"
       },
       {
-        "text": "#모빌리티·자동차",
+        "text": "#철강",
         "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_2026102772661",
-    "name": "차가 스스로 고장 찾아내 수리하고 정상인지 확인한다",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-27",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026102772661",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_2026102772701",
-    "name": "2.5초 만에 시속 100㎞ 도달…'카이엔 일렉트릭'이 온다",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-27",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026102772701",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_2026102772721",
-    "name": "날렵한 라인 드러낸 '카이엔 쿠페'…바람 타고 더 유려하게 질주",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-27",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026102772721",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
+    "category": "철강",
     "sz": "small",
     "domain": []
   },
@@ -4491,17 +4555,17 @@
     "domain": []
   },
   {
-    "id": "hk_2026102659561",
-    "name": "효성, 장애아동 가족과 2박3일 동행",
+    "id": "hk_2026110211461",
+    "name": "울산 화학기업 적자 쌓이는데…전력 공급사만 '나홀로' 호실적",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "한경",
     "deadline": "",
-    "pubDate": "2026-10-26",
+    "pubDate": "2026-11-02",
     "src": "한경",
-    "url": "https://www.hankyung.com/article/2026102659561",
+    "url": "https://www.hankyung.com/article/2026110211461",
     "tags": [
       {
         "text": "#한경",
@@ -4509,111 +4573,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_2026102643751",
-    "name": "효성, 독립·참전유공자 후손 지원…베트남 학교 교육·위생 개선",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-26",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026102643751",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "소재·에너지",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_2026102643741",
-    "name": "동국제강, '명동밥집'에 10억원 추가 후원…사재 기부가 10년의 약속으로",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-26",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026102643741",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      },
-      {
-        "text": "#철강",
-        "type": "domain"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "철강",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_202610265234",
-    "name": "이도테라원, 남동발전과 신재생 에너지 공동 개발 착수",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-26",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/202610265234i",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      },
-      {
-        "text": "#소재·에너지",
-        "type": "domain"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "소재·에너지",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_2026102639787",
-    "name": "WSJ \"트럼프 美조선업 부활의 핵심은 한화오션\"…현지 투자 주목",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-26",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026102639787",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      },
-      {
-        "text": "#소재·에너지",
-        "type": "domain"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -4866,78 +4826,44 @@
     "domain": []
   },
   {
-    "id": "itcog_전자신문_8b857c6b48",
+    "id": "itcod_CJ올리브네트웍스_30000c7dd7",
     "axis": "IT회사 동향",
-    "name": "[단독]임문영 의원, AMD 수석부사장 만난다…광주 AI 연구센터 유치 주목",
+    "name": "CJ ONE, 11월 ‘원더위크’ 개최",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
-    "agency": "전자신문",
+    "agency": "CJ올리브네트웍스",
     "deadline": "",
-    "pubDate": "2026-11-02",
-    "src": "전자신문",
-    "region": "global",
-    "company": "AMD",
-    "url": "https://www.etnews.com/20261102000324",
+    "pubDate": "2026-11-03",
+    "src": "CJ올리브네트웍스",
+    "region": "domestic",
+    "company": "CJ올리브네트웍스",
+    "url": "https://www.cjolivenetworks.co.kr/news/press_release/detail/873",
     "tags": [
       {
-        "text": "#전자신문",
+        "text": "#CJ올리브네트웍스",
         "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_89eba4a9b6",
-    "axis": "IT회사 동향",
-    "name": "구글 \"우주 데이터센터, 지구보다 구축 비용 최대 100배 비싸\"",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-02",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "구글",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216889",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
       }
     ],
     "sz": "small",
     "domain": []
   },
   {
-    "id": "itcog_AI타임스_4e18363b0b",
+    "id": "itcog_AI타임스_9673de173c",
     "axis": "IT회사 동향",
-    "name": "애플 CEO \"AI를 위한 AI는 출시 안 해\"…제품 중심 전략 고수",
+    "name": "애플, 첫 가정용 로봇 출시 지연…하드웨어 완성에도 AI 개발 난항",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "AI타임스",
     "deadline": "",
-    "pubDate": "2026-11-02",
+    "pubDate": "2026-11-03",
     "src": "AI타임스",
     "region": "global",
     "company": "애플",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216900",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216946",
     "tags": [
       {
         "text": "#AI타임스",
@@ -4954,72 +4880,20 @@
     ]
   },
   {
-    "id": "itcog_AI타임스_00f4dc7c56",
+    "id": "itcog_AI타임스_207daedad9",
     "axis": "IT회사 동향",
-    "name": "구글, '제미나이 4 카본' 공개 사흘 만에 개선판 포착…3D 성능 호평",
+    "name": "오라클·메타, AI 투자 위해 수백억달러 조달…고금리 부담에 직면",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "AI타임스",
     "deadline": "",
-    "pubDate": "2026-11-02",
+    "pubDate": "2026-11-03",
     "src": "AI타임스",
     "region": "global",
-    "company": "구글",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216888",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_fc3dba68bf",
-    "axis": "IT회사 동향",
-    "name": "핀란드, 구글  데이터센터 환경 훼손 의혹 수사…나무 40만그루 벌채 논란",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-01",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "구글",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216864",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_f11ba79d16",
-    "axis": "IT회사 동향",
-    "name": "구글, '제미나이 노트북'에 무료 교재 수백 권 추가...AI 학습 기능 확대",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-01",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "구글",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216863",
+    "company": "메타",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216944",
     "tags": [
       {
         "text": "#AI타임스",
@@ -5036,20 +4910,44 @@
     ]
   },
   {
-    "id": "itcog_AI타임스_6d97ad60b1",
+    "id": "itcog_AI타임스_598e4cda16",
     "axis": "IT회사 동향",
-    "name": "오픈AI, 투자 유치 300억달러에서 200억달러로 축소...기업가치도 하향",
+    "name": "애플, 아이폰·맥 판매 호조에도 성장 둔화…중국 매출 기대 이하",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "AI타임스",
     "deadline": "",
-    "pubDate": "2026-11-01",
+    "pubDate": "2026-11-03",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "애플",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216941",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_AI타임스_aba2f0d9ef",
+    "axis": "IT회사 동향",
+    "name": "오픈AI, UAE 석유·정부·투자 업무에 AI 에이전트 도입…4건 협약",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-11-03",
     "src": "AI타임스",
     "region": "global",
     "company": "오픈AI",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216856",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216939",
     "tags": [
       {
         "text": "#AI타임스",
@@ -5066,78 +4964,20 @@
     ]
   },
   {
-    "id": "itcog_AI타임스_ecbc865525",
+    "id": "itcog_AI타임스_627f5f5a2f",
     "axis": "IT회사 동향",
-    "name": "메타, 중국 푸리에와 휴머노이드 로봇 개발...가정용 시장 진출 추진",
+    "name": "오픈AI, 12월부터 챗GPT·코덱스 사용량 통합…기존 앱 1월 종료",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "AI타임스",
     "deadline": "",
-    "pubDate": "2026-11-01",
+    "pubDate": "2026-11-03",
     "src": "AI타임스",
     "region": "global",
-    "company": "메타",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216857",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_86db0f943f",
-    "axis": "IT회사 동향",
-    "name": "구글 \"AI 경제 혁명, 똑똑한 모델보다 협력하는 에이전트가 이끈다\"",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-01",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "구글",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216855",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_887c594c4d",
-    "axis": "IT회사 동향",
-    "name": "메타, AI 투자 부담에 신용등급 강등 경고…현금흐름 악화가 결정타",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-01",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "메타",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=216853",
+    "company": "오픈AI",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216934",
     "tags": [
       {
         "text": "#AI타임스",
