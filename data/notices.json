@@ -1046,6 +1046,132 @@
     "domain": []
   },
   {
+    "id": "itcog_전자신문_d89793fc3b",
+    "axis": "IT회사 동향",
+    "name": "지드래곤 마음도 훔친 차였는데…테슬라 '사이버트럭' 3년 만에 단종 수순",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "전자신문",
+    "deadline": "",
+    "pubDate": "2026-11-07",
+    "src": "전자신문",
+    "region": "global",
+    "company": "테슬라",
+    "url": "https://www.etnews.com/20261107000006",
+    "tags": [
+      {
+        "text": "#전자신문",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_전자신문_f08c53f1b6",
+    "axis": "IT회사 동향",
+    "name": "머스크, X에 태극기 사진 올리더니 “테슬라 코리아”…무슨 일?",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "전자신문",
+    "deadline": "",
+    "pubDate": "2026-11-06",
+    "src": "전자신문",
+    "region": "global",
+    "company": "테슬라",
+    "url": "https://www.etnews.com/20261106000362",
+    "tags": [
+      {
+        "text": "#전자신문",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_전자신문_6305a6c0e9",
+    "axis": "IT회사 동향",
+    "name": "'150억대 엔비디아칩' 싣고 사라졌다…운송트럭 두달째 행방불명",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "전자신문",
+    "deadline": "",
+    "pubDate": "2026-11-06",
+    "src": "전자신문",
+    "region": "global",
+    "company": "엔비디아",
+    "url": "https://www.etnews.com/20261106000316",
+    "tags": [
+      {
+        "text": "#전자신문",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_전자신문_0a9ce38e95",
+    "axis": "IT회사 동향",
+    "name": "“韓처럼 성과급 달라” 대만 공장 건설 멈춘 마이크론…삼전닉스, 반사이익 거둘까",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "전자신문",
+    "deadline": "",
+    "pubDate": "2026-11-06",
+    "src": "전자신문",
+    "region": "global",
+    "company": "마이크론",
+    "url": "https://www.etnews.com/20261106000307",
+    "tags": [
+      {
+        "text": "#전자신문",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_전자신문_ead2efe31e",
+    "axis": "IT회사 동향",
+    "name": "엔비디아, 'RTX 스파크' 기술 소개…차세대 'AI PC' 경험 제시",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "전자신문",
+    "deadline": "",
+    "pubDate": "2026-11-06",
+    "src": "전자신문",
+    "region": "global",
+    "company": "엔비디아",
+    "url": "https://www.etnews.com/20261106000278",
+    "tags": [
+      {
+        "text": "#전자신문",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
     "id": "bizinfo_pbln_000000000127757",
     "axis": "지원사업",
     "name": "2026년 2차 유망수출품목발굴 지원사업 참여기업 모집 추가 연장 공고",
@@ -1583,6 +1709,29 @@
     "domain": [
       "AX/DX 솔루션 공급"
     ]
+  },
+  {
+    "id": "hk_2026110825827",
+    "name": "한국서 1800만명 쓰는 '이 앱'…사용시간도 두 배 껑충",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-08",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/2026110825827",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "반도체·전자",
+    "sz": "small",
+    "domain": []
   },
   {
     "id": "hk_2026110615981",
@@ -2598,17 +2747,17 @@
     "domain": []
   },
   {
-    "id": "hk_2026110179467",
-    "name": "러닝할 때 딱이네…\"30만원에도 없어서 못 산다\"는 삼성 신제품",
+    "id": "hk_202611069961",
+    "name": "'국민 첫 차'라기엔 \"아깝다\"…확 달라진 아반떼 하이브리드",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "한경",
     "deadline": "",
-    "pubDate": "2026-11-01",
+    "pubDate": "2026-11-08",
     "src": "한경",
-    "url": "https://www.hankyung.com/article/2026110179467",
+    "url": "https://www.hankyung.com/article/202611069961g",
     "tags": [
       {
         "text": "#한경",
@@ -2616,7 +2765,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "반도체·전자",
+    "category": "모빌리티·자동차",
     "sz": "small",
     "domain": []
   },
@@ -3619,29 +3768,6 @@
     "domain": []
   },
   {
-    "id": "hk_202611020892",
-    "name": "르노코리아, 내수 3개월 연속 증가…'아르카나' 판매 140%↑",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-11-02",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/202611020892g",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
-    "sz": "small",
-    "domain": []
-  },
-  {
     "id": "hk_2026110615221",
     "name": "로봇이 벽 오르내리며 '척척'…800평 실험실 가보니",
     "sub": "",
@@ -3952,17 +4078,17 @@
     "domain": []
   },
   {
-    "id": "hk_2026103176317",
-    "name": "한화, 미 해군함정 첫 수주…3600억 美 상륙함 건조한다",
+    "id": "hk_202611083039",
+    "name": "녹색 전환 시급한데…기업 절반 이상 '전기화' 추진 계획없어",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "한경",
     "deadline": "",
-    "pubDate": "2026-10-31",
+    "pubDate": "2026-11-08",
     "src": "한경",
-    "url": "https://www.hankyung.com/article/2026103176317",
+    "url": "https://www.hankyung.com/article/202611083039i",
     "tags": [
       {
         "text": "#한경",
@@ -3970,34 +4096,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "소재·에너지",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_202610317206",
-    "name": "한화, 美 해군 함정 건조 '첫' 수주…필리조선소 인수 2년만",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-10-31",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/202610317206i",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      },
-      {
-        "text": "#소재·에너지",
-        "type": "domain"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "소재·에너지",
+    "category": "석유화학",
     "sz": "small",
     "domain": []
   },
@@ -4190,119 +4289,57 @@
     "domain": []
   },
   {
-    "id": "itcog_전자신문_d89793fc3b",
+    "id": "itcog_AI타임스_55ebe8d442",
     "axis": "IT회사 동향",
-    "name": "지드래곤 마음도 훔친 차였는데…테슬라 '사이버트럭' 3년 만에 단종 수순",
+    "name": "구글, 퀄컴 지분 7400억원 확보…AI 반도체 기업 인수로 주식 취득",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
-    "agency": "전자신문",
+    "agency": "AI타임스",
     "deadline": "",
-    "pubDate": "2026-11-07",
-    "src": "전자신문",
+    "pubDate": "2026-11-08",
+    "src": "AI타임스",
     "region": "global",
-    "company": "테슬라",
-    "url": "https://www.etnews.com/20261107000006",
+    "company": "구글",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217144",
     "tags": [
       {
-        "text": "#전자신문",
+        "text": "#AI타임스",
         "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      },
+      {
+        "text": "#반도체·전자",
+        "type": "domain"
       }
     ],
     "sz": "small",
-    "domain": []
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
   },
   {
-    "id": "itcog_전자신문_f08c53f1b6",
+    "id": "itcog_AI타임스_c4130fa20d",
     "axis": "IT회사 동향",
-    "name": "머스크, X에 태극기 사진 올리더니 “테슬라 코리아”…무슨 일?",
+    "name": "아마존, 앱 없이 문자로 쇼핑 끝낸다…AI '알렉사' 문자 쇼핑 서비스 출시",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
-    "agency": "전자신문",
+    "agency": "AI타임스",
     "deadline": "",
-    "pubDate": "2026-11-06",
-    "src": "전자신문",
+    "pubDate": "2026-11-08",
+    "src": "AI타임스",
     "region": "global",
-    "company": "테슬라",
-    "url": "https://www.etnews.com/20261106000362",
+    "company": "아마존",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217142",
     "tags": [
       {
-        "text": "#전자신문",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_전자신문_6305a6c0e9",
-    "axis": "IT회사 동향",
-    "name": "'150억대 엔비디아칩' 싣고 사라졌다…운송트럭 두달째 행방불명",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "전자신문",
-    "deadline": "",
-    "pubDate": "2026-11-06",
-    "src": "전자신문",
-    "region": "global",
-    "company": "엔비디아",
-    "url": "https://www.etnews.com/20261106000316",
-    "tags": [
-      {
-        "text": "#전자신문",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_전자신문_0a9ce38e95",
-    "axis": "IT회사 동향",
-    "name": "“韓처럼 성과급 달라” 대만 공장 건설 멈춘 마이크론…삼전닉스, 반사이익 거둘까",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "전자신문",
-    "deadline": "",
-    "pubDate": "2026-11-06",
-    "src": "전자신문",
-    "region": "global",
-    "company": "마이크론",
-    "url": "https://www.etnews.com/20261106000307",
-    "tags": [
-      {
-        "text": "#전자신문",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_전자신문_ead2efe31e",
-    "axis": "IT회사 동향",
-    "name": "엔비디아, 'RTX 스파크' 기술 소개…차세대 'AI PC' 경험 제시",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "전자신문",
-    "deadline": "",
-    "pubDate": "2026-11-06",
-    "src": "전자신문",
-    "region": "global",
-    "company": "엔비디아",
-    "url": "https://www.etnews.com/20261106000278",
-    "tags": [
-      {
-        "text": "#전자신문",
+        "text": "#AI타임스",
         "type": "agency"
       },
       {
@@ -4314,6 +4351,172 @@
     "domain": [
       "AI·피지컬AI R&D"
     ]
+  },
+  {
+    "id": "itcog_AI타임스_62be770a94",
+    "axis": "IT회사 동향",
+    "name": "오픈AI 도청 혐의 사우디 엔지니어, 법정서 무죄 주장",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-11-08",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "오픈AI",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217138",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcog_AI타임스_ab4ec33c5e",
+    "axis": "IT회사 동향",
+    "name": "엔비디아, 동남아 판매 칩 위치 추적 강화로 밀수 차단 나선다",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-11-08",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "엔비디아",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217139",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_AI타임스_a504a66c55",
+    "axis": "IT회사 동향",
+    "name": "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것과 유지할 것 구분하라\"",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-11-08",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "오픈AI",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217140",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcog_AI타임스_036afcaa54",
+    "axis": "IT회사 동향",
+    "name": "소프트뱅크·ABB, 54억달러 로봇 인수 살리려 중국 사업부 분리 검토",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-11-08",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "소프트뱅크",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217137",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_AI타임스_6eb7601fd3",
+    "axis": "IT회사 동향",
+    "name": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-11-07",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "오픈AI",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217134",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcog_AI타임스_5ecf0418e7",
+    "axis": "IT회사 동향",
+    "name": "바이두, 딥시크 앞선 '어니 5.5' 베이스 모델 공개…한국·유럽 사용 제한",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-11-07",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "바이두",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217131",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
   },
   {
     "id": "itcog_AI타임스_b81a453204",
@@ -4376,7 +4579,7 @@
   {
     "id": "itcog_AI타임스_754e53dbe9",
     "axis": "IT회사 동향",
-    "name": "오픈AI, 15조 투자 유치…목표는 41조→27조로 축소",
+    "name": "오픈AI, 기업가치 1.25조달러에 110억달러 유치…투자 목표는 하향",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
@@ -4496,234 +4699,6 @@
     "region": "global",
     "company": "MS",
     "url": "https://www.aitimes.com/news/articleView.html?idxno=217120",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_20bacae75f",
-    "axis": "IT회사 동향",
-    "name": "[11월6일] \"AI에 AI 안전 맡겼더니 일하는 척만\"…오픈AI도 원인 못 찾아",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-07",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "오픈AI",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217091",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_b45305870e",
-    "axis": "IT회사 동향",
-    "name": "구글 출신 연구진, 65B 모델로 8배 큰 AI 코딩 성능 추월…개발비도 10분의 1",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-06",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "구글",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217107",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_b6c6f969f2",
-    "axis": "IT회사 동향",
-    "name": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-06",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "엔비디아",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217096",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_b94b90aca2",
-    "axis": "IT회사 동향",
-    "name": "구글, 15초 영상 생성 '제미나이 옴니 1.2' 출시…가격 30% 인하",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-06",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "구글",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217104",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_c700331a0e",
-    "axis": "IT회사 동향",
-    "name": "메타, 표정·몸짓으로 대화하는 'AI 아바타' 출시…실시간 영상 통화 구현",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-06",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "메타",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217097",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_85ccd07859",
-    "axis": "IT회사 동향",
-    "name": "중국, 엔비디아 H200 수입 제한…60만개 홍콩에 발 묶여",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-06",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "엔비디아",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217106",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_c54913da76",
-    "axis": "IT회사 동향",
-    "name": "문샷AI, 엔비디아 블랙웰 확보 위해 유럽으로 눈 돌려...8000개 GPU 임대 추진",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-06",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "엔비디아",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217103",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_b68c220605",
-    "axis": "IT회사 동향",
-    "name": "\"아내가 챗GPT로 남편 독살 계획\"…오픈AI 피소",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-06",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "오픈AI",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217102",
     "tags": [
       {
         "text": "#AI타임스",
