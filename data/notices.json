@@ -1984,6 +1984,52 @@
     "domain": []
   },
   {
+    "id": "hk_202611157355",
+    "name": "레드테크 공습의 역설…中 수출 특수에 쾌속 항해하는 현대글로비스",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-15",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202611157355i",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "모빌리티·자동차",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_202611123213",
+    "name": "\"지금 사도 8개월 걸려\"…불티나게 팔린 '가성비 車' 정체",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-15",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202611123213g",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "모빌리티·자동차",
+    "sz": "small",
+    "domain": []
+  },
+  {
     "id": "hk_202611135997",
     "name": "HL만도, 동반성장지수 2년 연속 '최우수'",
     "sub": "",
@@ -2853,6 +2899,29 @@
     "domain": []
   },
   {
+    "id": "hk_202611157179",
+    "name": "\"3년 걸릴 군함을 1년 만에\"…HD현대 '무인수상함' 진수식 현장 가보니",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-15",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202611157179i",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "소재·에너지",
+    "sz": "small",
+    "domain": []
+  },
+  {
     "id": "hk_2026111358101",
     "name": "어느새 안방까지 치고 들어온 중국…처음으로 한국 제쳤다",
     "sub": "",
@@ -3302,20 +3371,20 @@
     "domain": []
   },
   {
-    "id": "itcog_전자신문_af2c98dd00",
+    "id": "itcog_전자신문_ee576b5722",
     "axis": "IT회사 동향",
-    "name": "정부, MS365 장애 비상대응반 구성…MS “근본 문제 해결”",
+    "name": "'젠슨 황 없는 엔비디아' 복귀론·책임론 정면충돌",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "전자신문",
     "deadline": "",
-    "pubDate": "2026-11-14",
+    "pubDate": "2026-11-15",
     "src": "전자신문",
     "region": "global",
-    "company": "MS",
-    "url": "https://www.etnews.com/20261114000035",
+    "company": "엔비디아",
+    "url": "https://www.etnews.com/20261115000051",
     "tags": [
       {
         "text": "#전자신문",
@@ -3326,83 +3395,191 @@
     "domain": []
   },
   {
-    "id": "itcog_전자신문_3799e6b589",
+    "id": "itcog_전자신문_0bda8d2247",
     "axis": "IT회사 동향",
-    "name": "오픈AI “유럽 중고생 80% AI로 숙제”…韓도 '공교육 AI 활용 기준' 실효성 높여야",
+    "name": "테슬라 2인승 로보택시 '사이버캡' 개인판매 시작",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "전자신문",
     "deadline": "",
-    "pubDate": "2026-11-14",
+    "pubDate": "2026-11-15",
     "src": "전자신문",
     "region": "global",
-    "company": "오픈AI",
-    "url": "https://www.etnews.com/20261113000219",
+    "company": "테슬라",
+    "url": "https://www.etnews.com/20261115000043",
     "tags": [
       {
         "text": "#전자신문",
         "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
       }
     ],
     "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
+    "domain": []
   },
   {
-    "id": "itcog_전자신문_31dbdabfd9",
+    "id": "itcog_AI타임스_eb179e9b83",
     "axis": "IT회사 동향",
-    "name": "로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”",
+    "name": "구글, 제미나이에 '월렛' 연결…개인 소비 분석부터 저축 계획까지",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
-    "agency": "전자신문",
+    "agency": "AI타임스",
     "deadline": "",
-    "pubDate": "2026-11-14",
-    "src": "전자신문",
-    "region": "global",
-    "company": "엔비디아",
-    "url": "https://www.etnews.com/20261114000015",
-    "tags": [
-      {
-        "text": "#전자신문",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_전자신문_3e7250b057",
-    "axis": "IT회사 동향",
-    "name": "삼성·구글·젠틀몬스터 AI 안경, 1차 예판 완판…체험예약도 마감",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "전자신문",
-    "deadline": "",
-    "pubDate": "2026-11-13",
-    "src": "전자신문",
+    "pubDate": "2026-11-15",
+    "src": "AI타임스",
     "region": "global",
     "company": "구글",
-    "url": "https://www.etnews.com/20261113000294",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217415",
     "tags": [
       {
-        "text": "#전자신문",
+        "text": "#AI타임스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_AI타임스_d018c8b32e",
+    "axis": "IT회사 동향",
+    "name": "테슬라, '사이버캡' 사전 주문 시작…월 40만원 안 내면 운행 불가",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-11-15",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "테슬라",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217417",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_AI타임스_58d605d236",
+    "axis": "IT회사 동향",
+    "name": "메타, 돈 대신 포인트 거는 예측 시장 앱 '테이크' 테스트 중",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-11-15",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "메타",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217420",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_AI타임스_fd3253dfed",
+    "axis": "IT회사 동향",
+    "name": "메타, 사용자 사진 무단 접근으로 이탈리아서 1.2조 벌금",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-11-15",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "메타",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217416",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_AI타임스_be88a7a8a3",
+    "axis": "IT회사 동향",
+    "name": "MS, 전 세계 서비스 장애 완전 복구…팩스 부활에 밈까지 등장",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-11-15",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "MS",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217414",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_AI타임스_9739f77674",
+    "axis": "IT회사 동향",
+    "name": "엔비디아 투자자들 \"젠슨 황 복귀 검토해야\"…머스크 등 거물 가세",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-11-15",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "엔비디아",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217413",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_AI타임스_ebb21a0db8",
+    "axis": "IT회사 동향",
+    "name": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-11-14",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "아마존",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217412",
+    "tags": [
+      {
+        "text": "#AI타임스",
         "type": "agency"
       },
       {
@@ -3416,23 +3593,71 @@
     ]
   },
   {
-    "id": "itcog_전자신문_672ab98dea",
+    "id": "itcog_AI타임스_adffe34f91",
     "axis": "IT회사 동향",
-    "name": "젠슨 황이 떠날 때 노렸나…美 개미들, '폭락' 엔비디아 30분 만에 '1500억' 줍줍",
+    "name": "엔비디아 직원들 \"젠슨 황 복귀시켜라\"…사내 게시물에 댓글 1600개",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
-    "agency": "전자신문",
+    "agency": "AI타임스",
     "deadline": "",
-    "pubDate": "2026-11-13",
-    "src": "전자신문",
+    "pubDate": "2026-11-14",
+    "src": "AI타임스",
     "region": "global",
     "company": "엔비디아",
-    "url": "https://www.etnews.com/20261113000286",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217410",
     "tags": [
       {
-        "text": "#전자신문",
+        "text": "#AI타임스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_AI타임스_4714d0aee2",
+    "axis": "IT회사 동향",
+    "name": "엔비디아, 차기 CEO로 Arm 하스 접촉설…이사회 \"공식 접촉 아직 없어\"",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-11-14",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "엔비디아",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217407",
+    "tags": [
+      {
+        "text": "#AI타임스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_AI타임스_e51195bc53",
+    "axis": "IT회사 동향",
+    "name": "젠슨 황 투자에 제동 걸었던 CFO가 후임으로…엔비디아 전략 바뀌나",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-11-14",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "엔비디아",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217406",
+    "tags": [
+      {
+        "text": "#AI타임스",
         "type": "agency"
       }
     ],
@@ -3468,245 +3693,5 @@
     "domain": [
       "AI·피지컬AI R&D"
     ]
-  },
-  {
-    "id": "itcog_AI타임스_19c0a1e442",
-    "axis": "IT회사 동향",
-    "name": "MS, 전 세계 서비스 장애 복구 진전...\"원인은 네트워크 작업 오류\"",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-14",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "MS",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217398",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_e3f18527d0",
-    "axis": "IT회사 동향",
-    "name": "MS 365 전 세계 장애…정부·기업 업무 차질에 챗GPT·클로드도 영향",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-13",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "MS",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217394",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_fbc0471467",
-    "axis": "IT회사 동향",
-    "name": "구글 \"검색 역대 최대 AI 모델 업그레이드\"…최신 '하이드로젠' 적용",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-13",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "구글",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217360",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_a91861be18",
-    "axis": "IT회사 동향",
-    "name": "앤트로픽, 제조업용 '클로드' 출시…오픈AI와 산업별 AI 시장 경쟁 확대",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-13",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "오픈AI",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217361",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_af189ec5a2",
-    "axis": "IT회사 동향",
-    "name": "스페이스X·테슬라 합병 협상 진전...이르면 12월 발표",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-13",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "테슬라",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217367",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_6d7b0abe99",
-    "axis": "IT회사 동향",
-    "name": "오픈AI, 아스트라 '노-CoT' 능력 향상 확인…AI 추론 감시 한계 드러나",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-13",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "오픈AI",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217369",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_4eac78dfef",
-    "axis": "IT회사 동향",
-    "name": "AMD, 양자컴퓨터 오류 수정에 GPU·SW 투입…엔비디아와 경쟁",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-13",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "엔비디아",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217381",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_AI타임스_330d1a2c05",
-    "axis": "IT회사 동향",
-    "name": "미 비영리단체 4곳, 오픈AI 등 5개사에 '최첨단 AI 개발 중단' 소송",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-13",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "오픈AI",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217372",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "itcog_AI타임스_e4644c258b",
-    "axis": "IT회사 동향",
-    "name": "소프트뱅크·엔비디아, 연 1만대 생산능력 갖춘 독일 휴머노이드 기업에 6600억 투자",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-13",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "엔비디아",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217370",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
   }
 ]
