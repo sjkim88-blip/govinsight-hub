@@ -388,122 +388,6 @@
     "domain": []
   },
   {
-    "id": "nrf_024677_3",
-    "axis": "지원사업",
-    "name": "AI 기반 재난-기술 매칭 플랫폼 구축",
-    "sub": "전문기술인활용재난재해대응기술현장화지원(R&D)",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "과학기술정보통신부",
-    "agency": "한국연구재단",
-    "deadline": "2026-11-27",
-    "src": "NRF",
-    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
-    "post": {
-      "ancmId": "024677",
-      "bsnsYy": "2027",
-      "sorgnBsnsCd": "S051222",
-      "bsnsAncmSn": "3",
-      "ancmTurn": "1",
-      "hirkSorgnBsnsCd": "S051220",
-      "sorgnId": "10001"
-    },
-    "tags": [
-      {
-        "text": "#NRF",
-        "type": "agency"
-      },
-      {
-        "text": "#과기부",
-        "type": "ministry"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AI·피지컬AI R&D"
-    ]
-  },
-  {
-    "id": "nrf_024677_2",
-    "axis": "지원사업",
-    "name": "신기술적용형 기술개발사업 공모",
-    "sub": "전문기술인활용재난재해대응기술현장화지원(R&D)",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "과학기술정보통신부",
-    "agency": "한국연구재단",
-    "deadline": "2026-11-27",
-    "src": "NRF",
-    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
-    "post": {
-      "ancmId": "024677",
-      "bsnsYy": "2027",
-      "sorgnBsnsCd": "S051222",
-      "bsnsAncmSn": "2",
-      "ancmTurn": "1",
-      "hirkSorgnBsnsCd": "S051220",
-      "sorgnId": "10001"
-    },
-    "tags": [
-      {
-        "text": "#NRF",
-        "type": "agency"
-      },
-      {
-        "text": "#과기부",
-        "type": "ministry"
-      },
-      {
-        "text": "#기술개발",
-        "type": "biztype"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "nrf_024677_1",
-    "axis": "지원사업",
-    "name": "기술연계형 기술개발사업 공모",
-    "sub": "전문기술인활용재난재해대응기술현장화지원(R&D)",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "과학기술정보통신부",
-    "agency": "한국연구재단",
-    "deadline": "2026-11-27",
-    "src": "NRF",
-    "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do",
-    "post": {
-      "ancmId": "024677",
-      "bsnsYy": "2027",
-      "sorgnBsnsCd": "S051222",
-      "bsnsAncmSn": "1",
-      "ancmTurn": "1",
-      "hirkSorgnBsnsCd": "S051220",
-      "sorgnId": "10001"
-    },
-    "tags": [
-      {
-        "text": "#NRF",
-        "type": "agency"
-      },
-      {
-        "text": "#과기부",
-        "type": "ministry"
-      },
-      {
-        "text": "#기술개발",
-        "type": "biztype"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
     "id": "kistep_017852_1",
     "axis": "지원사업",
     "name": "[테스트]접수 DB 분리",
@@ -639,47 +523,6 @@
       },
       {
         "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": [
-      "AX/DX 솔루션 공급",
-      "스마트공장·제조현장 구축"
-    ]
-  },
-  {
-    "id": "sf_2026_N_0214_2",
-    "axis": "지원사업",
-    "name": "[삼성디스플레이] 2026 대중소 상생형 스마트공장 구축 사업_고도화B-1",
-    "sub": "(상생형)고도화-삼성디스플레이",
-    "perProject": "확인 필요",
-    "totalBudget": "-",
-    "ministry": "중소벤처기업부",
-    "agency": "중소기업기술정보진흥원",
-    "deadline": "2026-11-27",
-    "period": "2026-10-14 ~ 2026-11-27",
-    "src": "스마트공장닷컴",
-    "url": "https://www.smart-factory.kr/usr/bg/ba/ma/bsnsPbancDtl?pbancId=2026-N-0214&pbancSn=2",
-    "tags": [
-      {
-        "text": "#중기부",
-        "type": "ministry"
-      },
-      {
-        "text": "#TIPA",
-        "type": "agency"
-      },
-      {
-        "text": "#상생협력",
-        "type": "biztype"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      },
-      {
-        "text": "#반도체·전자",
         "type": "domain"
       }
     ],
@@ -1431,6 +1274,114 @@
     ]
   },
   {
+    "id": "itcod_한화시스템_5671184c45",
+    "axis": "IT회사 동향",
+    "name": "한화시스템, 나토(NATO) 품질인증 획득… 글로벌 수출 경쟁력 높인다",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한화시스템",
+    "deadline": "",
+    "pubDate": "2026-11-27",
+    "src": "한화시스템",
+    "region": "domestic",
+    "company": "한화시스템",
+    "url": "https://www.hanwhasystems.com/kr/prcenter/newsView.do?bbidx=840",
+    "tags": [
+      {
+        "text": "#한화시스템",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcod_CJ올리브네트웍스_8d0ca2f4d5",
+    "axis": "IT회사 동향",
+    "name": "CJ올리브네트웍스, <어벤져스: 둠스데이> 연계 CJ ONE 연말 문화 혜택 풍성",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "CJ올리브네트웍스",
+    "deadline": "",
+    "pubDate": "2026-11-27",
+    "src": "CJ올리브네트웍스",
+    "region": "domestic",
+    "company": "CJ올리브네트웍스",
+    "url": "https://www.cjolivenetworks.co.kr/news/press_release/detail/879",
+    "tags": [
+      {
+        "text": "#CJ올리브네트웍스",
+        "type": "agency"
+      }
+    ],
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "itcog_전자신문_13368ec7ac",
+    "axis": "IT회사 동향",
+    "name": "엔비디아 칩 판매사, AI 클라우드에 “중국 기업 임대 시 칩 안 판다” 통보",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "전자신문",
+    "deadline": "",
+    "pubDate": "2026-11-27",
+    "src": "전자신문",
+    "region": "global",
+    "company": "엔비디아",
+    "url": "https://www.etnews.com/20261127000014",
+    "tags": [
+      {
+        "text": "#전자신문",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcog_전자신문_e25d83e537",
+    "axis": "IT회사 동향",
+    "name": "엔비디아, 동남아 4개국 AI 서버 출하 중단…美 '中 우회 접근' 차단 여파",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "전자신문",
+    "deadline": "",
+    "pubDate": "2026-11-27",
+    "src": "전자신문",
+    "region": "global",
+    "company": "엔비디아",
+    "url": "https://www.etnews.com/20261127000010",
+    "tags": [
+      {
+        "text": "#전자신문",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
     "id": "bizinfo_pbln_000000000128175",
     "axis": "지원사업",
     "name": "[경기] 남부권 2026년 4차 중소기업 개발생산판로 맞춤형 지원사업 통합 공고",
@@ -1615,6 +1566,60 @@
     "domain": []
   },
   {
+    "id": "hk_2026112750696",
+    "name": "삼성전자 출신 임원도 경고…韓 반도체 웃고 있을 때 아니다",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-28",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/2026112750696",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      },
+      {
+        "text": "#반도체·전자",
+        "type": "domain"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "반도체·전자",
+    "sz": "small",
+    "domain": []
+  },
+  {
+    "id": "hk_202611275169",
+    "name": "공장을 로봇 학습장으로…3D 데이터 용량 98% 줄인 그리네타",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "한경",
+    "deadline": "",
+    "pubDate": "2026-11-27",
+    "src": "한경",
+    "url": "https://www.hankyung.com/article/202611275169i",
+    "tags": [
+      {
+        "text": "#한경",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "axis": "산업별 뉴스",
+    "category": "AI",
+    "sz": "small",
+    "domain": []
+  },
+  {
     "id": "hk_2026112754131",
     "name": "AX융합硏 초대 원장에 조주완 前 LG전자 사장",
     "sub": "",
@@ -1649,7 +1654,7 @@
   },
   {
     "id": "hk_2026112754081",
-    "name": "없어서 못 판다더니…반도체 시장에 '이상 신호' 켜졌다",
+    "name": "\"없어서 못 판다더니 웬일\"…반도체 시장에 심상찮은 신호",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
@@ -2500,44 +2505,17 @@
     "domain": []
   },
   {
-    "id": "hk_2026112006631",
-    "name": "삼성, 역대급 실적 반도체서만 사장 3명 승진",
+    "id": "hk_202611274274",
+    "name": "\"요즘 중국 여행 뜬다는데\"…양양서 상하이 직항길 열린다",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "한경",
     "deadline": "",
-    "pubDate": "2026-11-20",
+    "pubDate": "2026-11-28",
     "src": "한경",
-    "url": "https://www.hankyung.com/article/2026112006631",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      },
-      {
-        "text": "#반도체·전자",
-        "type": "domain"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "반도체·전자",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_2026112007261",
-    "name": "삼성 메모리 수장 황상준…모바일은 최원준",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-11-20",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026112007261",
+    "url": "https://www.hankyung.com/article/202611274274g",
     "tags": [
       {
         "text": "#한경",
@@ -2545,107 +2523,7 @@
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "반도체·전자",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_2026112006711",
-    "name": "SK하이닉스, 日키옥시아 전환사채 주식으로 전환",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-11-20",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026112006711",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "반도체·전자",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_202611200561",
-    "name": "삼성전자, 전영현·노태문 체제 재신임",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-11-20",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/202611200561i",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      },
-      {
-        "text": "#반도체·전자",
-        "type": "domain"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "반도체·전자",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_202611209158",
-    "name": "\"최대 실적 주도\"…삼성전자 '반도체 3인방' 사장 승진",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-11-20",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/202611209158g",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      },
-      {
-        "text": "#반도체·전자",
-        "type": "domain"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "반도체·전자",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_202611209445",
-    "name": "에이직랜드, 메모리 컨트롤러 1047만달러 양산 수주",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-11-20",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/202611209445i",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "반도체·전자",
+    "category": "모빌리티·자동차",
     "sz": "small",
     "domain": []
   },
@@ -3591,27 +3469,33 @@
     "domain": []
   },
   {
-    "id": "hk_2026112350941",
-    "name": "HMM, 美 넥스트파워와 '그린세일링 서비스' 계약",
+    "id": "hk_202611285956",
+    "name": "GS, '메가프로젝트' 동해 AI 데이터센터 착공…15조원 투자",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
     "agency": "한경",
     "deadline": "",
-    "pubDate": "2026-11-23",
+    "pubDate": "2026-11-28",
     "src": "한경",
-    "url": "https://www.hankyung.com/article/2026112350941",
+    "url": "https://www.hankyung.com/article/202611285956i",
     "tags": [
       {
         "text": "#한경",
         "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
       }
     ],
     "axis": "산업별 뉴스",
-    "category": "모빌리티·자동차",
+    "category": "AI",
     "sz": "small",
-    "domain": []
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
   },
   {
     "id": "hk_2026112754231",
@@ -3763,56 +3647,6 @@
     "pubDate": "2026-11-22",
     "src": "한경",
     "url": "https://www.hankyung.com/article/2026112224841",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "소재·에너지",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_2026112006671",
-    "name": "HD현대 조선소 찾은 美해사청…함정 수주 탄력 받나",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-11-20",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/2026112006671",
-    "tags": [
-      {
-        "text": "#한경",
-        "type": "agency"
-      },
-      {
-        "text": "#소재·에너지",
-        "type": "domain"
-      }
-    ],
-    "axis": "산업별 뉴스",
-    "category": "소재·에너지",
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "hk_202611200312",
-    "name": "美 해사청 대표단, HD현대 방문…“군수지원함·항만 현대화 협력”",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "한경",
-    "deadline": "",
-    "pubDate": "2026-11-20",
-    "src": "한경",
-    "url": "https://www.hankyung.com/article/202611200312i",
     "tags": [
       {
         "text": "#한경",
@@ -4096,71 +3930,23 @@
     "domain": []
   },
   {
-    "id": "itcod_한화시스템_5671184c45",
+    "id": "itcog_AI타임스_673f03d239",
     "axis": "IT회사 동향",
-    "name": "한화시스템, 나토(NATO) 품질인증 획득… 글로벌 수출 경쟁력 높인다",
+    "name": "바이트댄스, AI 에이전트 강화학습 도구 '라미나' 공개...GPU 사용 시간 64% 절감",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
-    "agency": "한화시스템",
+    "agency": "AI타임스",
     "deadline": "",
-    "pubDate": "2026-11-27",
-    "src": "한화시스템",
-    "region": "domestic",
-    "company": "한화시스템",
-    "url": "https://www.hanwhasystems.com/kr/prcenter/newsView.do?bbidx=840",
-    "tags": [
-      {
-        "text": "#한화시스템",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcod_CJ올리브네트웍스_8d0ca2f4d5",
-    "axis": "IT회사 동향",
-    "name": "CJ올리브네트웍스, <어벤져스: 둠스데이> 연계 CJ ONE 연말 문화 혜택 풍성",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "CJ올리브네트웍스",
-    "deadline": "",
-    "pubDate": "2026-11-27",
-    "src": "CJ올리브네트웍스",
-    "region": "domestic",
-    "company": "CJ올리브네트웍스",
-    "url": "https://www.cjolivenetworks.co.kr/news/press_release/detail/879",
-    "tags": [
-      {
-        "text": "#CJ올리브네트웍스",
-        "type": "agency"
-      }
-    ],
-    "sz": "small",
-    "domain": []
-  },
-  {
-    "id": "itcog_전자신문_13368ec7ac",
-    "axis": "IT회사 동향",
-    "name": "엔비디아 칩 판매사, AI 클라우드에 “중국 기업 임대 시 칩 안 판다” 통보",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "전자신문",
-    "deadline": "",
-    "pubDate": "2026-11-27",
-    "src": "전자신문",
+    "pubDate": "2026-11-28",
+    "src": "AI타임스",
     "region": "global",
-    "company": "엔비디아",
-    "url": "https://www.etnews.com/20261127000014",
+    "company": "바이트댄스",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217894",
     "tags": [
       {
-        "text": "#전자신문",
+        "text": "#AI타임스",
         "type": "agency"
       },
       {
@@ -4174,23 +3960,53 @@
     ]
   },
   {
-    "id": "itcog_전자신문_e25d83e537",
+    "id": "itcog_AI타임스_e4730e95e4",
     "axis": "IT회사 동향",
-    "name": "엔비디아, 동남아 4개국 AI 서버 출하 중단…美 '中 우회 접근' 차단 여파",
+    "name": "오픈AI, 애플에 맞소송…\"협력업체 압박해 AI 기기 생산 방해\"",
     "sub": "",
     "perProject": "",
     "totalBudget": "-",
     "ministry": "",
-    "agency": "전자신문",
+    "agency": "AI타임스",
     "deadline": "",
-    "pubDate": "2026-11-27",
-    "src": "전자신문",
+    "pubDate": "2026-11-28",
+    "src": "AI타임스",
     "region": "global",
-    "company": "엔비디아",
-    "url": "https://www.etnews.com/20261127000010",
+    "company": "애플",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217889",
     "tags": [
       {
-        "text": "#전자신문",
+        "text": "#AI타임스",
+        "type": "agency"
+      },
+      {
+        "text": "#AI",
+        "type": "domain"
+      }
+    ],
+    "sz": "small",
+    "domain": [
+      "AI·피지컬AI R&D"
+    ]
+  },
+  {
+    "id": "itcog_AI타임스_14c747fc41",
+    "axis": "IT회사 동향",
+    "name": "텐센트, AI로 비만·암 치료 후보물질 설계…네이처에 연구 성과",
+    "sub": "",
+    "perProject": "",
+    "totalBudget": "-",
+    "ministry": "",
+    "agency": "AI타임스",
+    "deadline": "",
+    "pubDate": "2026-11-28",
+    "src": "AI타임스",
+    "region": "global",
+    "company": "텐센트",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217890",
+    "tags": [
+      {
+        "text": "#AI타임스",
         "type": "agency"
       },
       {
@@ -4346,33 +4162,5 @@
     "domain": [
       "AI·피지컬AI R&D"
     ]
-  },
-  {
-    "id": "itcog_AI타임스_ef70705253",
-    "axis": "IT회사 동향",
-    "name": "화웨이, 삼성·하이닉스에 도전…HBM4 대비 데이터 핀 두배 설계",
-    "sub": "",
-    "perProject": "",
-    "totalBudget": "-",
-    "ministry": "",
-    "agency": "AI타임스",
-    "deadline": "",
-    "pubDate": "2026-11-27",
-    "src": "AI타임스",
-    "region": "global",
-    "company": "화웨이",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=217848",
-    "tags": [
-      {
-        "text": "#AI타임스",
-        "type": "agency"
-      },
-      {
-        "text": "#AI",
-        "type": "domain"
-      }
-    ],
-    "sz": "small",
-    "domain": []
   }
 ]
